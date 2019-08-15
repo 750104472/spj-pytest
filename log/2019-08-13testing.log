@@ -1,0 +1,226 @@
+Tue, 13 Aug 2019 23:25:29-common.record_log-conftest.py-[line:74]-INFO-[日志信息]: ------------open browser------------
+Tue, 13 Aug 2019 23:25:33-common.record_log-base.py-[line:47]-INFO-[日志信息]: 加载测试地址:http://fixedserver.test.al8l.com/users/sign_in
+Tue, 13 Aug 2019 23:25:33-common.record_log-loginPage.py-[line:32]-INFO-[日志信息]: 开始登录
+Tue, 13 Aug 2019 23:25:33-common.record_log-loginPage.py-[line:41]-INFO-[日志信息]: 输入用户名:管理员
+Tue, 13 Aug 2019 23:25:33-common.record_log-loginPage.py-[line:45]-INFO-[日志信息]: 输入密码:123456
+Tue, 13 Aug 2019 23:25:34-common.record_log-loginPage.py-[line:49]-INFO-[日志信息]: 点击登录按钮
+Tue, 13 Aug 2019 23:25:39-common.record_log-base.py-[line:47]-INFO-[日志信息]: 加载测试地址:http://fixedserver.test.al8l.com/ancient/model_plates
+Tue, 13 Aug 2019 23:25:39-common.record_log-modelplatesPage.py-[line:78]-INFO-[日志信息]: 进入模板字段配置成功
+Tue, 13 Aug 2019 23:25:40-common.record_log-modelplatesPage.py-[line:85]-INFO-[日志信息]: 输入模板KEY名称：印刷品名称
+Tue, 13 Aug 2019 23:26:11-common.record_log-base.py-[line:67]-ERROR-[日志信息]: 通过定位表达式 model_plate_key_name定位元素失败:Message: 
+
+Tue, 13 Aug 2019 23:26:12-common.record_log-base.py-[line:47]-INFO-[日志信息]: 加载测试地址:http://fixedserver.test.al8l.com/users/sign_in
+Tue, 13 Aug 2019 23:26:12-common.record_log-loginPage.py-[line:32]-INFO-[日志信息]: 开始登录
+Tue, 13 Aug 2019 23:26:12-common.record_log-loginPage.py-[line:41]-INFO-[日志信息]: 输入用户名:管理员
+Tue, 13 Aug 2019 23:26:42-common.record_log-base.py-[line:67]-ERROR-[日志信息]: 通过定位表达式user_login定位元素失败:Message: 
+
+Tue, 13 Aug 2019 23:26:43-common.record_log-base.py-[line:202]-ERROR-[日志信息]: 输入框:user_login, 输入数据管理员失败:Message: 
+
+Tue, 13 Aug 2019 23:26:45-common.record_log-base.py-[line:47]-INFO-[日志信息]: 加载测试地址:http://fixedserver.test.al8l.com/users/sign_in
+Tue, 13 Aug 2019 23:26:45-common.record_log-loginPage.py-[line:32]-INFO-[日志信息]: 开始登录
+Tue, 13 Aug 2019 23:26:45-common.record_log-loginPage.py-[line:41]-INFO-[日志信息]: 输入用户名:管理员
+Tue, 13 Aug 2019 23:27:16-common.record_log-base.py-[line:67]-ERROR-[日志信息]: 通过定位表达式user_login定位元素失败:Message: 
+
+Tue, 13 Aug 2019 23:27:16-common.record_log-base.py-[line:202]-ERROR-[日志信息]: 输入框:user_login, 输入数据管理员失败:Message: 
+
+Tue, 13 Aug 2019 23:27:19-common.record_log-base.py-[line:47]-INFO-[日志信息]: 加载测试地址:http://fixedserver.test.al8l.com/users/sign_in
+Tue, 13 Aug 2019 23:27:19-common.record_log-loginPage.py-[line:32]-INFO-[日志信息]: 开始登录
+Tue, 13 Aug 2019 23:27:19-common.record_log-loginPage.py-[line:41]-INFO-[日志信息]: 输入用户名:管理员
+Tue, 13 Aug 2019 23:27:49-common.record_log-base.py-[line:67]-ERROR-[日志信息]: 通过定位表达式user_login定位元素失败:Message: 
+
+Tue, 13 Aug 2019 23:27:50-common.record_log-base.py-[line:202]-ERROR-[日志信息]: 输入框:user_login, 输入数据管理员失败:Message: 
+
+Tue, 13 Aug 2019 23:27:52-common.record_log-base.py-[line:47]-INFO-[日志信息]: 加载测试地址:http://fixedserver.test.al8l.com/users/sign_in
+Tue, 13 Aug 2019 23:27:52-common.record_log-loginPage.py-[line:32]-INFO-[日志信息]: 开始登录
+Tue, 13 Aug 2019 23:27:52-common.record_log-loginPage.py-[line:41]-INFO-[日志信息]: 输入用户名:管理员
+Tue, 13 Aug 2019 23:28:23-common.record_log-base.py-[line:67]-ERROR-[日志信息]: 通过定位表达式user_login定位元素失败:Message: 
+
+Tue, 13 Aug 2019 23:28:23-common.record_log-base.py-[line:202]-ERROR-[日志信息]: 输入框:user_login, 输入数据管理员失败:Message: 
+
+Tue, 13 Aug 2019 23:28:25-common.record_log-conftest.py-[line:78]-INFO-[日志信息]: ------------close browser------------
+Tue, 13 Aug 2019 23:28:25-common.record_log-conftest.py-[line:74]-INFO-[日志信息]: ------------open browser------------
+Tue, 13 Aug 2019 23:28:29-common.record_log-base.py-[line:47]-INFO-[日志信息]: 加载测试地址:http://fixedserver.test.al8l.com/users/sign_in
+Tue, 13 Aug 2019 23:28:29-common.record_log-loginPage.py-[line:32]-INFO-[日志信息]: 开始登录
+Tue, 13 Aug 2019 23:28:29-common.record_log-loginPage.py-[line:41]-INFO-[日志信息]: 输入用户名:管理员
+Tue, 13 Aug 2019 23:28:29-common.record_log-loginPage.py-[line:45]-INFO-[日志信息]: 输入密码:123456
+Tue, 13 Aug 2019 23:28:29-common.record_log-loginPage.py-[line:49]-INFO-[日志信息]: 点击登录按钮
+Tue, 13 Aug 2019 23:28:34-common.record_log-base.py-[line:47]-INFO-[日志信息]: 加载测试地址:http://fixedserver.test.al8l.com/ancient/model_plates
+Tue, 13 Aug 2019 23:28:35-common.record_log-modelplatesPage.py-[line:78]-INFO-[日志信息]: 进入模板字段配置成功
+Tue, 13 Aug 2019 23:28:36-common.record_log-modelplatesPage.py-[line:85]-INFO-[日志信息]: 输入模板KEY名称：备注
+Tue, 13 Aug 2019 23:29:06-common.record_log-base.py-[line:67]-ERROR-[日志信息]: 通过定位表达式 model_plate_key_name定位元素失败:Message: 
+
+Tue, 13 Aug 2019 23:29:06-common.record_log-conftest.py-[line:78]-INFO-[日志信息]: ------------close browser------------
+Tue, 13 Aug 2019 23:30:02-common.record_log-conftest.py-[line:74]-INFO-[日志信息]: ------------open browser------------
+Tue, 13 Aug 2019 23:30:06-common.record_log-base.py-[line:47]-INFO-[日志信息]: 加载测试地址:http://fixedserver.test.al8l.com/users/sign_in
+Tue, 13 Aug 2019 23:30:06-common.record_log-loginPage.py-[line:32]-INFO-[日志信息]: 开始登录
+Tue, 13 Aug 2019 23:30:06-common.record_log-loginPage.py-[line:41]-INFO-[日志信息]: 输入用户名:管理员
+Tue, 13 Aug 2019 23:30:06-common.record_log-loginPage.py-[line:45]-INFO-[日志信息]: 输入密码:123456
+Tue, 13 Aug 2019 23:30:06-common.record_log-loginPage.py-[line:49]-INFO-[日志信息]: 点击登录按钮
+Tue, 13 Aug 2019 23:30:11-common.record_log-base.py-[line:47]-INFO-[日志信息]: 加载测试地址:http://fixedserver.test.al8l.com/ancient/model_plates
+Tue, 13 Aug 2019 23:30:12-common.record_log-modelplatesPage.py-[line:78]-INFO-[日志信息]: 进入模板字段配置成功
+Tue, 13 Aug 2019 23:30:13-common.record_log-modelplatesPage.py-[line:85]-INFO-[日志信息]: 输入模板KEY名称：印刷品名称
+Tue, 13 Aug 2019 23:30:43-common.record_log-base.py-[line:67]-ERROR-[日志信息]: 通过定位表达式 model_plate_key_name定位元素失败:Message: 
+
+Tue, 13 Aug 2019 23:30:44-common.record_log-base.py-[line:47]-INFO-[日志信息]: 加载测试地址:http://fixedserver.test.al8l.com/users/sign_in
+Tue, 13 Aug 2019 23:30:44-common.record_log-loginPage.py-[line:32]-INFO-[日志信息]: 开始登录
+Tue, 13 Aug 2019 23:30:44-common.record_log-loginPage.py-[line:41]-INFO-[日志信息]: 输入用户名:管理员
+Tue, 13 Aug 2019 23:31:08-common.record_log-conftest.py-[line:78]-INFO-[日志信息]: ------------close browser------------
+Tue, 13 Aug 2019 23:34:44-common.record_log-conftest.py-[line:74]-INFO-[日志信息]: ------------open browser------------
+Tue, 13 Aug 2019 23:34:47-common.record_log-base.py-[line:47]-INFO-[日志信息]: 加载测试地址:http://fixedserver.test.al8l.com/users/sign_in
+Tue, 13 Aug 2019 23:34:47-common.record_log-loginPage.py-[line:32]-INFO-[日志信息]: 开始登录
+Tue, 13 Aug 2019 23:34:47-common.record_log-loginPage.py-[line:41]-INFO-[日志信息]: 输入用户名:管理员
+Tue, 13 Aug 2019 23:34:47-common.record_log-loginPage.py-[line:45]-INFO-[日志信息]: 输入密码:123456
+Tue, 13 Aug 2019 23:34:47-common.record_log-loginPage.py-[line:49]-INFO-[日志信息]: 点击登录按钮
+Tue, 13 Aug 2019 23:34:53-common.record_log-base.py-[line:47]-INFO-[日志信息]: 加载测试地址:http://fixedserver.test.al8l.com/ancient/model_plates
+Tue, 13 Aug 2019 23:34:53-common.record_log-modelplatesPage.py-[line:78]-INFO-[日志信息]: 进入模板字段配置成功
+Tue, 13 Aug 2019 23:34:54-common.record_log-modelplatesPage.py-[line:85]-INFO-[日志信息]: 输入模板KEY名称：印刷品名称
+Tue, 13 Aug 2019 23:34:55-common.record_log-modelplatesPage.py-[line:91]-INFO-[日志信息]: 正在选择KEY类型：录入
+Tue, 13 Aug 2019 23:35:26-common.record_log-base.py-[line:67]-ERROR-[日志信息]: 通过定位表达式 model_plate_key_position定位元素失败:Message: 
+
+Tue, 13 Aug 2019 23:35:27-common.record_log-base.py-[line:47]-INFO-[日志信息]: 加载测试地址:http://fixedserver.test.al8l.com/users/sign_in
+Tue, 13 Aug 2019 23:35:27-common.record_log-loginPage.py-[line:32]-INFO-[日志信息]: 开始登录
+Tue, 13 Aug 2019 23:35:27-common.record_log-loginPage.py-[line:41]-INFO-[日志信息]: 输入用户名:管理员
+Tue, 13 Aug 2019 23:35:57-common.record_log-base.py-[line:67]-ERROR-[日志信息]: 通过定位表达式user_login定位元素失败:Message: 
+
+Tue, 13 Aug 2019 23:35:58-common.record_log-base.py-[line:202]-ERROR-[日志信息]: 输入框:user_login, 输入数据管理员失败:Message: 
+
+Tue, 13 Aug 2019 23:36:00-common.record_log-base.py-[line:47]-INFO-[日志信息]: 加载测试地址:http://fixedserver.test.al8l.com/users/sign_in
+Tue, 13 Aug 2019 23:36:00-common.record_log-loginPage.py-[line:32]-INFO-[日志信息]: 开始登录
+Tue, 13 Aug 2019 23:36:00-common.record_log-loginPage.py-[line:41]-INFO-[日志信息]: 输入用户名:管理员
+Tue, 13 Aug 2019 23:36:17-common.record_log-conftest.py-[line:78]-INFO-[日志信息]: ------------close browser------------
+Tue, 13 Aug 2019 23:36:20-common.record_log-conftest.py-[line:74]-INFO-[日志信息]: ------------open browser------------
+Tue, 13 Aug 2019 23:36:24-common.record_log-base.py-[line:47]-INFO-[日志信息]: 加载测试地址:http://fixedserver.test.al8l.com/users/sign_in
+Tue, 13 Aug 2019 23:36:24-common.record_log-loginPage.py-[line:32]-INFO-[日志信息]: 开始登录
+Tue, 13 Aug 2019 23:36:24-common.record_log-loginPage.py-[line:41]-INFO-[日志信息]: 输入用户名:管理员
+Tue, 13 Aug 2019 23:36:24-common.record_log-loginPage.py-[line:45]-INFO-[日志信息]: 输入密码:123456
+Tue, 13 Aug 2019 23:36:24-common.record_log-loginPage.py-[line:49]-INFO-[日志信息]: 点击登录按钮
+Tue, 13 Aug 2019 23:36:29-common.record_log-base.py-[line:47]-INFO-[日志信息]: 加载测试地址:http://fixedserver.test.al8l.com/ancient/model_plates
+Tue, 13 Aug 2019 23:36:30-common.record_log-modelplatesPage.py-[line:78]-INFO-[日志信息]: 进入模板字段配置成功
+Tue, 13 Aug 2019 23:36:31-common.record_log-modelplatesPage.py-[line:85]-INFO-[日志信息]: 输入模板KEY名称：印刷品名称
+Tue, 13 Aug 2019 23:36:32-common.record_log-modelplatesPage.py-[line:91]-INFO-[日志信息]: 正在选择KEY类型：大文本
+Tue, 13 Aug 2019 23:38:27-common.record_log-conftest.py-[line:74]-INFO-[日志信息]: ------------open browser------------
+Tue, 13 Aug 2019 23:38:31-common.record_log-base.py-[line:47]-INFO-[日志信息]: 加载测试地址:http://fixedserver.test.al8l.com/users/sign_in
+Tue, 13 Aug 2019 23:38:31-common.record_log-loginPage.py-[line:32]-INFO-[日志信息]: 开始登录
+Tue, 13 Aug 2019 23:38:31-common.record_log-loginPage.py-[line:41]-INFO-[日志信息]: 输入用户名:管理员
+Tue, 13 Aug 2019 23:38:31-common.record_log-loginPage.py-[line:45]-INFO-[日志信息]: 输入密码:123456
+Tue, 13 Aug 2019 23:38:31-common.record_log-loginPage.py-[line:49]-INFO-[日志信息]: 点击登录按钮
+Tue, 13 Aug 2019 23:38:36-common.record_log-base.py-[line:47]-INFO-[日志信息]: 加载测试地址:http://fixedserver.test.al8l.com/ancient/model_plates
+Tue, 13 Aug 2019 23:38:37-common.record_log-modelplatesPage.py-[line:78]-INFO-[日志信息]: 进入模板字段配置成功
+Tue, 13 Aug 2019 23:38:37-common.record_log-modelplatesPage.py-[line:85]-INFO-[日志信息]: 输入模板KEY名称：印刷品名称
+Tue, 13 Aug 2019 23:38:39-common.record_log-modelplatesPage.py-[line:91]-INFO-[日志信息]: 正在选择KEY类型：大文本
+Tue, 13 Aug 2019 23:38:40-common.record_log-modelplatesPage.py-[line:98]-INFO-[日志信息]: 选择KEY排序：1
+Tue, 13 Aug 2019 23:38:41-common.record_log-base.py-[line:47]-INFO-[日志信息]: 加载测试地址:http://fixedserver.test.al8l.com/users/sign_in
+Tue, 13 Aug 2019 23:38:41-common.record_log-loginPage.py-[line:32]-INFO-[日志信息]: 开始登录
+Tue, 13 Aug 2019 23:38:41-common.record_log-loginPage.py-[line:41]-INFO-[日志信息]: 输入用户名:管理员
+Tue, 13 Aug 2019 23:39:11-common.record_log-base.py-[line:67]-ERROR-[日志信息]: 通过定位表达式user_login定位元素失败:Message: 
+
+Tue, 13 Aug 2019 23:39:12-common.record_log-base.py-[line:202]-ERROR-[日志信息]: 输入框:user_login, 输入数据管理员失败:Message: 
+
+Tue, 13 Aug 2019 23:39:15-common.record_log-base.py-[line:47]-INFO-[日志信息]: 加载测试地址:http://fixedserver.test.al8l.com/users/sign_in
+Tue, 13 Aug 2019 23:39:15-common.record_log-loginPage.py-[line:32]-INFO-[日志信息]: 开始登录
+Tue, 13 Aug 2019 23:39:15-common.record_log-loginPage.py-[line:41]-INFO-[日志信息]: 输入用户名:管理员
+Tue, 13 Aug 2019 23:39:27-common.record_log-conftest.py-[line:78]-INFO-[日志信息]: ------------close browser------------
+Tue, 13 Aug 2019 23:41:31-common.record_log-conftest.py-[line:74]-INFO-[日志信息]: ------------open browser------------
+Tue, 13 Aug 2019 23:41:37-common.record_log-base.py-[line:47]-INFO-[日志信息]: 加载测试地址:http://fixedserver.test.al8l.com/ancient/model_plates
+Tue, 13 Aug 2019 23:41:37-common.record_log-base.py-[line:47]-INFO-[日志信息]: 加载测试地址:http://fixedserver.test.al8l.com/ancient/model_plates
+Tue, 13 Aug 2019 23:42:08-common.record_log-base.py-[line:88]-ERROR-[日志信息]: 通过定位表达式.textc a[class]定位一组元素失败:Message: 
+
+Tue, 13 Aug 2019 23:42:10-common.record_log-base.py-[line:47]-INFO-[日志信息]: 加载测试地址:http://fixedserver.test.al8l.com/ancient/model_plates
+Tue, 13 Aug 2019 23:42:11-common.record_log-base.py-[line:47]-INFO-[日志信息]: 加载测试地址:http://fixedserver.test.al8l.com/ancient/model_plates
+Tue, 13 Aug 2019 23:42:41-common.record_log-base.py-[line:88]-ERROR-[日志信息]: 通过定位表达式.textc a[class]定位一组元素失败:Message: 
+
+Tue, 13 Aug 2019 23:42:43-common.record_log-base.py-[line:47]-INFO-[日志信息]: 加载测试地址:http://fixedserver.test.al8l.com/ancient/model_plates
+Tue, 13 Aug 2019 23:42:44-common.record_log-base.py-[line:47]-INFO-[日志信息]: 加载测试地址:http://fixedserver.test.al8l.com/ancient/model_plates
+Tue, 13 Aug 2019 23:47:26-common.record_log-base.py-[line:88]-ERROR-[日志信息]: 通过定位表达式.textc a[class]定位一组元素失败:Message: 
+
+Tue, 13 Aug 2019 23:47:30-common.record_log-base.py-[line:47]-INFO-[日志信息]: 加载测试地址:http://fixedserver.test.al8l.com/ancient/model_plates
+Tue, 13 Aug 2019 23:47:30-common.record_log-base.py-[line:47]-INFO-[日志信息]: 加载测试地址:http://fixedserver.test.al8l.com/ancient/model_plates
+Tue, 13 Aug 2019 23:48:01-common.record_log-base.py-[line:88]-ERROR-[日志信息]: 通过定位表达式.textc a[class]定位一组元素失败:Message: 
+
+Tue, 13 Aug 2019 23:48:03-common.record_log-base.py-[line:47]-INFO-[日志信息]: 加载测试地址:http://fixedserver.test.al8l.com/ancient/model_plates
+Tue, 13 Aug 2019 23:48:04-common.record_log-base.py-[line:47]-INFO-[日志信息]: 加载测试地址:http://fixedserver.test.al8l.com/ancient/model_plates
+Tue, 13 Aug 2019 23:48:35-common.record_log-base.py-[line:88]-ERROR-[日志信息]: 通过定位表达式.textc a[class]定位一组元素失败:Message: 
+
+Tue, 13 Aug 2019 23:48:36-common.record_log-conftest.py-[line:78]-INFO-[日志信息]: ------------close browser------------
+Tue, 13 Aug 2019 23:48:36-common.record_log-conftest.py-[line:74]-INFO-[日志信息]: ------------open browser------------
+Tue, 13 Aug 2019 23:48:43-common.record_log-base.py-[line:47]-INFO-[日志信息]: 加载测试地址:http://fixedserver.test.al8l.com/ancient/model_plates
+Tue, 13 Aug 2019 23:48:43-common.record_log-base.py-[line:47]-INFO-[日志信息]: 加载测试地址:http://fixedserver.test.al8l.com/ancient/model_plates
+Tue, 13 Aug 2019 23:49:14-common.record_log-base.py-[line:88]-ERROR-[日志信息]: 通过定位表达式.textc a[class]定位一组元素失败:Message: 
+
+Tue, 13 Aug 2019 23:49:16-common.record_log-conftest.py-[line:78]-INFO-[日志信息]: ------------close browser------------
+Tue, 13 Aug 2019 23:50:44-common.record_log-conftest.py-[line:75]-INFO-[日志信息]: ------------open browser------------
+Tue, 13 Aug 2019 23:50:48-common.record_log-base.py-[line:47]-INFO-[日志信息]: 加载测试地址:http://fixedserver.test.al8l.com/users/sign_in
+Tue, 13 Aug 2019 23:50:48-common.record_log-loginPage.py-[line:32]-INFO-[日志信息]: 开始登录
+Tue, 13 Aug 2019 23:50:48-common.record_log-loginPage.py-[line:41]-INFO-[日志信息]: 输入用户名:管理员
+Tue, 13 Aug 2019 23:50:48-common.record_log-loginPage.py-[line:45]-INFO-[日志信息]: 输入密码:123456
+Tue, 13 Aug 2019 23:50:48-common.record_log-loginPage.py-[line:49]-INFO-[日志信息]: 点击登录按钮
+Tue, 13 Aug 2019 23:50:53-common.record_log-base.py-[line:47]-INFO-[日志信息]: 加载测试地址:http://fixedserver.test.al8l.com/ancient/model_plates
+Tue, 13 Aug 2019 23:50:53-common.record_log-modelplatesPage.py-[line:47]-INFO-[日志信息]: 点击新增模板按钮
+Tue, 13 Aug 2019 23:50:54-common.record_log-modelplatesPage.py-[line:52]-INFO-[日志信息]: 输入模板名称：印刷服务品目
+Tue, 13 Aug 2019 23:50:55-common.record_log-modelplatesPage.py-[line:59]-INFO-[日志信息]: 正在选择一级品目：印刷服务
+Tue, 13 Aug 2019 23:50:55-common.record_log-modelplatesPage.py-[line:63]-INFO-[日志信息]: 正在选择二级品目：印刷
+Tue, 13 Aug 2019 23:50:55-common.record_log-modelplatesPage.py-[line:67]-INFO-[日志信息]: 正在保存配置模板：印刷服务品目
+Tue, 13 Aug 2019 23:50:56-common.record_log-modelplatesPage.py-[line:69]-INFO-[日志信息]: 保存配置模板：印刷服务品目成功
+Tue, 13 Aug 2019 23:50:57-common.record_log-base.py-[line:47]-INFO-[日志信息]: 加载测试地址:http://fixedserver.test.al8l.com/users/sign_in
+Tue, 13 Aug 2019 23:50:57-common.record_log-loginPage.py-[line:32]-INFO-[日志信息]: 开始登录
+Tue, 13 Aug 2019 23:50:57-common.record_log-loginPage.py-[line:41]-INFO-[日志信息]: 输入用户名:管理员
+Tue, 13 Aug 2019 23:51:27-common.record_log-base.py-[line:67]-ERROR-[日志信息]: 通过定位表达式user_login定位元素失败:Message: 
+
+Tue, 13 Aug 2019 23:51:28-common.record_log-base.py-[line:202]-ERROR-[日志信息]: 输入框:user_login, 输入数据管理员失败:Message: 
+
+Tue, 13 Aug 2019 23:51:30-common.record_log-base.py-[line:47]-INFO-[日志信息]: 加载测试地址:http://fixedserver.test.al8l.com/users/sign_in
+Tue, 13 Aug 2019 23:51:30-common.record_log-loginPage.py-[line:32]-INFO-[日志信息]: 开始登录
+Tue, 13 Aug 2019 23:51:30-common.record_log-loginPage.py-[line:41]-INFO-[日志信息]: 输入用户名:管理员
+Tue, 13 Aug 2019 23:52:00-common.record_log-base.py-[line:67]-ERROR-[日志信息]: 通过定位表达式user_login定位元素失败:Message: 
+
+Tue, 13 Aug 2019 23:52:01-common.record_log-base.py-[line:202]-ERROR-[日志信息]: 输入框:user_login, 输入数据管理员失败:Message: 
+
+Tue, 13 Aug 2019 23:52:03-common.record_log-base.py-[line:47]-INFO-[日志信息]: 加载测试地址:http://fixedserver.test.al8l.com/users/sign_in
+Tue, 13 Aug 2019 23:52:03-common.record_log-loginPage.py-[line:32]-INFO-[日志信息]: 开始登录
+Tue, 13 Aug 2019 23:52:03-common.record_log-loginPage.py-[line:41]-INFO-[日志信息]: 输入用户名:管理员
+Tue, 13 Aug 2019 23:52:19-common.record_log-conftest.py-[line:79]-INFO-[日志信息]: ------------close browser------------
+Tue, 13 Aug 2019 23:52:28-common.record_log-conftest.py-[line:75]-INFO-[日志信息]: ------------open browser------------
+Tue, 13 Aug 2019 23:52:33-common.record_log-base.py-[line:47]-INFO-[日志信息]: 加载测试地址:http://fixedserver.test.al8l.com/users/sign_in
+Tue, 13 Aug 2019 23:52:33-common.record_log-loginPage.py-[line:32]-INFO-[日志信息]: 开始登录
+Tue, 13 Aug 2019 23:52:33-common.record_log-loginPage.py-[line:41]-INFO-[日志信息]: 输入用户名:管理员
+Tue, 13 Aug 2019 23:52:33-common.record_log-loginPage.py-[line:45]-INFO-[日志信息]: 输入密码:123456
+Tue, 13 Aug 2019 23:52:33-common.record_log-loginPage.py-[line:49]-INFO-[日志信息]: 点击登录按钮
+Tue, 13 Aug 2019 23:52:38-common.record_log-base.py-[line:47]-INFO-[日志信息]: 加载测试地址:http://fixedserver.test.al8l.com/ancient/model_plates
+Tue, 13 Aug 2019 23:52:38-common.record_log-modelplatesPage.py-[line:47]-INFO-[日志信息]: 点击新增模板按钮
+Tue, 13 Aug 2019 23:52:39-common.record_log-modelplatesPage.py-[line:52]-INFO-[日志信息]: 输入模板名称：印刷服务品目
+Tue, 13 Aug 2019 23:52:40-common.record_log-modelplatesPage.py-[line:59]-INFO-[日志信息]: 正在选择一级品目：印刷服务
+Tue, 13 Aug 2019 23:52:41-common.record_log-modelplatesPage.py-[line:63]-INFO-[日志信息]: 正在选择二级品目：印刷
+Tue, 13 Aug 2019 23:52:41-common.record_log-modelplatesPage.py-[line:67]-INFO-[日志信息]: 正在保存配置模板：印刷服务品目
+Tue, 13 Aug 2019 23:52:42-common.record_log-modelplatesPage.py-[line:69]-INFO-[日志信息]: 保存配置模板：印刷服务品目成功
+Tue, 13 Aug 2019 23:53:17-common.record_log-base.py-[line:47]-INFO-[日志信息]: 加载测试地址:http://fixedserver.test.al8l.com/users/sign_in
+Tue, 13 Aug 2019 23:53:17-common.record_log-loginPage.py-[line:32]-INFO-[日志信息]: 开始登录
+Tue, 13 Aug 2019 23:53:17-common.record_log-loginPage.py-[line:41]-INFO-[日志信息]: 输入用户名:管理员
+Tue, 13 Aug 2019 23:53:48-common.record_log-base.py-[line:67]-ERROR-[日志信息]: 通过定位表达式user_login定位元素失败:Message: 
+
+Tue, 13 Aug 2019 23:53:48-common.record_log-base.py-[line:202]-ERROR-[日志信息]: 输入框:user_login, 输入数据管理员失败:Message: 
+
+Tue, 13 Aug 2019 23:54:12-common.record_log-base.py-[line:47]-INFO-[日志信息]: 加载测试地址:http://fixedserver.test.al8l.com/users/sign_in
+Tue, 13 Aug 2019 23:54:12-common.record_log-loginPage.py-[line:32]-INFO-[日志信息]: 开始登录
+Tue, 13 Aug 2019 23:54:12-common.record_log-loginPage.py-[line:41]-INFO-[日志信息]: 输入用户名:管理员
+Tue, 13 Aug 2019 23:54:20-common.record_log-conftest.py-[line:75]-INFO-[日志信息]: ------------open browser------------
+Tue, 13 Aug 2019 23:54:24-common.record_log-base.py-[line:47]-INFO-[日志信息]: 加载测试地址:http://fixedserver.test.al8l.com/users/sign_in
+Tue, 13 Aug 2019 23:54:24-common.record_log-loginPage.py-[line:32]-INFO-[日志信息]: 开始登录
+Tue, 13 Aug 2019 23:54:24-common.record_log-loginPage.py-[line:41]-INFO-[日志信息]: 输入用户名:管理员
+Tue, 13 Aug 2019 23:54:24-common.record_log-loginPage.py-[line:45]-INFO-[日志信息]: 输入密码:123456
+Tue, 13 Aug 2019 23:54:25-common.record_log-loginPage.py-[line:49]-INFO-[日志信息]: 点击登录按钮
+Tue, 13 Aug 2019 23:54:30-common.record_log-base.py-[line:47]-INFO-[日志信息]: 加载测试地址:http://fixedserver.test.al8l.com/ancient/model_plates
+Tue, 13 Aug 2019 23:54:30-common.record_log-modelplatesPage.py-[line:78]-INFO-[日志信息]: 进入模板字段配置成功
+Tue, 13 Aug 2019 23:54:31-common.record_log-modelplatesPage.py-[line:85]-INFO-[日志信息]: 输入模板KEY名称：印刷品名称
+Tue, 13 Aug 2019 23:54:32-common.record_log-modelplatesPage.py-[line:91]-INFO-[日志信息]: 正在选择KEY类型：大文本
+Tue, 13 Aug 2019 23:54:34-common.record_log-modelplatesPage.py-[line:98]-INFO-[日志信息]: 选择KEY排序：1
+Tue, 13 Aug 2019 23:54:35-common.record_log-base.py-[line:47]-INFO-[日志信息]: 加载测试地址:http://fixedserver.test.al8l.com/users/sign_in
+Tue, 13 Aug 2019 23:54:35-common.record_log-loginPage.py-[line:32]-INFO-[日志信息]: 开始登录
+Tue, 13 Aug 2019 23:54:35-common.record_log-loginPage.py-[line:41]-INFO-[日志信息]: 输入用户名:管理员
+Tue, 13 Aug 2019 23:54:42-common.record_log-base.py-[line:67]-ERROR-[日志信息]: 通过定位表达式user_login定位元素失败:Message: 
+
+Tue, 13 Aug 2019 23:54:43-common.record_log-base.py-[line:202]-ERROR-[日志信息]: 输入框:user_login, 输入数据管理员失败:Message: 
+
+Tue, 13 Aug 2019 23:54:46-common.record_log-base.py-[line:47]-INFO-[日志信息]: 加载测试地址:http://fixedserver.test.al8l.com/users/sign_in
+Tue, 13 Aug 2019 23:54:46-common.record_log-loginPage.py-[line:32]-INFO-[日志信息]: 开始登录
+Tue, 13 Aug 2019 23:54:46-common.record_log-loginPage.py-[line:41]-INFO-[日志信息]: 输入用户名:管理员
+Tue, 13 Aug 2019 23:54:55-common.record_log-conftest.py-[line:82]-INFO-[日志信息]: ------------close browser------------

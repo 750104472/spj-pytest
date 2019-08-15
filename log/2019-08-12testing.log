@@ -1,0 +1,369 @@
+Mon, 12 Aug 2019 21:01:31-common.record_log-conftest.py-[line:74]-INFO-[日志信息]: ------------open browser------------
+Mon, 12 Aug 2019 21:01:36-common.record_log-base.py-[line:46]-INFO-[日志信息]: 加载测试地址:http://120.78.128.25:8765/Index/login.html
+Mon, 12 Aug 2019 21:01:36-common.record_log-loginPage.py-[line:31]-INFO-[日志信息]: 开始登录
+Mon, 12 Aug 2019 21:01:36-common.record_log-loginPage.py-[line:40]-INFO-[日志信息]: 输入用户名:18684720553
+Mon, 12 Aug 2019 21:01:36-common.record_log-loginPage.py-[line:44]-INFO-[日志信息]: 输入密码:python
+Mon, 12 Aug 2019 21:01:36-common.record_log-loginPage.py-[line:48]-INFO-[日志信息]: 点击登录按钮
+Mon, 12 Aug 2019 21:01:58-common.record_log-base.py-[line:226]-INFO-[日志信息]: 获取元素文本内容:我的帐户[python10]
+Mon, 12 Aug 2019 21:01:58-common.record_log-loginPage.py-[line:66]-INFO-[日志信息]: 获取登录成功断言信息:我的帐户[python10]
+Mon, 12 Aug 2019 21:01:58-common.record_log-test_login.py-[line:46]-INFO-[日志信息]: 测试用例test_login_success-18684720553-python测试通过
+Mon, 12 Aug 2019 21:01:58-common.record_log-base.py-[line:46]-INFO-[日志信息]: 加载测试地址:http://120.78.128.25:8765/Index/login.html
+Mon, 12 Aug 2019 21:01:58-common.record_log-loginPage.py-[line:31]-INFO-[日志信息]: 开始登录
+Mon, 12 Aug 2019 21:01:58-common.record_log-loginPage.py-[line:40]-INFO-[日志信息]: 输入用户名:
+Mon, 12 Aug 2019 21:01:58-common.record_log-loginPage.py-[line:44]-INFO-[日志信息]: 输入密码:python
+Mon, 12 Aug 2019 21:01:58-common.record_log-loginPage.py-[line:48]-INFO-[日志信息]: 点击登录按钮
+Mon, 12 Aug 2019 21:01:58-common.record_log-base.py-[line:226]-INFO-[日志信息]: 获取元素文本内容:请输入手机号
+Mon, 12 Aug 2019 21:01:58-common.record_log-loginPage.py-[line:54]-INFO-[日志信息]: 获取登录失败断言信息:请输入手机号
+Mon, 12 Aug 2019 21:01:58-common.record_log-test_login.py-[line:69]-INFO-[日志信息]: 测试用例test_login_format_error--python测试通过
+Mon, 12 Aug 2019 21:01:59-common.record_log-base.py-[line:46]-INFO-[日志信息]: 加载测试地址:http://120.78.128.25:8765/Index/login.html
+Mon, 12 Aug 2019 21:01:59-common.record_log-loginPage.py-[line:31]-INFO-[日志信息]: 开始登录
+Mon, 12 Aug 2019 21:01:59-common.record_log-loginPage.py-[line:40]-INFO-[日志信息]: 输入用户名:18684720553
+Mon, 12 Aug 2019 21:01:59-common.record_log-loginPage.py-[line:44]-INFO-[日志信息]: 输入密码:
+Mon, 12 Aug 2019 21:01:59-common.record_log-loginPage.py-[line:48]-INFO-[日志信息]: 点击登录按钮
+Mon, 12 Aug 2019 21:01:59-common.record_log-base.py-[line:226]-INFO-[日志信息]: 获取元素文本内容:请输入密码
+Mon, 12 Aug 2019 21:01:59-common.record_log-loginPage.py-[line:54]-INFO-[日志信息]: 获取登录失败断言信息:请输入密码
+Mon, 12 Aug 2019 21:01:59-common.record_log-test_login.py-[line:69]-INFO-[日志信息]: 测试用例test_login_format_error-18684720553-测试通过
+Mon, 12 Aug 2019 21:02:00-common.record_log-base.py-[line:46]-INFO-[日志信息]: 加载测试地址:http://120.78.128.25:8765/Index/login.html
+Mon, 12 Aug 2019 21:02:00-common.record_log-loginPage.py-[line:31]-INFO-[日志信息]: 开始登录
+Mon, 12 Aug 2019 21:02:00-common.record_log-loginPage.py-[line:40]-INFO-[日志信息]: 输入用户名:
+Mon, 12 Aug 2019 21:02:00-common.record_log-loginPage.py-[line:44]-INFO-[日志信息]: 输入密码:
+Mon, 12 Aug 2019 21:02:00-common.record_log-loginPage.py-[line:48]-INFO-[日志信息]: 点击登录按钮
+Mon, 12 Aug 2019 21:02:00-common.record_log-base.py-[line:226]-INFO-[日志信息]: 获取元素文本内容:请输入手机号
+Mon, 12 Aug 2019 21:02:00-common.record_log-loginPage.py-[line:54]-INFO-[日志信息]: 获取登录失败断言信息:请输入手机号
+Mon, 12 Aug 2019 21:02:00-common.record_log-test_login.py-[line:69]-INFO-[日志信息]: 测试用例test_login_format_error--测试通过
+Mon, 12 Aug 2019 21:02:00-common.record_log-base.py-[line:46]-INFO-[日志信息]: 加载测试地址:http://120.78.128.25:8765/Index/login.html
+Mon, 12 Aug 2019 21:02:00-common.record_log-loginPage.py-[line:31]-INFO-[日志信息]: 开始登录
+Mon, 12 Aug 2019 21:02:00-common.record_log-loginPage.py-[line:40]-INFO-[日志信息]: 输入用户名:12345678901
+Mon, 12 Aug 2019 21:02:00-common.record_log-loginPage.py-[line:44]-INFO-[日志信息]: 输入密码:python
+Mon, 12 Aug 2019 21:02:00-common.record_log-loginPage.py-[line:48]-INFO-[日志信息]: 点击登录按钮
+Mon, 12 Aug 2019 21:02:00-common.record_log-base.py-[line:226]-INFO-[日志信息]: 获取元素文本内容:请输入正确的手机号
+Mon, 12 Aug 2019 21:02:00-common.record_log-loginPage.py-[line:54]-INFO-[日志信息]: 获取登录失败断言信息:请输入正确的手机号
+Mon, 12 Aug 2019 21:02:00-common.record_log-test_login.py-[line:69]-INFO-[日志信息]: 测试用例test_login_format_error-12345678901-python测试通过
+Mon, 12 Aug 2019 21:02:01-common.record_log-base.py-[line:46]-INFO-[日志信息]: 加载测试地址:http://120.78.128.25:8765/Index/login.html
+Mon, 12 Aug 2019 21:02:01-common.record_log-loginPage.py-[line:31]-INFO-[日志信息]: 开始登录
+Mon, 12 Aug 2019 21:02:01-common.record_log-loginPage.py-[line:40]-INFO-[日志信息]: 输入用户名:18684720551
+Mon, 12 Aug 2019 21:02:01-common.record_log-loginPage.py-[line:44]-INFO-[日志信息]: 输入密码:python
+Mon, 12 Aug 2019 21:02:01-common.record_log-loginPage.py-[line:48]-INFO-[日志信息]: 点击登录按钮
+Mon, 12 Aug 2019 21:02:01-common.record_log-base.py-[line:226]-INFO-[日志信息]: 获取元素文本内容:此账号没有经过授权，请联系管理员!
+Mon, 12 Aug 2019 21:02:01-common.record_log-loginPage.py-[line:60]-INFO-[日志信息]: 获取登陆失败断言信息:此账号没有经过授权，请联系管理员!
+Mon, 12 Aug 2019 21:02:01-common.record_log-test_login.py-[line:85]-INFO-[日志信息]: 测试用例test_login_account_error-18684720551-python测试失败
+断言失败
+assert '帐号或密码错误!' == '此账号没有经过授权，请联系管理员!'
+  - 帐号或密码错误!
+  + 此账号没有经过授权，请联系管理员!
+Mon, 12 Aug 2019 21:02:02-common.record_log-base.py-[line:46]-INFO-[日志信息]: 加载测试地址:http://120.78.128.25:8765/Index/login.html
+Mon, 12 Aug 2019 21:02:02-common.record_log-loginPage.py-[line:31]-INFO-[日志信息]: 开始登录
+Mon, 12 Aug 2019 21:02:02-common.record_log-loginPage.py-[line:40]-INFO-[日志信息]: 输入用户名:18684720551
+Mon, 12 Aug 2019 21:02:02-common.record_log-loginPage.py-[line:44]-INFO-[日志信息]: 输入密码:python
+Mon, 12 Aug 2019 21:02:02-common.record_log-loginPage.py-[line:48]-INFO-[日志信息]: 点击登录按钮
+Mon, 12 Aug 2019 21:02:02-common.record_log-base.py-[line:226]-INFO-[日志信息]: 获取元素文本内容:此账号没有经过授权，请联系管理员!
+Mon, 12 Aug 2019 21:02:02-common.record_log-loginPage.py-[line:60]-INFO-[日志信息]: 获取登陆失败断言信息:此账号没有经过授权，请联系管理员!
+Mon, 12 Aug 2019 21:02:02-common.record_log-test_login.py-[line:85]-INFO-[日志信息]: 测试用例test_login_account_error-18684720551-python测试失败
+断言失败
+assert '帐号或密码错误!' == '此账号没有经过授权，请联系管理员!'
+  - 帐号或密码错误!
+  + 此账号没有经过授权，请联系管理员!
+Mon, 12 Aug 2019 21:02:03-common.record_log-base.py-[line:46]-INFO-[日志信息]: 加载测试地址:http://120.78.128.25:8765/Index/login.html
+Mon, 12 Aug 2019 21:02:03-common.record_log-loginPage.py-[line:31]-INFO-[日志信息]: 开始登录
+Mon, 12 Aug 2019 21:02:03-common.record_log-loginPage.py-[line:40]-INFO-[日志信息]: 输入用户名:18684720553
+Mon, 12 Aug 2019 21:02:03-common.record_log-loginPage.py-[line:44]-INFO-[日志信息]: 输入密码:pwd_error
+Mon, 12 Aug 2019 21:02:03-common.record_log-loginPage.py-[line:48]-INFO-[日志信息]: 点击登录按钮
+Mon, 12 Aug 2019 21:02:03-common.record_log-base.py-[line:226]-INFO-[日志信息]: 获取元素文本内容:帐号或密码错误!
+Mon, 12 Aug 2019 21:02:03-common.record_log-loginPage.py-[line:60]-INFO-[日志信息]: 获取登陆失败断言信息:帐号或密码错误!
+Mon, 12 Aug 2019 21:02:03-common.record_log-test_login.py-[line:92]-INFO-[日志信息]: 测试用例test_login_account_error-18684720553-pwd_error测试通过
+Mon, 12 Aug 2019 21:02:04-common.record_log-base.py-[line:46]-INFO-[日志信息]: 加载测试地址:http://120.78.128.25:8765/Index/login.html
+Mon, 12 Aug 2019 21:02:04-common.record_log-loginPage.py-[line:31]-INFO-[日志信息]: 开始登录
+Mon, 12 Aug 2019 21:02:04-common.record_log-loginPage.py-[line:40]-INFO-[日志信息]: 输入用户名:13691579846
+Mon, 12 Aug 2019 21:02:04-common.record_log-loginPage.py-[line:44]-INFO-[日志信息]: 输入密码:123456
+Mon, 12 Aug 2019 21:02:04-common.record_log-loginPage.py-[line:48]-INFO-[日志信息]: 点击登录按钮
+Mon, 12 Aug 2019 21:02:04-common.record_log-base.py-[line:226]-INFO-[日志信息]: 获取元素文本内容:帐号或密码错误!
+Mon, 12 Aug 2019 21:02:04-common.record_log-loginPage.py-[line:60]-INFO-[日志信息]: 获取登陆失败断言信息:帐号或密码错误!
+Mon, 12 Aug 2019 21:02:04-common.record_log-test_login.py-[line:85]-INFO-[日志信息]: 测试用例test_login_account_error-13691579846-123456测试失败
+断言失败
+assert '用户不存在!' == '帐号或密码错误!'
+  - 用户不存在!
+  + 帐号或密码错误!
+Mon, 12 Aug 2019 21:02:04-common.record_log-conftest.py-[line:78]-INFO-[日志信息]: ------------close browser------------
+Mon, 12 Aug 2019 21:02:07-common.record_log-conftest.py-[line:74]-INFO-[日志信息]: ------------open browser------------
+Mon, 12 Aug 2019 21:02:12-common.record_log-base.py-[line:46]-INFO-[日志信息]: 加载测试地址:http://120.78.128.25:8765/Index/login.html
+Mon, 12 Aug 2019 21:02:12-common.record_log-loginPage.py-[line:31]-INFO-[日志信息]: 开始登录
+Mon, 12 Aug 2019 21:02:12-common.record_log-loginPage.py-[line:40]-INFO-[日志信息]: 输入用户名:13691579846
+Mon, 12 Aug 2019 21:02:12-common.record_log-loginPage.py-[line:44]-INFO-[日志信息]: 输入密码:123456
+Mon, 12 Aug 2019 21:02:12-common.record_log-loginPage.py-[line:48]-INFO-[日志信息]: 点击登录按钮
+Mon, 12 Aug 2019 21:02:12-common.record_log-base.py-[line:226]-INFO-[日志信息]: 获取元素文本内容:帐号或密码错误!
+Mon, 12 Aug 2019 21:02:12-common.record_log-loginPage.py-[line:60]-INFO-[日志信息]: 获取登陆失败断言信息:帐号或密码错误!
+Mon, 12 Aug 2019 21:02:12-common.record_log-test_login.py-[line:85]-INFO-[日志信息]: 测试用例test_login_account_error-13691579846-123456测试失败
+断言失败
+assert '用户不存在!' == '帐号或密码错误!'
+  - 用户不存在!
+  + 帐号或密码错误!
+Mon, 12 Aug 2019 21:02:13-common.record_log-conftest.py-[line:78]-INFO-[日志信息]: ------------close browser------------
+Mon, 12 Aug 2019 21:26:54-common.record_log-conftest.py-[line:74]-INFO-[日志信息]: ------------open browser------------
+Mon, 12 Aug 2019 21:26:59-common.record_log-base.py-[line:47]-INFO-[日志信息]: 加载测试地址:http://fixedserver.test.al8l.com/users/sign_in
+Mon, 12 Aug 2019 21:26:59-common.record_log-loginPage.py-[line:31]-INFO-[日志信息]: 开始登录
+Mon, 12 Aug 2019 21:26:59-common.record_log-loginPage.py-[line:40]-INFO-[日志信息]: 输入用户名:管理员
+Mon, 12 Aug 2019 21:26:59-common.record_log-loginPage.py-[line:44]-INFO-[日志信息]: 输入密码:123456
+Mon, 12 Aug 2019 21:26:59-common.record_log-loginPage.py-[line:48]-INFO-[日志信息]: 点击登录按钮
+Mon, 12 Aug 2019 21:27:00-common.record_log-conftest.py-[line:78]-INFO-[日志信息]: ------------close browser------------
+Mon, 12 Aug 2019 21:28:00-common.record_log-conftest.py-[line:74]-INFO-[日志信息]: ------------open browser------------
+Mon, 12 Aug 2019 21:28:05-common.record_log-base.py-[line:47]-INFO-[日志信息]: 加载测试地址:http://fixedserver.test.al8l.com/users/sign_in
+Mon, 12 Aug 2019 21:28:05-common.record_log-loginPage.py-[line:31]-INFO-[日志信息]: 开始登录
+Mon, 12 Aug 2019 21:28:05-common.record_log-loginPage.py-[line:40]-INFO-[日志信息]: 输入用户名:管理员
+Mon, 12 Aug 2019 21:28:05-common.record_log-loginPage.py-[line:44]-INFO-[日志信息]: 输入密码:123456
+Mon, 12 Aug 2019 21:28:05-common.record_log-loginPage.py-[line:48]-INFO-[日志信息]: 点击登录按钮
+Mon, 12 Aug 2019 21:28:06-common.record_log-base.py-[line:47]-INFO-[日志信息]: 加载测试地址:http://fixedserver.test.al8l.com/users/sign_in
+Mon, 12 Aug 2019 21:28:06-common.record_log-loginPage.py-[line:31]-INFO-[日志信息]: 开始登录
+Mon, 12 Aug 2019 21:28:06-common.record_log-loginPage.py-[line:40]-INFO-[日志信息]: 输入用户名:
+Mon, 12 Aug 2019 21:28:06-common.record_log-loginPage.py-[line:44]-INFO-[日志信息]: 输入密码:python
+Mon, 12 Aug 2019 21:28:06-common.record_log-loginPage.py-[line:48]-INFO-[日志信息]: 点击登录按钮
+Mon, 12 Aug 2019 21:28:07-common.record_log-base.py-[line:47]-INFO-[日志信息]: 加载测试地址:http://fixedserver.test.al8l.com/users/sign_in
+Mon, 12 Aug 2019 21:28:07-common.record_log-loginPage.py-[line:31]-INFO-[日志信息]: 开始登录
+Mon, 12 Aug 2019 21:28:07-common.record_log-loginPage.py-[line:40]-INFO-[日志信息]: 输入用户名:18684720553
+Mon, 12 Aug 2019 21:28:07-common.record_log-loginPage.py-[line:44]-INFO-[日志信息]: 输入密码:
+Mon, 12 Aug 2019 21:28:07-common.record_log-loginPage.py-[line:48]-INFO-[日志信息]: 点击登录按钮
+Mon, 12 Aug 2019 21:28:08-common.record_log-base.py-[line:47]-INFO-[日志信息]: 加载测试地址:http://fixedserver.test.al8l.com/users/sign_in
+Mon, 12 Aug 2019 21:28:08-common.record_log-loginPage.py-[line:31]-INFO-[日志信息]: 开始登录
+Mon, 12 Aug 2019 21:28:08-common.record_log-loginPage.py-[line:40]-INFO-[日志信息]: 输入用户名:
+Mon, 12 Aug 2019 21:28:08-common.record_log-loginPage.py-[line:44]-INFO-[日志信息]: 输入密码:
+Mon, 12 Aug 2019 21:28:08-common.record_log-loginPage.py-[line:48]-INFO-[日志信息]: 点击登录按钮
+Mon, 12 Aug 2019 21:28:10-common.record_log-base.py-[line:47]-INFO-[日志信息]: 加载测试地址:http://fixedserver.test.al8l.com/users/sign_in
+Mon, 12 Aug 2019 21:28:10-common.record_log-loginPage.py-[line:31]-INFO-[日志信息]: 开始登录
+Mon, 12 Aug 2019 21:28:10-common.record_log-loginPage.py-[line:40]-INFO-[日志信息]: 输入用户名:12345678901
+Mon, 12 Aug 2019 21:28:10-common.record_log-loginPage.py-[line:44]-INFO-[日志信息]: 输入密码:python
+Mon, 12 Aug 2019 21:28:10-common.record_log-loginPage.py-[line:48]-INFO-[日志信息]: 点击登录按钮
+Mon, 12 Aug 2019 21:28:11-common.record_log-base.py-[line:47]-INFO-[日志信息]: 加载测试地址:http://fixedserver.test.al8l.com/users/sign_in
+Mon, 12 Aug 2019 21:28:11-common.record_log-loginPage.py-[line:31]-INFO-[日志信息]: 开始登录
+Mon, 12 Aug 2019 21:28:11-common.record_log-loginPage.py-[line:40]-INFO-[日志信息]: 输入用户名:18684720551
+Mon, 12 Aug 2019 21:28:11-common.record_log-loginPage.py-[line:44]-INFO-[日志信息]: 输入密码:python
+Mon, 12 Aug 2019 21:28:11-common.record_log-loginPage.py-[line:48]-INFO-[日志信息]: 点击登录按钮
+Mon, 12 Aug 2019 21:28:12-common.record_log-base.py-[line:47]-INFO-[日志信息]: 加载测试地址:http://fixedserver.test.al8l.com/users/sign_in
+Mon, 12 Aug 2019 21:28:12-common.record_log-loginPage.py-[line:31]-INFO-[日志信息]: 开始登录
+Mon, 12 Aug 2019 21:28:12-common.record_log-loginPage.py-[line:40]-INFO-[日志信息]: 输入用户名:18684720553
+Mon, 12 Aug 2019 21:28:12-common.record_log-loginPage.py-[line:44]-INFO-[日志信息]: 输入密码:pwd_error
+Mon, 12 Aug 2019 21:28:12-common.record_log-loginPage.py-[line:48]-INFO-[日志信息]: 点击登录按钮
+Mon, 12 Aug 2019 21:28:13-common.record_log-base.py-[line:47]-INFO-[日志信息]: 加载测试地址:http://fixedserver.test.al8l.com/users/sign_in
+Mon, 12 Aug 2019 21:28:13-common.record_log-loginPage.py-[line:31]-INFO-[日志信息]: 开始登录
+Mon, 12 Aug 2019 21:28:13-common.record_log-loginPage.py-[line:40]-INFO-[日志信息]: 输入用户名:13691579846
+Mon, 12 Aug 2019 21:28:13-common.record_log-loginPage.py-[line:44]-INFO-[日志信息]: 输入密码:123456
+Mon, 12 Aug 2019 21:28:13-common.record_log-loginPage.py-[line:48]-INFO-[日志信息]: 点击登录按钮
+Mon, 12 Aug 2019 21:28:14-common.record_log-conftest.py-[line:78]-INFO-[日志信息]: ------------close browser------------
+Mon, 12 Aug 2019 21:28:28-common.record_log-conftest.py-[line:74]-INFO-[日志信息]: ------------open browser------------
+Mon, 12 Aug 2019 21:28:32-common.record_log-base.py-[line:47]-INFO-[日志信息]: 加载测试地址:http://fixedserver.test.al8l.com/users/sign_in
+Mon, 12 Aug 2019 21:28:32-common.record_log-loginPage.py-[line:31]-INFO-[日志信息]: 开始登录
+Mon, 12 Aug 2019 21:28:32-common.record_log-loginPage.py-[line:40]-INFO-[日志信息]: 输入用户名:管理员
+Mon, 12 Aug 2019 21:28:32-common.record_log-loginPage.py-[line:44]-INFO-[日志信息]: 输入密码:123456
+Mon, 12 Aug 2019 21:28:32-common.record_log-loginPage.py-[line:48]-INFO-[日志信息]: 点击登录按钮
+Mon, 12 Aug 2019 21:28:33-common.record_log-base.py-[line:47]-INFO-[日志信息]: 加载测试地址:http://fixedserver.test.al8l.com/users/sign_in
+Mon, 12 Aug 2019 21:28:33-common.record_log-loginPage.py-[line:31]-INFO-[日志信息]: 开始登录
+Mon, 12 Aug 2019 21:28:33-common.record_log-loginPage.py-[line:40]-INFO-[日志信息]: 输入用户名:
+Mon, 12 Aug 2019 21:28:33-common.record_log-loginPage.py-[line:44]-INFO-[日志信息]: 输入密码:python
+Mon, 12 Aug 2019 21:28:33-common.record_log-loginPage.py-[line:48]-INFO-[日志信息]: 点击登录按钮
+Mon, 12 Aug 2019 21:28:35-common.record_log-base.py-[line:47]-INFO-[日志信息]: 加载测试地址:http://fixedserver.test.al8l.com/users/sign_in
+Mon, 12 Aug 2019 21:28:35-common.record_log-loginPage.py-[line:31]-INFO-[日志信息]: 开始登录
+Mon, 12 Aug 2019 21:28:35-common.record_log-loginPage.py-[line:40]-INFO-[日志信息]: 输入用户名:18684720553
+Mon, 12 Aug 2019 21:28:35-common.record_log-loginPage.py-[line:44]-INFO-[日志信息]: 输入密码:
+Mon, 12 Aug 2019 21:28:35-common.record_log-loginPage.py-[line:48]-INFO-[日志信息]: 点击登录按钮
+Mon, 12 Aug 2019 21:28:35-common.record_log-base.py-[line:47]-INFO-[日志信息]: 加载测试地址:http://fixedserver.test.al8l.com/users/sign_in
+Mon, 12 Aug 2019 21:28:35-common.record_log-loginPage.py-[line:31]-INFO-[日志信息]: 开始登录
+Mon, 12 Aug 2019 21:28:35-common.record_log-loginPage.py-[line:40]-INFO-[日志信息]: 输入用户名:
+Mon, 12 Aug 2019 21:28:43-common.record_log-conftest.py-[line:74]-INFO-[日志信息]: ------------open browser------------
+Mon, 12 Aug 2019 21:28:45-common.record_log-conftest.py-[line:74]-INFO-[日志信息]: ------------open browser------------
+Mon, 12 Aug 2019 21:43:38-common.record_log-conftest.py-[line:74]-INFO-[日志信息]: ------------open browser------------
+Mon, 12 Aug 2019 21:43:42-common.record_log-base.py-[line:47]-INFO-[日志信息]: 加载测试地址:http://fixedserver.test.al8l.com/users/sign_in
+Mon, 12 Aug 2019 21:43:42-common.record_log-loginPage.py-[line:31]-INFO-[日志信息]: 开始登录
+Mon, 12 Aug 2019 21:43:42-common.record_log-loginPage.py-[line:40]-INFO-[日志信息]: 输入用户名:管理员
+Mon, 12 Aug 2019 21:43:42-common.record_log-loginPage.py-[line:44]-INFO-[日志信息]: 输入密码:123456
+Mon, 12 Aug 2019 21:43:42-common.record_log-loginPage.py-[line:48]-INFO-[日志信息]: 点击登录按钮
+Mon, 12 Aug 2019 21:43:44-common.record_log-base.py-[line:47]-INFO-[日志信息]: 加载测试地址:http://fixedserver.test.al8l.com/users/sign_in
+Mon, 12 Aug 2019 21:43:44-common.record_log-loginPage.py-[line:31]-INFO-[日志信息]: 开始登录
+Mon, 12 Aug 2019 21:43:44-common.record_log-loginPage.py-[line:40]-INFO-[日志信息]: 输入用户名:
+Mon, 12 Aug 2019 21:43:44-common.record_log-loginPage.py-[line:44]-INFO-[日志信息]: 输入密码:python
+Mon, 12 Aug 2019 21:43:44-common.record_log-loginPage.py-[line:48]-INFO-[日志信息]: 点击登录按钮
+Mon, 12 Aug 2019 21:43:45-common.record_log-base.py-[line:47]-INFO-[日志信息]: 加载测试地址:http://fixedserver.test.al8l.com/users/sign_in
+Mon, 12 Aug 2019 21:43:45-common.record_log-loginPage.py-[line:31]-INFO-[日志信息]: 开始登录
+Mon, 12 Aug 2019 21:43:45-common.record_log-loginPage.py-[line:40]-INFO-[日志信息]: 输入用户名:18684720553
+Mon, 12 Aug 2019 21:43:45-common.record_log-loginPage.py-[line:44]-INFO-[日志信息]: 输入密码:
+Mon, 12 Aug 2019 21:43:45-common.record_log-loginPage.py-[line:48]-INFO-[日志信息]: 点击登录按钮
+Mon, 12 Aug 2019 21:46:12-common.record_log-conftest.py-[line:74]-INFO-[日志信息]: ------------open browser------------
+Mon, 12 Aug 2019 21:46:17-common.record_log-base.py-[line:47]-INFO-[日志信息]: 加载测试地址:http://fixedserver.test.al8l.com/users/sign_in
+Mon, 12 Aug 2019 21:46:17-common.record_log-loginPage.py-[line:31]-INFO-[日志信息]: 开始登录
+Mon, 12 Aug 2019 21:46:17-common.record_log-loginPage.py-[line:40]-INFO-[日志信息]: 输入用户名:管理员
+Mon, 12 Aug 2019 21:46:17-common.record_log-loginPage.py-[line:44]-INFO-[日志信息]: 输入密码:123456
+Mon, 12 Aug 2019 21:46:17-common.record_log-loginPage.py-[line:48]-INFO-[日志信息]: 点击登录按钮
+Mon, 12 Aug 2019 21:46:18-common.record_log-conftest.py-[line:78]-INFO-[日志信息]: ------------close browser------------
+Mon, 12 Aug 2019 21:46:55-common.record_log-conftest.py-[line:74]-INFO-[日志信息]: ------------open browser------------
+Mon, 12 Aug 2019 21:47:00-common.record_log-base.py-[line:47]-INFO-[日志信息]: 加载测试地址:http://fixedserver.test.al8l.com/users/sign_in
+Mon, 12 Aug 2019 21:47:00-common.record_log-loginPage.py-[line:31]-INFO-[日志信息]: 开始登录
+Mon, 12 Aug 2019 21:47:00-common.record_log-loginPage.py-[line:40]-INFO-[日志信息]: 输入用户名:管理员
+Mon, 12 Aug 2019 21:47:00-common.record_log-loginPage.py-[line:44]-INFO-[日志信息]: 输入密码:123456
+Mon, 12 Aug 2019 21:47:00-common.record_log-loginPage.py-[line:48]-INFO-[日志信息]: 点击登录按钮
+Mon, 12 Aug 2019 21:47:04-common.record_log-base.py-[line:47]-INFO-[日志信息]: 加载测试地址:http://fixedserver.test.al8l.com/users/sign_in
+Mon, 12 Aug 2019 21:47:04-common.record_log-loginPage.py-[line:31]-INFO-[日志信息]: 开始登录
+Mon, 12 Aug 2019 21:47:04-common.record_log-loginPage.py-[line:40]-INFO-[日志信息]: 输入用户名:
+Mon, 12 Aug 2019 21:47:04-common.record_log-loginPage.py-[line:44]-INFO-[日志信息]: 输入密码:python
+Mon, 12 Aug 2019 21:47:04-common.record_log-loginPage.py-[line:48]-INFO-[日志信息]: 点击登录按钮
+Mon, 12 Aug 2019 21:48:21-common.record_log-conftest.py-[line:74]-INFO-[日志信息]: ------------open browser------------
+Mon, 12 Aug 2019 21:48:26-common.record_log-base.py-[line:47]-INFO-[日志信息]: 加载测试地址:http://fixedserver.test.al8l.com/users/sign_in
+Mon, 12 Aug 2019 21:48:26-common.record_log-loginPage.py-[line:31]-INFO-[日志信息]: 开始登录
+Mon, 12 Aug 2019 21:48:26-common.record_log-loginPage.py-[line:40]-INFO-[日志信息]: 输入用户名:管理员
+Mon, 12 Aug 2019 21:48:26-common.record_log-loginPage.py-[line:44]-INFO-[日志信息]: 输入密码:123456
+Mon, 12 Aug 2019 21:48:26-common.record_log-loginPage.py-[line:48]-INFO-[日志信息]: 点击登录按钮
+Mon, 12 Aug 2019 21:48:30-common.record_log-base.py-[line:47]-INFO-[日志信息]: 加载测试地址:http://fixedserver.test.al8l.com/users/sign_in
+Mon, 12 Aug 2019 21:48:30-common.record_log-loginPage.py-[line:31]-INFO-[日志信息]: 开始登录
+Mon, 12 Aug 2019 21:48:30-common.record_log-loginPage.py-[line:40]-INFO-[日志信息]: 输入用户名:
+Mon, 12 Aug 2019 21:48:30-common.record_log-loginPage.py-[line:44]-INFO-[日志信息]: 输入密码:python
+Mon, 12 Aug 2019 21:48:30-common.record_log-loginPage.py-[line:48]-INFO-[日志信息]: 点击登录按钮
+Mon, 12 Aug 2019 21:49:01-common.record_log-base.py-[line:67]-ERROR-[日志信息]: 通过定位表达式//div[@class="form-error-info"]定位元素失败:Message: 
+
+Mon, 12 Aug 2019 21:49:03-common.record_log-base.py-[line:47]-INFO-[日志信息]: 加载测试地址:http://fixedserver.test.al8l.com/users/sign_in
+Mon, 12 Aug 2019 21:49:03-common.record_log-loginPage.py-[line:31]-INFO-[日志信息]: 开始登录
+Mon, 12 Aug 2019 21:49:03-common.record_log-loginPage.py-[line:40]-INFO-[日志信息]: 输入用户名:18684720553
+Mon, 12 Aug 2019 21:49:03-common.record_log-loginPage.py-[line:44]-INFO-[日志信息]: 输入密码:
+Mon, 12 Aug 2019 21:49:03-common.record_log-loginPage.py-[line:48]-INFO-[日志信息]: 点击登录按钮
+Mon, 12 Aug 2019 21:49:54-common.record_log-conftest.py-[line:74]-INFO-[日志信息]: ------------open browser------------
+Mon, 12 Aug 2019 21:49:59-common.record_log-base.py-[line:47]-INFO-[日志信息]: 加载测试地址:http://fixedserver.test.al8l.com/users/sign_in
+Mon, 12 Aug 2019 21:49:59-common.record_log-loginPage.py-[line:31]-INFO-[日志信息]: 开始登录
+Mon, 12 Aug 2019 21:49:59-common.record_log-loginPage.py-[line:40]-INFO-[日志信息]: 输入用户名:管理员
+Mon, 12 Aug 2019 21:49:59-common.record_log-loginPage.py-[line:44]-INFO-[日志信息]: 输入密码:123456
+Mon, 12 Aug 2019 21:49:59-common.record_log-loginPage.py-[line:48]-INFO-[日志信息]: 点击登录按钮
+Mon, 12 Aug 2019 21:50:03-common.record_log-base.py-[line:47]-INFO-[日志信息]: 加载测试地址:http://fixedserver.test.al8l.com/users/sign_in
+Mon, 12 Aug 2019 21:50:03-common.record_log-loginPage.py-[line:31]-INFO-[日志信息]: 开始登录
+Mon, 12 Aug 2019 21:50:03-common.record_log-loginPage.py-[line:40]-INFO-[日志信息]: 输入用户名:
+Mon, 12 Aug 2019 21:50:03-common.record_log-loginPage.py-[line:44]-INFO-[日志信息]: 输入密码:python
+Mon, 12 Aug 2019 21:50:03-common.record_log-loginPage.py-[line:48]-INFO-[日志信息]: 点击登录按钮
+Mon, 12 Aug 2019 21:50:34-common.record_log-base.py-[line:67]-ERROR-[日志信息]: 通过定位表达式//div[@class="form-error-info"]定位元素失败:Message: 
+
+Mon, 12 Aug 2019 21:50:36-common.record_log-base.py-[line:47]-INFO-[日志信息]: 加载测试地址:http://fixedserver.test.al8l.com/users/sign_in
+Mon, 12 Aug 2019 21:50:36-common.record_log-loginPage.py-[line:31]-INFO-[日志信息]: 开始登录
+Mon, 12 Aug 2019 21:50:36-common.record_log-loginPage.py-[line:40]-INFO-[日志信息]: 输入用户名:18684720553
+Mon, 12 Aug 2019 21:50:36-common.record_log-loginPage.py-[line:44]-INFO-[日志信息]: 输入密码:
+Mon, 12 Aug 2019 21:50:36-common.record_log-loginPage.py-[line:48]-INFO-[日志信息]: 点击登录按钮
+Mon, 12 Aug 2019 21:51:07-common.record_log-base.py-[line:67]-ERROR-[日志信息]: 通过定位表达式//div[@class="form-error-info"]定位元素失败:Message: 
+
+Mon, 12 Aug 2019 21:51:09-common.record_log-base.py-[line:47]-INFO-[日志信息]: 加载测试地址:http://fixedserver.test.al8l.com/users/sign_in
+Mon, 12 Aug 2019 21:51:09-common.record_log-loginPage.py-[line:31]-INFO-[日志信息]: 开始登录
+Mon, 12 Aug 2019 21:51:09-common.record_log-loginPage.py-[line:40]-INFO-[日志信息]: 输入用户名:
+Mon, 12 Aug 2019 21:51:09-common.record_log-loginPage.py-[line:44]-INFO-[日志信息]: 输入密码:
+Mon, 12 Aug 2019 21:51:09-common.record_log-loginPage.py-[line:48]-INFO-[日志信息]: 点击登录按钮
+Mon, 12 Aug 2019 21:51:10-common.record_log-conftest.py-[line:74]-INFO-[日志信息]: ------------open browser------------
+Mon, 12 Aug 2019 21:51:15-common.record_log-base.py-[line:47]-INFO-[日志信息]: 加载测试地址:http://fixedserver.test.al8l.com/users/sign_in
+Mon, 12 Aug 2019 21:51:15-common.record_log-loginPage.py-[line:31]-INFO-[日志信息]: 开始登录
+Mon, 12 Aug 2019 21:51:15-common.record_log-loginPage.py-[line:40]-INFO-[日志信息]: 输入用户名:管理员
+Mon, 12 Aug 2019 21:51:15-common.record_log-loginPage.py-[line:44]-INFO-[日志信息]: 输入密码:123456
+Mon, 12 Aug 2019 21:51:15-common.record_log-loginPage.py-[line:48]-INFO-[日志信息]: 点击登录按钮
+Mon, 12 Aug 2019 21:51:17-common.record_log-base.py-[line:227]-INFO-[日志信息]: 获取元素文本内容:【后台管理】
+Mon, 12 Aug 2019 21:51:17-common.record_log-loginPage.py-[line:66]-INFO-[日志信息]: 获取登录成功断言信息:【后台管理】
+Mon, 12 Aug 2019 21:51:17-common.record_log-test_login.py-[line:46]-INFO-[日志信息]: 测试用例test_login_success-管理员-123456测试通过
+Mon, 12 Aug 2019 21:51:18-common.record_log-base.py-[line:47]-INFO-[日志信息]: 加载测试地址:http://fixedserver.test.al8l.com/users/sign_in
+Mon, 12 Aug 2019 21:51:18-common.record_log-loginPage.py-[line:31]-INFO-[日志信息]: 开始登录
+Mon, 12 Aug 2019 21:51:18-common.record_log-loginPage.py-[line:40]-INFO-[日志信息]: 输入用户名:
+Mon, 12 Aug 2019 21:51:18-common.record_log-loginPage.py-[line:44]-INFO-[日志信息]: 输入密码:python
+Mon, 12 Aug 2019 21:51:18-common.record_log-loginPage.py-[line:48]-INFO-[日志信息]: 点击登录按钮
+Mon, 12 Aug 2019 21:51:48-common.record_log-base.py-[line:67]-ERROR-[日志信息]: 通过定位表达式//div[@class="form-error-info"]定位元素失败:Message: 
+
+Mon, 12 Aug 2019 21:51:50-common.record_log-base.py-[line:47]-INFO-[日志信息]: 加载测试地址:http://fixedserver.test.al8l.com/users/sign_in
+Mon, 12 Aug 2019 21:51:50-common.record_log-loginPage.py-[line:31]-INFO-[日志信息]: 开始登录
+Mon, 12 Aug 2019 21:51:50-common.record_log-loginPage.py-[line:40]-INFO-[日志信息]: 输入用户名:18684720553
+Mon, 12 Aug 2019 21:51:50-common.record_log-loginPage.py-[line:44]-INFO-[日志信息]: 输入密码:
+Mon, 12 Aug 2019 21:51:50-common.record_log-loginPage.py-[line:48]-INFO-[日志信息]: 点击登录按钮
+Mon, 12 Aug 2019 21:52:20-common.record_log-base.py-[line:67]-ERROR-[日志信息]: 通过定位表达式//div[@class="form-error-info"]定位元素失败:Message: 
+
+Mon, 12 Aug 2019 21:52:22-common.record_log-base.py-[line:47]-INFO-[日志信息]: 加载测试地址:http://fixedserver.test.al8l.com/users/sign_in
+Mon, 12 Aug 2019 21:52:22-common.record_log-loginPage.py-[line:31]-INFO-[日志信息]: 开始登录
+Mon, 12 Aug 2019 21:52:22-common.record_log-loginPage.py-[line:40]-INFO-[日志信息]: 输入用户名:
+Mon, 12 Aug 2019 21:52:22-common.record_log-loginPage.py-[line:44]-INFO-[日志信息]: 输入密码:
+Mon, 12 Aug 2019 21:52:22-common.record_log-loginPage.py-[line:48]-INFO-[日志信息]: 点击登录按钮
+Mon, 12 Aug 2019 21:52:53-common.record_log-base.py-[line:67]-ERROR-[日志信息]: 通过定位表达式//div[@class="form-error-info"]定位元素失败:Message: 
+
+Mon, 12 Aug 2019 21:52:54-common.record_log-base.py-[line:47]-INFO-[日志信息]: 加载测试地址:http://fixedserver.test.al8l.com/users/sign_in
+Mon, 12 Aug 2019 21:52:54-common.record_log-loginPage.py-[line:31]-INFO-[日志信息]: 开始登录
+Mon, 12 Aug 2019 21:52:54-common.record_log-loginPage.py-[line:40]-INFO-[日志信息]: 输入用户名:12345678901
+Mon, 12 Aug 2019 21:52:54-common.record_log-loginPage.py-[line:44]-INFO-[日志信息]: 输入密码:python
+Mon, 12 Aug 2019 21:52:54-common.record_log-loginPage.py-[line:48]-INFO-[日志信息]: 点击登录按钮
+Mon, 12 Aug 2019 21:53:25-common.record_log-base.py-[line:67]-ERROR-[日志信息]: 通过定位表达式//div[@class="form-error-info"]定位元素失败:Message: 
+
+Mon, 12 Aug 2019 21:53:28-common.record_log-base.py-[line:47]-INFO-[日志信息]: 加载测试地址:http://fixedserver.test.al8l.com/users/sign_in
+Mon, 12 Aug 2019 21:53:28-common.record_log-loginPage.py-[line:31]-INFO-[日志信息]: 开始登录
+Mon, 12 Aug 2019 21:53:28-common.record_log-loginPage.py-[line:40]-INFO-[日志信息]: 输入用户名:18684720551
+Mon, 12 Aug 2019 21:53:28-common.record_log-loginPage.py-[line:44]-INFO-[日志信息]: 输入密码:python
+Mon, 12 Aug 2019 21:53:28-common.record_log-loginPage.py-[line:48]-INFO-[日志信息]: 点击登录按钮
+Mon, 12 Aug 2019 21:53:59-common.record_log-base.py-[line:67]-ERROR-[日志信息]: 通过定位表达式//div[@class="layui-layer-content"]定位元素失败:Message: 
+
+Mon, 12 Aug 2019 21:54:01-common.record_log-base.py-[line:47]-INFO-[日志信息]: 加载测试地址:http://fixedserver.test.al8l.com/users/sign_in
+Mon, 12 Aug 2019 21:54:01-common.record_log-loginPage.py-[line:31]-INFO-[日志信息]: 开始登录
+Mon, 12 Aug 2019 21:54:01-common.record_log-loginPage.py-[line:40]-INFO-[日志信息]: 输入用户名:18684720553
+Mon, 12 Aug 2019 21:54:01-common.record_log-loginPage.py-[line:44]-INFO-[日志信息]: 输入密码:pwd_error
+Mon, 12 Aug 2019 21:54:01-common.record_log-loginPage.py-[line:48]-INFO-[日志信息]: 点击登录按钮
+Mon, 12 Aug 2019 21:54:31-common.record_log-base.py-[line:67]-ERROR-[日志信息]: 通过定位表达式//div[@class="layui-layer-content"]定位元素失败:Message: 
+
+Mon, 12 Aug 2019 21:54:33-common.record_log-base.py-[line:47]-INFO-[日志信息]: 加载测试地址:http://fixedserver.test.al8l.com/users/sign_in
+Mon, 12 Aug 2019 21:54:33-common.record_log-loginPage.py-[line:31]-INFO-[日志信息]: 开始登录
+Mon, 12 Aug 2019 21:54:33-common.record_log-loginPage.py-[line:40]-INFO-[日志信息]: 输入用户名:13691579846
+Mon, 12 Aug 2019 21:54:33-common.record_log-loginPage.py-[line:44]-INFO-[日志信息]: 输入密码:123456
+Mon, 12 Aug 2019 21:54:33-common.record_log-loginPage.py-[line:48]-INFO-[日志信息]: 点击登录按钮
+Mon, 12 Aug 2019 21:55:04-common.record_log-base.py-[line:67]-ERROR-[日志信息]: 通过定位表达式//div[@class="layui-layer-content"]定位元素失败:Message: 
+
+Mon, 12 Aug 2019 21:55:05-common.record_log-conftest.py-[line:78]-INFO-[日志信息]: ------------close browser------------
+Mon, 12 Aug 2019 22:29:07-common.record_log-conftest.py-[line:74]-INFO-[日志信息]: ------------open browser------------
+Mon, 12 Aug 2019 22:29:11-common.record_log-base.py-[line:47]-INFO-[日志信息]: 加载测试地址:http://fixedserver.test.al8l.com/users/sign_in
+Mon, 12 Aug 2019 22:29:11-common.record_log-loginPage.py-[line:31]-INFO-[日志信息]: 开始登录
+Mon, 12 Aug 2019 22:29:11-common.record_log-loginPage.py-[line:40]-INFO-[日志信息]: 输入用户名:管理员
+Mon, 12 Aug 2019 22:29:11-common.record_log-loginPage.py-[line:44]-INFO-[日志信息]: 输入密码:123456
+Mon, 12 Aug 2019 22:29:11-common.record_log-loginPage.py-[line:48]-INFO-[日志信息]: 点击登录按钮
+Mon, 12 Aug 2019 22:29:14-common.record_log-base.py-[line:227]-INFO-[日志信息]: 获取元素文本内容:【后台管理】
+Mon, 12 Aug 2019 22:29:14-common.record_log-loginPage.py-[line:66]-INFO-[日志信息]: 获取登录成功断言信息:【后台管理】
+Mon, 12 Aug 2019 22:29:14-common.record_log-test_login.py-[line:46]-INFO-[日志信息]: 测试用例test_login_success-管理员-123456测试通过
+Mon, 12 Aug 2019 22:29:14-common.record_log-base.py-[line:47]-INFO-[日志信息]: 加载测试地址:http://fixedserver.test.al8l.com/users/sign_in
+Mon, 12 Aug 2019 22:29:14-common.record_log-loginPage.py-[line:31]-INFO-[日志信息]: 开始登录
+Mon, 12 Aug 2019 22:29:14-common.record_log-loginPage.py-[line:40]-INFO-[日志信息]: 输入用户名:
+Mon, 12 Aug 2019 22:29:14-common.record_log-loginPage.py-[line:44]-INFO-[日志信息]: 输入密码:python
+Mon, 12 Aug 2019 22:29:14-common.record_log-loginPage.py-[line:48]-INFO-[日志信息]: 点击登录按钮
+Mon, 12 Aug 2019 22:30:08-common.record_log-conftest.py-[line:74]-INFO-[日志信息]: ------------open browser------------
+Mon, 12 Aug 2019 22:30:12-common.record_log-base.py-[line:47]-INFO-[日志信息]: 加载测试地址:http://fixedserver.test.al8l.com/users/sign_in
+Mon, 12 Aug 2019 22:30:12-common.record_log-loginPage.py-[line:31]-INFO-[日志信息]: 开始登录
+Mon, 12 Aug 2019 22:30:12-common.record_log-loginPage.py-[line:40]-INFO-[日志信息]: 输入用户名:管理员
+Mon, 12 Aug 2019 22:30:12-common.record_log-loginPage.py-[line:44]-INFO-[日志信息]: 输入密码:123456
+Mon, 12 Aug 2019 22:30:12-common.record_log-loginPage.py-[line:48]-INFO-[日志信息]: 点击登录按钮
+Mon, 12 Aug 2019 22:30:15-common.record_log-base.py-[line:227]-INFO-[日志信息]: 获取元素文本内容:【后台管理】
+Mon, 12 Aug 2019 22:30:15-common.record_log-loginPage.py-[line:66]-INFO-[日志信息]: 获取登录成功断言信息:【后台管理】
+Mon, 12 Aug 2019 22:30:15-common.record_log-test_login.py-[line:46]-INFO-[日志信息]: 测试用例test_login_success-管理员-123456测试通过
+Mon, 12 Aug 2019 22:30:15-common.record_log-base.py-[line:47]-INFO-[日志信息]: 加载测试地址:http://fixedserver.test.al8l.com/users/sign_in
+Mon, 12 Aug 2019 22:30:15-common.record_log-loginPage.py-[line:31]-INFO-[日志信息]: 开始登录
+Mon, 12 Aug 2019 22:30:15-common.record_log-loginPage.py-[line:40]-INFO-[日志信息]: 输入用户名:
+Mon, 12 Aug 2019 22:30:15-common.record_log-loginPage.py-[line:44]-INFO-[日志信息]: 输入密码:python
+Mon, 12 Aug 2019 22:30:15-common.record_log-loginPage.py-[line:48]-INFO-[日志信息]: 点击登录按钮
+Mon, 12 Aug 2019 22:33:05-common.record_log-conftest.py-[line:74]-INFO-[日志信息]: ------------open browser------------
+Mon, 12 Aug 2019 22:33:09-common.record_log-base.py-[line:47]-INFO-[日志信息]: 加载测试地址:http://fixedserver.test.al8l.com/users/sign_in
+Mon, 12 Aug 2019 22:33:09-common.record_log-loginPage.py-[line:31]-INFO-[日志信息]: 开始登录
+Mon, 12 Aug 2019 22:33:09-common.record_log-loginPage.py-[line:40]-INFO-[日志信息]: 输入用户名:管理员
+Mon, 12 Aug 2019 22:33:09-common.record_log-loginPage.py-[line:44]-INFO-[日志信息]: 输入密码:123456
+Mon, 12 Aug 2019 22:33:09-common.record_log-loginPage.py-[line:48]-INFO-[日志信息]: 点击登录按钮
+Mon, 12 Aug 2019 22:33:12-common.record_log-base.py-[line:227]-INFO-[日志信息]: 获取元素文本内容:【后台管理】
+Mon, 12 Aug 2019 22:33:12-common.record_log-loginPage.py-[line:66]-INFO-[日志信息]: 获取登录成功断言信息:【后台管理】
+Mon, 12 Aug 2019 22:33:12-common.record_log-test_login.py-[line:46]-INFO-[日志信息]: 测试用例test_login_success-管理员-123456测试通过
+Mon, 12 Aug 2019 22:33:12-common.record_log-base.py-[line:47]-INFO-[日志信息]: 加载测试地址:http://fixedserver.test.al8l.com/users/sign_in
+Mon, 12 Aug 2019 22:33:12-common.record_log-loginPage.py-[line:31]-INFO-[日志信息]: 开始登录
+Mon, 12 Aug 2019 22:33:12-common.record_log-loginPage.py-[line:40]-INFO-[日志信息]: 输入用户名:
+Mon, 12 Aug 2019 22:33:12-common.record_log-loginPage.py-[line:44]-INFO-[日志信息]: 输入密码:python
+Mon, 12 Aug 2019 22:33:12-common.record_log-loginPage.py-[line:48]-INFO-[日志信息]: 点击登录按钮
+Mon, 12 Aug 2019 22:33:31-common.record_log-conftest.py-[line:74]-INFO-[日志信息]: ------------open browser------------
+Mon, 12 Aug 2019 22:33:35-common.record_log-base.py-[line:47]-INFO-[日志信息]: 加载测试地址:http://fixedserver.test.al8l.com/users/sign_in
+Mon, 12 Aug 2019 22:33:35-common.record_log-loginPage.py-[line:31]-INFO-[日志信息]: 开始登录
+Mon, 12 Aug 2019 22:33:35-common.record_log-loginPage.py-[line:40]-INFO-[日志信息]: 输入用户名:管理员
+Mon, 12 Aug 2019 22:33:35-common.record_log-loginPage.py-[line:44]-INFO-[日志信息]: 输入密码:123456
+Mon, 12 Aug 2019 22:33:35-common.record_log-loginPage.py-[line:48]-INFO-[日志信息]: 点击登录按钮
+Mon, 12 Aug 2019 22:33:38-common.record_log-base.py-[line:227]-INFO-[日志信息]: 获取元素文本内容:【后台管理】
+Mon, 12 Aug 2019 22:33:38-common.record_log-loginPage.py-[line:66]-INFO-[日志信息]: 获取登录成功断言信息:【后台管理】
+Mon, 12 Aug 2019 22:33:38-common.record_log-test_login.py-[line:46]-INFO-[日志信息]: 测试用例test_login_success-管理员-123456测试通过
+Mon, 12 Aug 2019 22:33:38-common.record_log-base.py-[line:47]-INFO-[日志信息]: 加载测试地址:http://fixedserver.test.al8l.com/users/sign_in
+Mon, 12 Aug 2019 22:33:38-common.record_log-loginPage.py-[line:31]-INFO-[日志信息]: 开始登录
+Mon, 12 Aug 2019 22:33:38-common.record_log-loginPage.py-[line:40]-INFO-[日志信息]: 输入用户名:
+Mon, 12 Aug 2019 22:33:38-common.record_log-loginPage.py-[line:44]-INFO-[日志信息]: 输入密码:python
+Mon, 12 Aug 2019 22:33:38-common.record_log-loginPage.py-[line:48]-INFO-[日志信息]: 点击登录按钮
+Mon, 12 Aug 2019 22:34:09-common.record_log-base.py-[line:67]-ERROR-[日志信息]: 通过定位表达式//div[@class="form-error-info"]定位元素失败:Message: 
+
+Mon, 12 Aug 2019 22:34:10-common.record_log-base.py-[line:47]-INFO-[日志信息]: 加载测试地址:http://fixedserver.test.al8l.com/users/sign_in
+Mon, 12 Aug 2019 22:34:10-common.record_log-loginPage.py-[line:31]-INFO-[日志信息]: 开始登录
+Mon, 12 Aug 2019 22:34:10-common.record_log-loginPage.py-[line:40]-INFO-[日志信息]: 输入用户名:18684720553
+Mon, 12 Aug 2019 22:34:10-common.record_log-loginPage.py-[line:44]-INFO-[日志信息]: 输入密码:
+Mon, 12 Aug 2019 22:34:10-common.record_log-loginPage.py-[line:48]-INFO-[日志信息]: 点击登录按钮
