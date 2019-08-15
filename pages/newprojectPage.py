@@ -18,93 +18,84 @@ import time
 class NewprojectPage(Base):
 
     locator = ParseConfig(LOCATOR_PATH)
-    modelplatesurl = locator('TestUrl','modelplatesurl')
-    indexurl = locator('TestUrl', 'indexurl')
-    add_model_btn = locator('ModelplatesPage', 'add_model_btn')  # 新增模板按钮
-    add_model_name = locator('ModelplatesPage', 'add_model_name') #模板名称
-    first_categoryname = locator('ModelplatesPage', 'first_categoryname')
-    second_categoryname = locator('ModelplatesPage', 'second_categoryname')
-    save_model_btn = locator('ModelplatesPage', 'save_model_btn')
-    model_names = locator('ModelplatesPage', 'model_names')
-    add_model_key = locator('ModelplatesPage', 'add_model_key')
-    add_key_name = locator('ModelplatesPage', 'add_key_name')
-    key_type = locator('ModelplatesPage', 'key_type')
-    key_sort = locator('ModelplatesPage', 'key_sort')
-    save_key_btn = locator('ModelplatesPage', 'save_key_btn')
-    logout_btn = locator('LoginPage', 'logout_btn')  # 登出按钮
+    newprojecturl = locator('TestUrl','newprojecturl')
+    project_name = locator('NewprojectPage', 'project_name')
+    procurement_category_level1 = locator('NewprojectPage', 'procurement_category_level1')
+    procurement_category_level2 = locator('NewprojectPage', 'procurement_category_level2')
+    user = locator('NewprojectPage', 'user')
+    user_phone = locator('NewprojectPage', 'user_phone')
+    address = locator('NewprojectPage', 'address')
+    invoice = locator('NewprojectPage', 'invoice')
+    budget_amount = locator('NewprojectPage', 'budget_amount')
+    service_period = locator('NewprojectPage', 'service_period')
+    Attachment_click = locator('NewprojectPage', 'Attachment_click')
+    Attachment_file = locator('NewprojectPage', 'Attachment_file')
+    save_next = locator('NewprojectPage', 'save_next')
 
 
 
-    def open_model_plates_url(self):
-        self.open(self.modelplatesurl)
-    def open_index_url(self):
-        self.open(self.indexurl)
+    def open_newprojecturl(self):
+        self.open(self.newprojecturl)
 
-################################# 新增配置模板 ############################################
-    @property
-    def new_model(self):
-        """新增模板按钮"""
-        return self.find_element(*self.add_model_btn)
-
-    def click_new_model(self):
-        """点击新增模板按钮"""
-        self.logger.info("点击新增模板按钮")
-        self.new_model.click()
-
-    def input_model_name(self,model_name):
-        """输入模板名称"""
-        self.logger.info("输入模板名称：{}".format(model_name))
-        action = self.move_to_element_click(*self.add_model_name)
-        self.send_keys(*self.add_model_name,model_name)
+    def input_project_name(self,projectname):
+        """输入项目名称"""
+        self.logger.info("输入项目名称：{}".format(projectname))
+        action = self.move_to_element_click(*self.project_name)
+        self.send_keys(*self.project_name,projectname)
         action.release().perform()
 
+    def choose_procurement_category_level1(self,category_level1_name):
+        self.logger.info("正在选择一级品目：{}".format(category_level1_name))
+        Select(self.find_element(*self.procurement_category_level1)).select_by_visible_text(category_level1_name)
 
-    def choose_catrgory_name1(self,firstservice_name):
-        self.logger.info("正在选择一级品目：{}".format(firstservice_name))
-        Select(self.find_element(*self.first_categoryname)).select_by_visible_text(firstservice_name)
+    def choose_procurement_category_level2(self, category_level2_name):
+        self.logger.info("正在选择二级品目：{}".format(category_level2_name))
+        Select(self.find_element(*self.procurement_category_level2)).select_by_visible_text(category_level2_name)
 
-    def choose_catrgory_name2(self, secondservice_name):
-        self.logger.info("正在选择二级品目：{}".format(secondservice_name))
-        Select(self.find_element(*self.second_categoryname)).select_by_visible_text(secondservice_name)
+    def input_user(self,user_name):
 
-    def click_save_model(self,model_name):
-        self.logger.info("正在保存配置模板：{}".format(model_name))
-        self.click(*self.save_model_btn)
-        self.logger.info("保存配置模板：{}成功".format(model_name))
-
-################################# 新增模板KEY ############################################
-
-    def modelsetting_btn(self):
-        return self.find_elements(*self.model_names)[0]
-
-    def click_modelsetting_btn(self):
-        self.modelsetting_btn().click()
-        self.logger.info("进入模板字段配置成功")
-
-    def click_add_model_key(self):
-        self.click(*self.add_model_key)
-
-    def input_key_name(self,key_name):
-        """输入模板KEY名称"""
-        self.logger.info("输入模板KEY名称：{}".format(key_name))
-        action = self.move_to_element_click(*self.add_key_name)
-        self.send_keys(*self.add_key_name,key_name)
+        self.logger.info("输入联系人：{}".format(user_name))
+        action = self.move_to_element_click(*self.user)
+        self.send_keys(*self.user, user_name)
         action.release().perform()
 
-    def select_key_type(self,key_typename):
-        self.logger.info("正在选择KEY类型：{}".format(key_typename))
-        Select(self.find_element(*self.key_type)).select_by_visible_text(key_typename)
+    def input_user_phone(self,userphone):
 
-    def input_key_sort(self,key_sortnum):
-        action = self.move_to_element_click(*self.key_sort)
-        self.send_keys(*self.key_sort,key_sortnum)
+        self.logger.info("输入联系人：{}".format(userphone))
+        action = self.move_to_element_click(*self.user_phone)
+        self.send_keys(*self.user_phone, userphone)
         action.release().perform()
-        self.logger.info("选择KEY排序：{}".format(key_sortnum))
 
-    def click_save_key_btn(self,key_name):
-        self.click(*self.save_key_btn)
-        self.logger.info("KEY：{}保存成功".format(key_name))
+    def click_address(self):
+        self.click(*self.address)
+        self.logger.info("选择服务地址成功")
 
-    def click_log_out_btn(self):
-        self.click(*self.logout_btn)
-        self.logger.info("登出成功")
+    def click_invoice(self):
+        self.click(*self.invoice)
+        self.logger.info("选择发票成功")
+
+    def input_budget_amount(self,budgetamount):
+
+        self.logger.info("输入预算金额：{}".format(budgetamount))
+        action = self.move_to_element_click(*self.budget_amount)
+        self.send_keys(*self.budget_amount, budgetamount)
+        action.release().perform()
+
+    def input_service_period(self,serviceperiod):
+
+        self.logger.info("输入服务周期：{}".format(serviceperiod))
+        action = self.move_to_element_click(*self.service_period)
+        self.send_keys(*self.service_period, serviceperiod)
+        action.release().perform()
+
+    def click_Attachment_click(self):
+        self.click(*self.Attachment_click)
+        self.logger.info("点开附件按钮成功")
+
+    def send_Attachment_file(self,file_path):
+        self.send_keys(*self.Attachment_file,file_path)
+        self.logger.info("上传附件成功")
+
+    def click_save_next(self):
+        self.click(*self.save_next)
+        self.logger.info("项目暂存成功")

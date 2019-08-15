@@ -12,6 +12,7 @@
 import pytest
 
 from datas.modelplates_datas import ModelplatesData
+from datas.newproject_datas import NewprojectData
 from common.record_log import logger
 import pdb
 
@@ -20,6 +21,7 @@ class TestModelplates(object):
     """登录测试用例"""
     logger = logger
     t_data = ModelplatesData
+    p_data = NewprojectData
 
     @pytest.mark.parametrize('model_name, firstservice_name, secondservice_name', t_data.add_model_nums)
     def test_add_modelplates(self,login,model_name,firstservice_name,secondservice_name):
@@ -50,11 +52,29 @@ class TestModelplates(object):
         modelplates_page.click_save_key_btn(key_name)
 
     # 采购人新增项目
-    @pytest.mark.parametrize('username, password', t_data.cgr_account)
-    def test_add_project(self, open_url,inherit, username, password):
+    @pytest.mark.parametrize('username, password', p_data.cgr_account)
+    @pytest.mark.parametrize('model_name, firstservice_name, secondservice_name', t_data.add_model_nums)
+    @pytest.mark.parametrize('projectname, user_name, userphone,budgetamount,serviceperiod,file_path', p_data.add_project_nums)
+    def test_add_project(self, open_url,inherit, username, password,model_name,firstservice_name,secondservice_name,
+                         projectname,user_name, userphone,budgetamount,serviceperiod,file_path):
         login_page = open_url
-        login_page.login()
-        modelplates_page = inherit[1]
+        login_page.login(username,password)
+        newproject_page = inherit[2]
+        newproject_page.open_newprojecturl()
+        newproject_page.input_project_name(projectname)
+        newproject_page.choose_procurement_category_level1(firstservice_name)
+        newproject_page.choose_procurement_category_level2(secondservice_name)
+        newproject_page.input_user(user_name)
+        newproject_page.input_user_phone(userphone)
+        newproject_page.click_address()
+        newproject_page.click_invoice()
+        newproject_page.input_budget_amount(budgetamount)
+        newproject_page.input_service_period(serviceperiod)
+        newproject_page.click_Attachment_click()
+        newproject_page.send_Attachment_file(file_path)
+        newproject_page.click_save_next()
+
+
 
 
 

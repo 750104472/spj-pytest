@@ -672,3 +672,133 @@ Thu, 15 Aug 2019 17:30:46-common.record_log-loginPage.py-[line:45]-INFO-[日志�
 Thu, 15 Aug 2019 17:30:46-common.record_log-loginPage.py-[line:49]-INFO-[日志信息]: 点击登录按钮
 Thu, 15 Aug 2019 17:30:46-common.record_log-loginPage.py-[line:55]-INFO-[日志信息]: 获取登录失败断言信息:账号或密码不能为空
 Thu, 15 Aug 2019 17:30:46-common.record_log-conftest.py-[line:79]-INFO-[日志信息]: ------------close browser------------
+Thu, 15 Aug 2019 21:53:53-common.record_log-conftest.py-[line:75]-INFO-[日志信息]: ------------open browser------------
+Thu, 15 Aug 2019 21:53:59-common.record_log-base.py-[line:47]-INFO-[日志信息]: 加载测试地址:http://fixedserver.test.al8l.com/users/sign_in
+Thu, 15 Aug 2019 21:53:59-common.record_log-loginPage.py-[line:32]-INFO-[日志信息]: 开始登录
+Thu, 15 Aug 2019 21:53:59-common.record_log-loginPage.py-[line:41]-INFO-[日志信息]: 输入用户名:管理员
+Thu, 15 Aug 2019 21:53:59-common.record_log-loginPage.py-[line:45]-INFO-[日志信息]: 输入密码:123456
+Thu, 15 Aug 2019 21:53:59-common.record_log-loginPage.py-[line:49]-INFO-[日志信息]: 点击登录按钮
+Thu, 15 Aug 2019 21:54:04-common.record_log-base.py-[line:47]-INFO-[日志信息]: 加载测试地址:http://fixedserver.test.al8l.com/ancient/model_plates
+Thu, 15 Aug 2019 21:54:04-common.record_log-modelplatesPage.py-[line:51]-INFO-[日志信息]: 点击新增模板按钮
+Thu, 15 Aug 2019 21:54:05-common.record_log-modelplatesPage.py-[line:56]-INFO-[日志信息]: 输入模板名称：印刷服务品目
+Thu, 15 Aug 2019 21:54:06-common.record_log-modelplatesPage.py-[line:63]-INFO-[日志信息]: 正在选择一级品目：印刷服务
+Thu, 15 Aug 2019 21:54:06-common.record_log-modelplatesPage.py-[line:67]-INFO-[日志信息]: 正在选择二级品目：印刷
+Thu, 15 Aug 2019 21:54:06-common.record_log-modelplatesPage.py-[line:71]-INFO-[日志信息]: 正在保存配置模板：印刷服务品目
+Thu, 15 Aug 2019 21:54:07-common.record_log-modelplatesPage.py-[line:73]-INFO-[日志信息]: 保存配置模板：印刷服务品目成功
+Thu, 15 Aug 2019 21:54:08-common.record_log-base.py-[line:47]-INFO-[日志信息]: 加载测试地址:http://fixedserver.test.al8l.com/users/sign_in
+Thu, 15 Aug 2019 21:54:08-common.record_log-loginPage.py-[line:32]-INFO-[日志信息]: 开始登录
+Thu, 15 Aug 2019 21:54:08-common.record_log-loginPage.py-[line:41]-INFO-[日志信息]: 输入用户名:管理员
+Thu, 15 Aug 2019 21:54:08-common.record_log-loginPage.py-[line:45]-INFO-[日志信息]: 输入密码:123456
+Thu, 15 Aug 2019 21:54:08-common.record_log-loginPage.py-[line:49]-INFO-[日志信息]: 点击登录按钮
+Thu, 15 Aug 2019 21:54:10-common.record_log-base.py-[line:47]-INFO-[日志信息]: 加载测试地址:http://fixedserver.test.al8l.com/ancient/model_plates
+Thu, 15 Aug 2019 21:54:11-common.record_log-modelplatesPage.py-[line:82]-INFO-[日志信息]: 进入模板字段配置成功
+Thu, 15 Aug 2019 21:54:11-common.record_log-modelplatesPage.py-[line:89]-INFO-[日志信息]: 输入模板KEY名称：印刷品名称
+Thu, 15 Aug 2019 21:54:12-common.record_log-modelplatesPage.py-[line:95]-INFO-[日志信息]: 正在选择KEY类型：大文本
+Thu, 15 Aug 2019 21:54:14-common.record_log-modelplatesPage.py-[line:102]-INFO-[日志信息]: 选择KEY排序：1
+Thu, 15 Aug 2019 21:54:15-common.record_log-modelplatesPage.py-[line:106]-INFO-[日志信息]: KEY：印刷品名称保存成功
+Thu, 15 Aug 2019 21:54:15-common.record_log-base.py-[line:47]-INFO-[日志信息]: 加载测试地址:http://fixedserver.test.al8l.com/users/sign_in
+Thu, 15 Aug 2019 21:54:15-common.record_log-loginPage.py-[line:32]-INFO-[日志信息]: 开始登录
+Thu, 15 Aug 2019 21:54:15-common.record_log-loginPage.py-[line:41]-INFO-[日志信息]: 输入用户名:管理员
+Thu, 15 Aug 2019 21:54:15-common.record_log-loginPage.py-[line:45]-INFO-[日志信息]: 输入密码:123456
+Thu, 15 Aug 2019 21:54:15-common.record_log-loginPage.py-[line:49]-INFO-[日志信息]: 点击登录按钮
+Thu, 15 Aug 2019 21:54:17-common.record_log-base.py-[line:47]-INFO-[日志信息]: 加载测试地址:http://fixedserver.test.al8l.com/ancient/model_plates
+Thu, 15 Aug 2019 21:54:17-common.record_log-modelplatesPage.py-[line:82]-INFO-[日志信息]: 进入模板字段配置成功
+Thu, 15 Aug 2019 21:54:18-common.record_log-modelplatesPage.py-[line:89]-INFO-[日志信息]: 输入模板KEY名称：印刷数量
+Thu, 15 Aug 2019 21:54:19-common.record_log-modelplatesPage.py-[line:95]-INFO-[日志信息]: 正在选择KEY类型：大文本
+Thu, 15 Aug 2019 21:54:21-common.record_log-modelplatesPage.py-[line:102]-INFO-[日志信息]: 选择KEY排序：2
+Thu, 15 Aug 2019 21:54:21-common.record_log-modelplatesPage.py-[line:106]-INFO-[日志信息]: KEY：印刷数量保存成功
+Thu, 15 Aug 2019 21:54:22-common.record_log-base.py-[line:47]-INFO-[日志信息]: 加载测试地址:http://fixedserver.test.al8l.com/users/sign_in
+Thu, 15 Aug 2019 21:54:22-common.record_log-loginPage.py-[line:32]-INFO-[日志信息]: 开始登录
+Thu, 15 Aug 2019 21:54:22-common.record_log-loginPage.py-[line:41]-INFO-[日志信息]: 输入用户名:管理员
+Thu, 15 Aug 2019 21:54:22-common.record_log-loginPage.py-[line:45]-INFO-[日志信息]: 输入密码:123456
+Thu, 15 Aug 2019 21:54:22-common.record_log-loginPage.py-[line:49]-INFO-[日志信息]: 点击登录按钮
+Thu, 15 Aug 2019 21:54:24-common.record_log-base.py-[line:47]-INFO-[日志信息]: 加载测试地址:http://fixedserver.test.al8l.com/ancient/model_plates
+Thu, 15 Aug 2019 21:54:24-common.record_log-modelplatesPage.py-[line:82]-INFO-[日志信息]: 进入模板字段配置成功
+Thu, 15 Aug 2019 21:54:25-common.record_log-modelplatesPage.py-[line:89]-INFO-[日志信息]: 输入模板KEY名称：备注
+Thu, 15 Aug 2019 21:54:26-common.record_log-modelplatesPage.py-[line:95]-INFO-[日志信息]: 正在选择KEY类型：大文本
+Thu, 15 Aug 2019 21:54:27-common.record_log-modelplatesPage.py-[line:102]-INFO-[日志信息]: 选择KEY排序：3
+Thu, 15 Aug 2019 21:54:28-common.record_log-modelplatesPage.py-[line:106]-INFO-[日志信息]: KEY：备注保存成功
+Thu, 15 Aug 2019 21:54:29-common.record_log-base.py-[line:47]-INFO-[日志信息]: 加载测试地址:http://fixedserver.test.al8l.com/users/sign_in
+Thu, 15 Aug 2019 21:54:29-common.record_log-loginPage.py-[line:32]-INFO-[日志信息]: 开始登录
+Thu, 15 Aug 2019 21:54:29-common.record_log-loginPage.py-[line:41]-INFO-[日志信息]: 输入用户名:kfq_cgr
+Thu, 15 Aug 2019 21:54:29-common.record_log-loginPage.py-[line:45]-INFO-[日志信息]: 输入密码:12345678
+Thu, 15 Aug 2019 21:54:29-common.record_log-loginPage.py-[line:49]-INFO-[日志信息]: 点击登录按钮
+Thu, 15 Aug 2019 21:54:31-common.record_log-base.py-[line:47]-INFO-[日志信息]: 加载测试地址:http://fixedserver.test.al8l.com/ancient/projects/new
+Thu, 15 Aug 2019 21:54:31-common.record_log-newprojectPage.py-[line:42]-INFO-[日志信息]: 输入项目名称：南通市税务局港闸区税务局大楼印刷项目
+Thu, 15 Aug 2019 21:54:32-common.record_log-newprojectPage.py-[line:48]-INFO-[日志信息]: 正在选择一级品目：印刷服务
+Thu, 15 Aug 2019 21:54:32-common.record_log-newprojectPage.py-[line:52]-INFO-[日志信息]: 正在选择二级品目：印刷
+Thu, 15 Aug 2019 21:54:32-common.record_log-newprojectPage.py-[line:57]-INFO-[日志信息]: 输入联系人：李老师
+Thu, 15 Aug 2019 21:54:33-common.record_log-newprojectPage.py-[line:64]-INFO-[日志信息]: 输入联系人：15851398152
+Thu, 15 Aug 2019 21:54:35-common.record_log-newprojectPage.py-[line:71]-INFO-[日志信息]: 选择服务地址成功
+Thu, 15 Aug 2019 21:54:35-common.record_log-newprojectPage.py-[line:75]-INFO-[日志信息]: 选择发票成功
+Thu, 15 Aug 2019 21:54:35-common.record_log-newprojectPage.py-[line:79]-INFO-[日志信息]: 输入预算金额：120000
+Thu, 15 Aug 2019 21:54:36-common.record_log-newprojectPage.py-[line:86]-INFO-[日志信息]: 输入服务周期：180
+Thu, 15 Aug 2019 21:54:37-common.record_log-newprojectPage.py-[line:93]-INFO-[日志信息]: 点开附件按钮成功
+Thu, 15 Aug 2019 21:54:37-common.record_log-newprojectPage.py-[line:97]-INFO-[日志信息]: 上传附件成功
+Thu, 15 Aug 2019 21:54:39-common.record_log-newprojectPage.py-[line:101]-INFO-[日志信息]: 项目暂存成功
+Thu, 15 Aug 2019 21:54:39-common.record_log-conftest.py-[line:79]-INFO-[日志信息]: ------------close browser------------
+Thu, 15 Aug 2019 21:54:59-common.record_log-conftest.py-[line:75]-INFO-[日志信息]: ------------open browser------------
+Thu, 15 Aug 2019 21:55:05-common.record_log-base.py-[line:47]-INFO-[日志信息]: 加载测试地址:http://fixedserver.test.al8l.com/users/sign_in
+Thu, 15 Aug 2019 21:55:05-common.record_log-loginPage.py-[line:32]-INFO-[日志信息]: 开始登录
+Thu, 15 Aug 2019 21:55:05-common.record_log-loginPage.py-[line:41]-INFO-[日志信息]: 输入用户名:管理员
+Thu, 15 Aug 2019 21:55:05-common.record_log-loginPage.py-[line:45]-INFO-[日志信息]: 输入密码:123456
+Thu, 15 Aug 2019 21:55:05-common.record_log-loginPage.py-[line:49]-INFO-[日志信息]: 点击登录按钮
+Thu, 15 Aug 2019 21:55:11-common.record_log-base.py-[line:47]-INFO-[日志信息]: 加载测试地址:http://fixedserver.test.al8l.com/ancient/model_plates
+Thu, 15 Aug 2019 21:55:11-common.record_log-modelplatesPage.py-[line:51]-INFO-[日志信息]: 点击新增模板按钮
+Thu, 15 Aug 2019 21:55:11-common.record_log-modelplatesPage.py-[line:56]-INFO-[日志信息]: 输入模板名称：印刷服务品目
+Thu, 15 Aug 2019 21:55:12-common.record_log-modelplatesPage.py-[line:63]-INFO-[日志信息]: 正在选择一级品目：印刷服务
+Thu, 15 Aug 2019 21:55:13-common.record_log-modelplatesPage.py-[line:67]-INFO-[日志信息]: 正在选择二级品目：印刷
+Thu, 15 Aug 2019 21:55:13-common.record_log-modelplatesPage.py-[line:71]-INFO-[日志信息]: 正在保存配置模板：印刷服务品目
+Thu, 15 Aug 2019 21:55:14-common.record_log-modelplatesPage.py-[line:73]-INFO-[日志信息]: 保存配置模板：印刷服务品目成功
+Thu, 15 Aug 2019 21:55:14-common.record_log-base.py-[line:47]-INFO-[日志信息]: 加载测试地址:http://fixedserver.test.al8l.com/users/sign_in
+Thu, 15 Aug 2019 21:55:14-common.record_log-loginPage.py-[line:32]-INFO-[日志信息]: 开始登录
+Thu, 15 Aug 2019 21:55:14-common.record_log-loginPage.py-[line:41]-INFO-[日志信息]: 输入用户名:管理员
+Thu, 15 Aug 2019 21:55:14-common.record_log-loginPage.py-[line:45]-INFO-[日志信息]: 输入密码:123456
+Thu, 15 Aug 2019 21:55:14-common.record_log-loginPage.py-[line:49]-INFO-[日志信息]: 点击登录按钮
+Thu, 15 Aug 2019 21:55:16-common.record_log-base.py-[line:47]-INFO-[日志信息]: 加载测试地址:http://fixedserver.test.al8l.com/ancient/model_plates
+Thu, 15 Aug 2019 21:55:17-common.record_log-modelplatesPage.py-[line:82]-INFO-[日志信息]: 进入模板字段配置成功
+Thu, 15 Aug 2019 21:55:17-common.record_log-modelplatesPage.py-[line:89]-INFO-[日志信息]: 输入模板KEY名称：印刷品名称
+Thu, 15 Aug 2019 21:55:18-common.record_log-modelplatesPage.py-[line:95]-INFO-[日志信息]: 正在选择KEY类型：大文本
+Thu, 15 Aug 2019 21:55:20-common.record_log-modelplatesPage.py-[line:102]-INFO-[日志信息]: 选择KEY排序：1
+Thu, 15 Aug 2019 21:55:21-common.record_log-modelplatesPage.py-[line:106]-INFO-[日志信息]: KEY：印刷品名称保存成功
+Thu, 15 Aug 2019 21:55:21-common.record_log-base.py-[line:47]-INFO-[日志信息]: 加载测试地址:http://fixedserver.test.al8l.com/users/sign_in
+Thu, 15 Aug 2019 21:55:21-common.record_log-loginPage.py-[line:32]-INFO-[日志信息]: 开始登录
+Thu, 15 Aug 2019 21:55:21-common.record_log-loginPage.py-[line:41]-INFO-[日志信息]: 输入用户名:管理员
+Thu, 15 Aug 2019 21:55:21-common.record_log-loginPage.py-[line:45]-INFO-[日志信息]: 输入密码:123456
+Thu, 15 Aug 2019 21:55:21-common.record_log-loginPage.py-[line:49]-INFO-[日志信息]: 点击登录按钮
+Thu, 15 Aug 2019 21:55:23-common.record_log-base.py-[line:47]-INFO-[日志信息]: 加载测试地址:http://fixedserver.test.al8l.com/ancient/model_plates
+Thu, 15 Aug 2019 21:55:24-common.record_log-modelplatesPage.py-[line:82]-INFO-[日志信息]: 进入模板字段配置成功
+Thu, 15 Aug 2019 21:55:24-common.record_log-modelplatesPage.py-[line:89]-INFO-[日志信息]: 输入模板KEY名称：印刷数量
+Thu, 15 Aug 2019 21:55:25-common.record_log-modelplatesPage.py-[line:95]-INFO-[日志信息]: 正在选择KEY类型：大文本
+Thu, 15 Aug 2019 21:55:27-common.record_log-modelplatesPage.py-[line:102]-INFO-[日志信息]: 选择KEY排序：2
+Thu, 15 Aug 2019 21:55:27-common.record_log-modelplatesPage.py-[line:106]-INFO-[日志信息]: KEY：印刷数量保存成功
+Thu, 15 Aug 2019 21:55:28-common.record_log-base.py-[line:47]-INFO-[日志信息]: 加载测试地址:http://fixedserver.test.al8l.com/users/sign_in
+Thu, 15 Aug 2019 21:55:28-common.record_log-loginPage.py-[line:32]-INFO-[日志信息]: 开始登录
+Thu, 15 Aug 2019 21:55:28-common.record_log-loginPage.py-[line:41]-INFO-[日志信息]: 输入用户名:管理员
+Thu, 15 Aug 2019 21:55:28-common.record_log-loginPage.py-[line:45]-INFO-[日志信息]: 输入密码:123456
+Thu, 15 Aug 2019 21:55:28-common.record_log-loginPage.py-[line:49]-INFO-[日志信息]: 点击登录按钮
+Thu, 15 Aug 2019 21:55:30-common.record_log-base.py-[line:47]-INFO-[日志信息]: 加载测试地址:http://fixedserver.test.al8l.com/ancient/model_plates
+Thu, 15 Aug 2019 21:55:30-common.record_log-modelplatesPage.py-[line:82]-INFO-[日志信息]: 进入模板字段配置成功
+Thu, 15 Aug 2019 21:55:32-common.record_log-modelplatesPage.py-[line:89]-INFO-[日志信息]: 输入模板KEY名称：备注
+Thu, 15 Aug 2019 21:55:33-common.record_log-modelplatesPage.py-[line:95]-INFO-[日志信息]: 正在选择KEY类型：大文本
+Thu, 15 Aug 2019 21:55:34-common.record_log-modelplatesPage.py-[line:102]-INFO-[日志信息]: 选择KEY排序：3
+Thu, 15 Aug 2019 21:55:36-common.record_log-modelplatesPage.py-[line:106]-INFO-[日志信息]: KEY：备注保存成功
+Thu, 15 Aug 2019 21:55:36-common.record_log-base.py-[line:47]-INFO-[日志信息]: 加载测试地址:http://fixedserver.test.al8l.com/users/sign_in
+Thu, 15 Aug 2019 21:55:36-common.record_log-loginPage.py-[line:32]-INFO-[日志信息]: 开始登录
+Thu, 15 Aug 2019 21:55:36-common.record_log-loginPage.py-[line:41]-INFO-[日志信息]: 输入用户名:kfq_cgr
+Thu, 15 Aug 2019 21:55:36-common.record_log-loginPage.py-[line:45]-INFO-[日志信息]: 输入密码:12345678
+Thu, 15 Aug 2019 21:55:36-common.record_log-loginPage.py-[line:49]-INFO-[日志信息]: 点击登录按钮
+Thu, 15 Aug 2019 21:55:39-common.record_log-base.py-[line:47]-INFO-[日志信息]: 加载测试地址:http://fixedserver.test.al8l.com/ancient/projects/new
+Thu, 15 Aug 2019 21:55:39-common.record_log-newprojectPage.py-[line:42]-INFO-[日志信息]: 输入项目名称：南通市税务局港闸区税务局大楼印刷项目
+Thu, 15 Aug 2019 21:55:40-common.record_log-newprojectPage.py-[line:48]-INFO-[日志信息]: 正在选择一级品目：印刷服务
+Thu, 15 Aug 2019 21:55:40-common.record_log-newprojectPage.py-[line:52]-INFO-[日志信息]: 正在选择二级品目：印刷
+Thu, 15 Aug 2019 21:55:41-common.record_log-newprojectPage.py-[line:57]-INFO-[日志信息]: 输入联系人：李老师
+Thu, 15 Aug 2019 21:55:42-common.record_log-newprojectPage.py-[line:64]-INFO-[日志信息]: 输入联系人：15851398152
+Thu, 15 Aug 2019 21:55:43-common.record_log-newprojectPage.py-[line:71]-INFO-[日志信息]: 选择服务地址成功
+Thu, 15 Aug 2019 21:55:43-common.record_log-newprojectPage.py-[line:75]-INFO-[日志信息]: 选择发票成功
+Thu, 15 Aug 2019 21:55:43-common.record_log-newprojectPage.py-[line:79]-INFO-[日志信息]: 输入预算金额：120000
+Thu, 15 Aug 2019 21:55:44-common.record_log-newprojectPage.py-[line:86]-INFO-[日志信息]: 输入服务周期：180
+Thu, 15 Aug 2019 21:55:46-common.record_log-newprojectPage.py-[line:93]-INFO-[日志信息]: 点开附件按钮成功
+Thu, 15 Aug 2019 21:55:46-common.record_log-newprojectPage.py-[line:97]-INFO-[日志信息]: 上传附件成功
+Thu, 15 Aug 2019 21:55:47-common.record_log-newprojectPage.py-[line:101]-INFO-[日志信息]: 项目暂存成功
+Thu, 15 Aug 2019 21:55:47-common.record_log-conftest.py-[line:79]-INFO-[日志信息]: ------------close browser------------
