@@ -14,6 +14,25 @@
 class NewprojectData(object):
     """项目测试数据"""
 
+    user_password = {
+
+        # 采购人
+        'username': 'kfq_cgr',
+        'password': '12345678'
+
+        # 开发区采购人
+        # 'username': 'kfq_cgr',
+        # 'password': '12345678'
+
+        # 崇川区区采购人
+        # 'username': 'ccq_cgr',
+        # 'password': '12345678'
+
+        # 港闸区采购人
+        # 'username': 'gzq_cgr',
+        # 'password': '12345678'
+
+    }
     cgr_account = [
         (
             'kfq_cgr',

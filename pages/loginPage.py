@@ -71,8 +71,10 @@ class LoginPage(Base):
         self.click(*self.logout_btn)
         self.logger.info("登出成功")
 
-    def accept_alert(self):
+
+    def switch_accept_alert(self):
         self.accept_alert()
+        self.logger.info("确认成功")
 
 
 

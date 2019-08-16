@@ -14,6 +14,7 @@ from common.parse_config import ParseConfig
 from config.config import LOCATOR_PATH
 from selenium.webdriver.support.select import Select
 import time
+from datas.modelplates_datas import ModelplatesData
 
 class NewprojectPage(Base):
 
@@ -31,7 +32,9 @@ class NewprojectPage(Base):
     Attachment_click = locator('NewprojectPage', 'Attachment_click')
     Attachment_file = locator('NewprojectPage', 'Attachment_file')
     save_next = locator('NewprojectPage', 'save_next')
-
+    descripefield = locator('NewprojectPage', 'descripefield')
+    descripetext = locator('NewprojectPage', 'descripetext')
+    save_project_btn = locator('NewprojectPage', 'save_project_btn')
 
 
     def open_newprojecturl(self):
@@ -99,3 +102,23 @@ class NewprojectPage(Base):
     def click_save_next(self):
         self.click(*self.save_next)
         self.logger.info("项目暂存成功")
+
+    def find_descripe_fields(self):
+        eles = self.find_elements(*self.descripefield)
+        self.logger.info("获取到多个需求描述字段元素")
+        return eles
+
+    def find_descripe_texts(self):
+        eles = self.find_elements(*self.descripetext)
+        self.logger.info("获取到多个需求描述字段输入框元素")
+        return eles
+
+    def click_save_project(self):
+        self.click(*self.save_project_btn)
+        self.logger.info("点击保存项目按钮成功")
+
+    def switch_to_alert(self):
+        self.accept_alert()
+        self.logger.info("提交项目成功")
+
+

@@ -18,10 +18,11 @@ from selenium.common.exceptions import (NoSuchElementException,
                                         InvalidArgumentException)
 from selenium.webdriver.common.action_chains import ActionChains
 from selenium.webdriver.remote.webelement import WebElement
-
+from selenium.webdriver.common.alert import Alert
 from common.record_log import logger
 from common.create_dirs import CreateDir
 from config.config import ERROR_IMG_DIR
+from selenium.webdriver.common.by import By
 
 
 
@@ -151,12 +152,12 @@ class Base(object):
             raise NoAlertPresentException("没有alert抛出")
 
     # by linguowei
-    @property
+
     def accept_alert(self):
 
         alert = self.is_alert_switch_to_it
         if alert:
-            alert.accept()
+            return alert.accept()
         else:
             self.logger.error("获取alert文本失败")
             raise NoAlertPresentException("没有alert抛出")
@@ -302,13 +303,13 @@ class Base(object):
             self.driver.switch_to.window(new_window)
 
 
-if __name__ == '__main__':
-    d = webdriver.Firefox()
-    b = Base(d)
-    b.open('https://www.baidu.com')
-    b.find_element('id', 'kw').send_keys('linux超')
-    b.find_element('id', 'su').click()
-    b.find_elements('xpath', '//a[@class="c-showurl"]')[0].click()
-    b.switch_to_window()
-    print(b.find_element('xpath', '//a[@id="Header1_HeaderTitle"]').text)
-    b.save_screen_shot('pass')
+# if __name__ == '__main__':
+#     d = webdriver.Firefox()
+#     b = Base(d)
+#     b.open('https://www.baidu.com')
+#     b.find_element('id', 'kw').send_keys('linux超')
+#     b.find_element('id', 'su').click()
+#     b.find_elements('xpath', '//a[@class="c-showurl"]')[0].click()
+#     b.switch_to_window()
+#     print(b.find_element('xpath', '//a[@id="Header1_HeaderTitle"]').text)
+#     b.save_screen_shot('pass')

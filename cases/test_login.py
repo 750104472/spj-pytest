@@ -21,7 +21,7 @@ class TestLogin(object):
     logger = logger
     t_data = LoginData
 
-    @pytest.mark.success
+    @pytest.mark.login
     @pytest.mark.parametrize('user, pwd, expect', t_data.login_success_data)
     def test_login_success(self, open_url, user, pwd, expect):
         """登录:登录成功"""
@@ -47,15 +47,15 @@ class TestLogin(object):
                 user,
                 pwd))
 
-    @pytest.mark.fail
+    @pytest.mark.login
     @pytest.mark.parametrize('user, pwd, expect', t_data.login_format_data)
     def test_login_format_error(self, open_url, user, pwd, expect):
         """登录:帐号或密码格式错误"""
         login_page = open_url
         login_page.login(user, pwd)
         actual = login_page.get_phone_pwd_format_info
+        login_page.switch_accept_alert()
 
-        login_page.accept_alert()
         try:
             assert expect == actual, '断言失败'
         except AssertionError as e:
@@ -72,7 +72,7 @@ class TestLogin(object):
                 user,
                 pwd))
 
-    @pytest.mark.fail
+    @pytest.mark.login
     @pytest.mark.parametrize('user, pwd, expect', t_data.login_account_error_data)
     def test_login_account_error(self, open_url, user, pwd, expect):
         """登录:帐号或密码错误"""
