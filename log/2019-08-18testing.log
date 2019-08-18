@@ -1,0 +1,305 @@
+Sun, 18 Aug 2019 09:19:59-common.record_log-conftest.py-[line:81]-INFO-[日志信息]: ------------open browser------------
+Sun, 18 Aug 2019 09:20:04-common.record_log-base.py-[line:48]-INFO-[日志信息]: 加载测试地址:http://fixedserver.test.al8l.com/users/sign_in
+Sun, 18 Aug 2019 09:20:04-common.record_log-loginPage.py-[line:32]-INFO-[日志信息]: 开始登录
+Sun, 18 Aug 2019 09:20:04-common.record_log-loginPage.py-[line:41]-INFO-[日志信息]: 输入用户名:管理员
+Sun, 18 Aug 2019 09:20:04-common.record_log-loginPage.py-[line:45]-INFO-[日志信息]: 输入密码:123456
+Sun, 18 Aug 2019 09:20:04-common.record_log-loginPage.py-[line:49]-INFO-[日志信息]: 点击登录按钮
+Sun, 18 Aug 2019 09:20:07-common.record_log-base.py-[line:239]-INFO-[日志信息]: 获取元素文本内容:【后台管理】
+Sun, 18 Aug 2019 09:20:07-common.record_log-loginPage.py-[line:67]-INFO-[日志信息]: 获取登录成功断言信息:【后台管理】
+Sun, 18 Aug 2019 09:20:08-common.record_log-loginPage.py-[line:72]-INFO-[日志信息]: 登出成功
+Sun, 18 Aug 2019 09:20:08-common.record_log-test_login.py-[line:48]-INFO-[日志信息]: 测试用例test_login_success-管理员-123456测试通过
+Sun, 18 Aug 2019 09:20:08-common.record_log-conftest.py-[line:85]-INFO-[日志信息]: ------------close browser------------
+Sun, 18 Aug 2019 09:21:59-common.record_log-conftest.py-[line:81]-INFO-[日志信息]: ------------open browser------------
+Sun, 18 Aug 2019 09:22:03-common.record_log-base.py-[line:48]-INFO-[日志信息]: 加载测试地址:http://fixedserver.test.al8l.com/users/sign_in
+Sun, 18 Aug 2019 09:22:03-common.record_log-loginPage.py-[line:32]-INFO-[日志信息]: 开始登录
+Sun, 18 Aug 2019 09:22:03-common.record_log-loginPage.py-[line:41]-INFO-[日志信息]: 输入用户名:管理员
+Sun, 18 Aug 2019 09:22:03-common.record_log-loginPage.py-[line:45]-INFO-[日志信息]: 输入密码:123456
+Sun, 18 Aug 2019 09:22:03-common.record_log-loginPage.py-[line:49]-INFO-[日志信息]: 点击登录按钮
+Sun, 18 Aug 2019 09:22:06-common.record_log-base.py-[line:239]-INFO-[日志信息]: 获取元素文本内容:【后台管理】
+Sun, 18 Aug 2019 09:22:06-common.record_log-loginPage.py-[line:67]-INFO-[日志信息]: 获取登录成功断言信息:【后台管理】
+Sun, 18 Aug 2019 09:22:07-common.record_log-loginPage.py-[line:72]-INFO-[日志信息]: 登出成功
+Sun, 18 Aug 2019 09:22:07-common.record_log-test_login.py-[line:48]-INFO-[日志信息]: 测试用例test_login_success-管理员-123456测试通过
+Sun, 18 Aug 2019 09:22:07-common.record_log-conftest.py-[line:85]-INFO-[日志信息]: ------------close browser------------
+Sun, 18 Aug 2019 09:28:39-common.record_log-conftest.py-[line:81]-INFO-[日志信息]: ------------open browser------------
+Sun, 18 Aug 2019 09:28:43-common.record_log-base.py-[line:48]-INFO-[日志信息]: 加载测试地址:http://fixedserver.test.al8l.com/users/sign_in
+Sun, 18 Aug 2019 09:28:43-common.record_log-loginPage.py-[line:32]-INFO-[日志信息]: 开始登录
+Sun, 18 Aug 2019 09:28:43-common.record_log-loginPage.py-[line:41]-INFO-[日志信息]: 输入用户名:管理员
+Sun, 18 Aug 2019 09:28:43-common.record_log-loginPage.py-[line:45]-INFO-[日志信息]: 输入密码:123456
+Sun, 18 Aug 2019 09:28:43-common.record_log-loginPage.py-[line:49]-INFO-[日志信息]: 点击登录按钮
+Sun, 18 Aug 2019 09:28:45-common.record_log-base.py-[line:239]-INFO-[日志信息]: 获取元素文本内容:【后台管理】
+Sun, 18 Aug 2019 09:28:45-common.record_log-loginPage.py-[line:67]-INFO-[日志信息]: 获取登录成功断言信息:【后台管理】
+Sun, 18 Aug 2019 09:28:46-common.record_log-loginPage.py-[line:72]-INFO-[日志信息]: 登出成功
+Sun, 18 Aug 2019 09:28:46-common.record_log-test_login.py-[line:48]-INFO-[日志信息]: 测试用例test_login_success-管理员-123456测试通过
+Sun, 18 Aug 2019 09:28:46-common.record_log-conftest.py-[line:85]-INFO-[日志信息]: ------------close browser------------
+Sun, 18 Aug 2019 09:37:04-common.record_log-conftest.py-[line:81]-INFO-[日志信息]: ------------open browser------------
+Sun, 18 Aug 2019 09:37:08-common.record_log-base.py-[line:48]-INFO-[日志信息]: 加载测试地址:http://fixedserver.test.al8l.com/users/sign_in
+Sun, 18 Aug 2019 09:37:08-common.record_log-loginPage.py-[line:32]-INFO-[日志信息]: 开始登录
+Sun, 18 Aug 2019 09:37:08-common.record_log-loginPage.py-[line:41]-INFO-[日志信息]: 输入用户名:管理员
+Sun, 18 Aug 2019 09:37:08-common.record_log-loginPage.py-[line:45]-INFO-[日志信息]: 输入密码:123456
+Sun, 18 Aug 2019 09:37:08-common.record_log-loginPage.py-[line:49]-INFO-[日志信息]: 点击登录按钮
+Sun, 18 Aug 2019 09:37:10-common.record_log-base.py-[line:239]-INFO-[日志信息]: 获取元素文本内容:【后台管理】
+Sun, 18 Aug 2019 09:37:10-common.record_log-loginPage.py-[line:67]-INFO-[日志信息]: 获取登录成功断言信息:【后台管理】
+Sun, 18 Aug 2019 09:37:11-common.record_log-loginPage.py-[line:72]-INFO-[日志信息]: 登出成功
+Sun, 18 Aug 2019 09:37:11-common.record_log-test_login.py-[line:48]-INFO-[日志信息]: 测试用例test_login_success-管理员-123456测试通过
+Sun, 18 Aug 2019 09:37:14-common.record_log-conftest.py-[line:85]-INFO-[日志信息]: ------------close browser------------
+Sun, 18 Aug 2019 11:01:50-common.record_log-conftest.py-[line:81]-INFO-[日志信息]: ------------open browser------------
+Sun, 18 Aug 2019 11:01:54-common.record_log-base.py-[line:48]-INFO-[日志信息]: 加载测试地址:http://fixedserver.test.al8l.com/users/sign_in
+Sun, 18 Aug 2019 11:01:54-common.record_log-loginPage.py-[line:32]-INFO-[日志信息]: 开始登录
+Sun, 18 Aug 2019 11:01:54-common.record_log-loginPage.py-[line:41]-INFO-[日志信息]: 输入用户名:管理员
+Sun, 18 Aug 2019 11:01:54-common.record_log-loginPage.py-[line:45]-INFO-[日志信息]: 输入密码:123456
+Sun, 18 Aug 2019 11:01:54-common.record_log-loginPage.py-[line:49]-INFO-[日志信息]: 点击登录按钮
+Sun, 18 Aug 2019 11:01:57-common.record_log-base.py-[line:239]-INFO-[日志信息]: 获取元素文本内容:【后台管理】
+Sun, 18 Aug 2019 11:01:57-common.record_log-loginPage.py-[line:67]-INFO-[日志信息]: 获取登录成功断言信息:【后台管理】
+Sun, 18 Aug 2019 11:01:57-common.record_log-loginPage.py-[line:72]-INFO-[日志信息]: 登出成功
+Sun, 18 Aug 2019 11:01:57-common.record_log-test_login.py-[line:48]-INFO-[日志信息]: 测试用例test_login_success-管理员-123456测试通过
+Sun, 18 Aug 2019 11:01:58-common.record_log-base.py-[line:48]-INFO-[日志信息]: 加载测试地址:http://fixedserver.test.al8l.com/users/sign_in
+Sun, 18 Aug 2019 11:01:58-common.record_log-loginPage.py-[line:32]-INFO-[日志信息]: 开始登录
+Sun, 18 Aug 2019 11:01:58-common.record_log-loginPage.py-[line:41]-INFO-[日志信息]: 输入用户名:
+Sun, 18 Aug 2019 11:01:58-common.record_log-loginPage.py-[line:45]-INFO-[日志信息]: 输入密码:python
+Sun, 18 Aug 2019 11:01:58-common.record_log-loginPage.py-[line:49]-INFO-[日志信息]: 点击登录按钮
+Sun, 18 Aug 2019 11:01:58-common.record_log-loginPage.py-[line:55]-INFO-[日志信息]: 获取登录失败断言信息:账号或密码不能为空
+Sun, 18 Aug 2019 11:01:58-common.record_log-loginPage.py-[line:77]-INFO-[日志信息]: 确认成功
+Sun, 18 Aug 2019 11:01:58-common.record_log-test_login.py-[line:73]-INFO-[日志信息]: 测试用例test_login_format_error--python测试通过
+Sun, 18 Aug 2019 11:01:58-common.record_log-base.py-[line:48]-INFO-[日志信息]: 加载测试地址:http://fixedserver.test.al8l.com/users/sign_in
+Sun, 18 Aug 2019 11:01:58-common.record_log-loginPage.py-[line:32]-INFO-[日志信息]: 开始登录
+Sun, 18 Aug 2019 11:01:58-common.record_log-loginPage.py-[line:41]-INFO-[日志信息]: 输入用户名:18684720553
+Sun, 18 Aug 2019 11:01:58-common.record_log-loginPage.py-[line:45]-INFO-[日志信息]: 输入密码:
+Sun, 18 Aug 2019 11:01:58-common.record_log-loginPage.py-[line:49]-INFO-[日志信息]: 点击登录按钮
+Sun, 18 Aug 2019 11:01:58-common.record_log-loginPage.py-[line:55]-INFO-[日志信息]: 获取登录失败断言信息:账号或密码不能为空
+Sun, 18 Aug 2019 11:01:58-common.record_log-loginPage.py-[line:77]-INFO-[日志信息]: 确认成功
+Sun, 18 Aug 2019 11:01:58-common.record_log-test_login.py-[line:73]-INFO-[日志信息]: 测试用例test_login_format_error-18684720553-测试通过
+Sun, 18 Aug 2019 11:01:59-common.record_log-base.py-[line:48]-INFO-[日志信息]: 加载测试地址:http://fixedserver.test.al8l.com/users/sign_in
+Sun, 18 Aug 2019 11:01:59-common.record_log-loginPage.py-[line:32]-INFO-[日志信息]: 开始登录
+Sun, 18 Aug 2019 11:01:59-common.record_log-loginPage.py-[line:41]-INFO-[日志信息]: 输入用户名:
+Sun, 18 Aug 2019 11:01:59-common.record_log-loginPage.py-[line:45]-INFO-[日志信息]: 输入密码:
+Sun, 18 Aug 2019 11:01:59-common.record_log-loginPage.py-[line:49]-INFO-[日志信息]: 点击登录按钮
+Sun, 18 Aug 2019 11:01:59-common.record_log-loginPage.py-[line:55]-INFO-[日志信息]: 获取登录失败断言信息:账号或密码不能为空
+Sun, 18 Aug 2019 11:01:59-common.record_log-loginPage.py-[line:77]-INFO-[日志信息]: 确认成功
+Sun, 18 Aug 2019 11:01:59-common.record_log-test_login.py-[line:73]-INFO-[日志信息]: 测试用例test_login_format_error--测试通过
+Sun, 18 Aug 2019 11:01:59-common.record_log-base.py-[line:48]-INFO-[日志信息]: 加载测试地址:http://fixedserver.test.al8l.com/users/sign_in
+Sun, 18 Aug 2019 11:01:59-common.record_log-loginPage.py-[line:32]-INFO-[日志信息]: 开始登录
+Sun, 18 Aug 2019 11:01:59-common.record_log-loginPage.py-[line:41]-INFO-[日志信息]: 输入用户名:kfq_cgr
+Sun, 18 Aug 2019 11:01:59-common.record_log-loginPage.py-[line:45]-INFO-[日志信息]: 输入密码:python
+Sun, 18 Aug 2019 11:01:59-common.record_log-loginPage.py-[line:49]-INFO-[日志信息]: 点击登录按钮
+Sun, 18 Aug 2019 11:02:00-common.record_log-base.py-[line:239]-INFO-[日志信息]: 获取元素文本内容:温馨提示：登录名或密码错误
+Sun, 18 Aug 2019 11:02:00-common.record_log-loginPage.py-[line:61]-INFO-[日志信息]: 获取登陆失败断言信息:温馨提示：登录名或密码错误
+Sun, 18 Aug 2019 11:02:00-common.record_log-test_login.py-[line:96]-INFO-[日志信息]: 测试用例test_login_account_error-kfq_cgr-python测试通过
+Sun, 18 Aug 2019 11:02:00-common.record_log-base.py-[line:48]-INFO-[日志信息]: 加载测试地址:http://fixedserver.test.al8l.com/users/sign_in
+Sun, 18 Aug 2019 11:02:00-common.record_log-loginPage.py-[line:32]-INFO-[日志信息]: 开始登录
+Sun, 18 Aug 2019 11:02:00-common.record_log-loginPage.py-[line:41]-INFO-[日志信息]: 输入用户名:18684720553
+Sun, 18 Aug 2019 11:02:00-common.record_log-loginPage.py-[line:45]-INFO-[日志信息]: 输入密码:pwd_error
+Sun, 18 Aug 2019 11:02:00-common.record_log-loginPage.py-[line:49]-INFO-[日志信息]: 点击登录按钮
+Sun, 18 Aug 2019 11:02:01-common.record_log-base.py-[line:239]-INFO-[日志信息]: 获取元素文本内容:温馨提示：没有该用户，请您重新注册。
+Sun, 18 Aug 2019 11:02:01-common.record_log-loginPage.py-[line:61]-INFO-[日志信息]: 获取登陆失败断言信息:温馨提示：没有该用户，请您重新注册。
+Sun, 18 Aug 2019 11:02:01-common.record_log-test_login.py-[line:96]-INFO-[日志信息]: 测试用例test_login_account_error-18684720553-pwd_error测试通过
+Sun, 18 Aug 2019 11:02:01-common.record_log-conftest.py-[line:85]-INFO-[日志信息]: ------------close browser------------
+Sun, 18 Aug 2019 11:03:40-common.record_log-conftest.py-[line:11]-INFO-[日志信息]: ----------SETUP删除所有班级-----------
+Sun, 18 Aug 2019 11:03:41-common.record_log-conftest.py-[line:14]-INFO-[日志信息]: ----------TEARDOWN删除所有班级-----------
+Sun, 18 Aug 2019 15:28:08-common.record_log-conftest.py-[line:11]-INFO-[日志信息]: ----------SETUP删除所有班级成功-----------
+Sun, 18 Aug 2019 15:28:08-common.record_log-test_class.py-[line:15]-INFO-[日志信息]: 添加班级：(1, '七年级1班', 60)成功
+Sun, 18 Aug 2019 15:28:09-common.record_log-conftest.py-[line:14]-INFO-[日志信息]: ----------TEARDOWN删除所有班级成功-----------
+Sun, 18 Aug 2019 15:31:12-common.record_log-conftest.py-[line:11]-INFO-[日志信息]: ----------SETUP删除所有班级成功-----------
+Sun, 18 Aug 2019 15:31:13-common.record_log-conftest.py-[line:20]-INFO-[日志信息]: ----------SETUP添加[1,七年级1班,60]成功-----------
+Sun, 18 Aug 2019 15:31:13-common.record_log-test_class.py-[line:28]-INFO-[日志信息]: 添加班级：[1, 七年级2班, 60]成功
+Sun, 18 Aug 2019 15:31:13-common.record_log-test_class.py-[line:32]-INFO-[日志信息]: 删除班级：[1, 七年级2班, 60]成功
+Sun, 18 Aug 2019 15:31:13-common.record_log-conftest.py-[line:23]-INFO-[日志信息]: ----------TEARDOWN删除[1,七年级1班,60]成功-----------
+Sun, 18 Aug 2019 15:31:13-common.record_log-conftest.py-[line:14]-INFO-[日志信息]: ----------TEARDOWN删除所有班级成功-----------
+Sun, 18 Aug 2019 15:32:49-common.record_log-conftest.py-[line:11]-INFO-[日志信息]: ----------SETUP删除所有班级成功-----------
+Sun, 18 Aug 2019 15:32:49-common.record_log-conftest.py-[line:20]-INFO-[日志信息]: ----------SETUP添加[1,七年级1班,60]成功-----------
+Sun, 18 Aug 2019 15:32:49-common.record_log-test_class.py-[line:28]-INFO-[日志信息]: 添加班级：[1, 七年级2班, 60]成功
+Sun, 18 Aug 2019 15:32:49-common.record_log-test_class.py-[line:32]-INFO-[日志信息]: 删除班级：[1, 七年级2班, 60]成功
+Sun, 18 Aug 2019 15:33:30-common.record_log-conftest.py-[line:11]-INFO-[日志信息]: ----------SETUP删除所有班级成功-----------
+Sun, 18 Aug 2019 15:33:30-common.record_log-conftest.py-[line:20]-INFO-[日志信息]: ----------SETUP添加[1,七年级1班,60]成功-----------
+Sun, 18 Aug 2019 15:33:30-common.record_log-test_class.py-[line:28]-INFO-[日志信息]: 添加班级：[1, 七年级2班, 60]成功
+Sun, 18 Aug 2019 15:33:31-common.record_log-test_class.py-[line:32]-INFO-[日志信息]: 删除班级：[1, 七年级2班, 60]成功
+Sun, 18 Aug 2019 15:33:31-common.record_log-conftest.py-[line:14]-INFO-[日志信息]: ----------TEARDOWN删除所有班级成功-----------
+Sun, 18 Aug 2019 15:33:54-common.record_log-conftest.py-[line:11]-INFO-[日志信息]: ----------SETUP删除所有班级成功-----------
+Sun, 18 Aug 2019 15:33:54-common.record_log-conftest.py-[line:20]-INFO-[日志信息]: ----------SETUP添加[1,七年级1班,60]成功-----------
+Sun, 18 Aug 2019 15:33:54-common.record_log-test_class.py-[line:28]-INFO-[日志信息]: 添加班级：[1, 七年级2班, 60]成功
+Sun, 18 Aug 2019 15:33:54-common.record_log-test_class.py-[line:32]-INFO-[日志信息]: 删除班级：[1, 七年级2班, 60]成功
+Sun, 18 Aug 2019 15:33:54-common.record_log-conftest.py-[line:23]-INFO-[日志信息]: ----------TEARDOWN删除[1,七年级1班,60]成功-----------
+Sun, 18 Aug 2019 15:35:37-common.record_log-conftest.py-[line:11]-INFO-[日志信息]: ----------SETUP删除所有班级成功-----------
+Sun, 18 Aug 2019 15:35:37-common.record_log-conftest.py-[line:20]-INFO-[日志信息]: ----------SETUP添加[1,七年级1班,60]成功-----------
+Sun, 18 Aug 2019 15:35:37-common.record_log-test_class.py-[line:28]-INFO-[日志信息]: 添加班级：[1, 七年级2班, 60]成功
+Sun, 18 Aug 2019 15:35:37-common.record_log-SchoolClassLib.py-[line:113]-INFO-[日志信息]: occur 1 times
+Sun, 18 Aug 2019 15:35:37-common.record_log-test_class.py-[line:32]-INFO-[日志信息]: 删除班级：[1, 七年级2班, 60]成功
+Sun, 18 Aug 2019 15:35:37-common.record_log-conftest.py-[line:23]-INFO-[日志信息]: ----------TEARDOWN删除[1,七年级1班,60]成功-----------
+Sun, 18 Aug 2019 15:35:37-common.record_log-conftest.py-[line:14]-INFO-[日志信息]: ----------TEARDOWN删除所有班级成功-----------
+Sun, 18 Aug 2019 15:37:12-common.record_log-conftest.py-[line:11]-INFO-[日志信息]: ----------SETUP删除所有班级成功-----------
+Sun, 18 Aug 2019 15:37:12-common.record_log-conftest.py-[line:20]-INFO-[日志信息]: ----------SETUP添加[1,七年级1班,60]成功-----------
+Sun, 18 Aug 2019 15:37:12-common.record_log-test_class.py-[line:28]-INFO-[日志信息]: 添加班级：[1, 七年级2班, 60]成功
+Sun, 18 Aug 2019 15:37:12-common.record_log-SchoolClassLib.py-[line:109]-INFO-[日志信息]: occur 1 times
+Sun, 18 Aug 2019 15:37:12-common.record_log-test_class.py-[line:32]-INFO-[日志信息]: 删除班级：[1, 七年级2班, 60]成功
+Sun, 18 Aug 2019 15:37:12-common.record_log-conftest.py-[line:23]-INFO-[日志信息]: ----------TEARDOWN删除[1,七年级1班,60]成功-----------
+Sun, 18 Aug 2019 15:37:12-common.record_log-conftest.py-[line:14]-INFO-[日志信息]: ----------TEARDOWN删除所有班级成功-----------
+Sun, 18 Aug 2019 15:37:49-common.record_log-conftest.py-[line:11]-INFO-[日志信息]: ----------SETUP删除所有班级成功-----------
+Sun, 18 Aug 2019 15:37:50-common.record_log-conftest.py-[line:21]-INFO-[日志信息]: ----------SETUP添加[1,七年级1班,60]成功-----------
+Sun, 18 Aug 2019 15:37:50-common.record_log-test_class.py-[line:28]-INFO-[日志信息]: 添加班级：[1, 七年级2班, 60]成功
+Sun, 18 Aug 2019 15:37:50-common.record_log-SchoolClassLib.py-[line:109]-INFO-[日志信息]: occur 1 times
+Sun, 18 Aug 2019 15:37:50-common.record_log-test_class.py-[line:32]-INFO-[日志信息]: 删除班级：[1, 七年级2班, 60]成功
+Sun, 18 Aug 2019 15:37:50-common.record_log-conftest.py-[line:24]-INFO-[日志信息]: ----------TEARDOWN删除[1,七年级1班,60]成功-----------
+Sun, 18 Aug 2019 15:37:50-common.record_log-conftest.py-[line:13]-INFO-[日志信息]: ----------TEARDOWN删除所有班级成功-----------
+Sun, 18 Aug 2019 20:28:05-common.record_log-conftest.py-[line:11]-INFO-[日志信息]: ----------SETUP删除所有班级成功-----------
+Sun, 18 Aug 2019 20:28:05-common.record_log-conftest.py-[line:20]-INFO-[日志信息]: ----------SETUP添加[1,七年级1班,60]成功-----------
+Sun, 18 Aug 2019 20:28:06-common.record_log-conftest.py-[line:23]-INFO-[日志信息]: ----------TEARDOWN删除[1,七年级1班,60]成功-----------
+Sun, 18 Aug 2019 20:28:06-common.record_log-conftest.py-[line:14]-INFO-[日志信息]: ----------TEARDOWN删除所有班级成功-----------
+Sun, 18 Aug 2019 20:29:31-common.record_log-conftest.py-[line:11]-INFO-[日志信息]: ----------SETUP删除所有班级成功-----------
+Sun, 18 Aug 2019 20:29:31-common.record_log-conftest.py-[line:20]-INFO-[日志信息]: ----------SETUP添加[1,七年级1班,60]成功-----------
+Sun, 18 Aug 2019 20:29:32-common.record_log-test_class.py-[line:28]-INFO-[日志信息]: 添加班级：[1, 七年级2班, 60]成功
+Sun, 18 Aug 2019 20:29:32-common.record_log-SchoolClassLib.py-[line:109]-INFO-[日志信息]: occur 1 times
+Sun, 18 Aug 2019 20:29:32-common.record_log-test_class.py-[line:32]-INFO-[日志信息]: 删除班级：[1, 七年级2班, 60]成功
+Sun, 18 Aug 2019 20:29:32-common.record_log-conftest.py-[line:23]-INFO-[日志信息]: ----------TEARDOWN删除[1,七年级1班,60]成功-----------
+Sun, 18 Aug 2019 20:29:32-common.record_log-conftest.py-[line:14]-INFO-[日志信息]: ----------TEARDOWN删除所有班级成功-----------
+Sun, 18 Aug 2019 20:29:40-common.record_log-conftest.py-[line:11]-INFO-[日志信息]: ----------SETUP删除所有班级成功-----------
+Sun, 18 Aug 2019 20:29:40-common.record_log-conftest.py-[line:20]-INFO-[日志信息]: ----------SETUP添加[1,七年级1班,60]成功-----------
+Sun, 18 Aug 2019 20:29:41-common.record_log-conftest.py-[line:23]-INFO-[日志信息]: ----------TEARDOWN删除[1,七年级1班,60]成功-----------
+Sun, 18 Aug 2019 20:29:41-common.record_log-conftest.py-[line:14]-INFO-[日志信息]: ----------TEARDOWN删除所有班级成功-----------
+Sun, 18 Aug 2019 20:30:05-common.record_log-conftest.py-[line:11]-INFO-[日志信息]: ----------SETUP删除所有班级成功-----------
+Sun, 18 Aug 2019 20:30:05-common.record_log-conftest.py-[line:20]-INFO-[日志信息]: ----------SETUP添加[1,七年级1班,60]成功-----------
+Sun, 18 Aug 2019 20:30:06-common.record_log-conftest.py-[line:23]-INFO-[日志信息]: ----------TEARDOWN删除[1,七年级1班,60]成功-----------
+Sun, 18 Aug 2019 20:30:06-common.record_log-conftest.py-[line:14]-INFO-[日志信息]: ----------TEARDOWN删除所有班级成功-----------
+Sun, 18 Aug 2019 20:40:42-common.record_log-conftest.py-[line:11]-INFO-[日志信息]: ----------SETUP删除所有班级成功-----------
+Sun, 18 Aug 2019 20:40:42-common.record_log-conftest.py-[line:20]-INFO-[日志信息]: ----------SETUP添加[1,七年级1班,60]成功-----------
+Sun, 18 Aug 2019 20:40:42-common.record_log-conftest.py-[line:23]-INFO-[日志信息]: ----------TEARDOWN删除[1,七年级1班,60]成功-----------
+Sun, 18 Aug 2019 20:40:42-common.record_log-conftest.py-[line:14]-INFO-[日志信息]: ----------TEARDOWN删除所有班级成功-----------
+Sun, 18 Aug 2019 20:43:52-common.record_log-conftest.py-[line:11]-INFO-[日志信息]: ----------SETUP删除所有班级成功-----------
+Sun, 18 Aug 2019 20:43:52-common.record_log-conftest.py-[line:20]-INFO-[日志信息]: ----------SETUP添加[1,七年级1班,60]成功-----------
+Sun, 18 Aug 2019 20:43:52-common.record_log-conftest.py-[line:23]-INFO-[日志信息]: ----------TEARDOWN删除[1,七年级1班,60]成功-----------
+Sun, 18 Aug 2019 20:43:52-common.record_log-conftest.py-[line:14]-INFO-[日志信息]: ----------TEARDOWN删除所有班级成功-----------
+Sun, 18 Aug 2019 20:44:20-common.record_log-conftest.py-[line:11]-INFO-[日志信息]: ----------SETUP删除所有班级成功-----------
+Sun, 18 Aug 2019 20:44:20-common.record_log-conftest.py-[line:20]-INFO-[日志信息]: ----------SETUP添加[1,七年级1班,60]成功-----------
+Sun, 18 Aug 2019 20:44:20-common.record_log-conftest.py-[line:23]-INFO-[日志信息]: ----------TEARDOWN删除[1,七年级1班,60]成功-----------
+Sun, 18 Aug 2019 20:44:21-common.record_log-conftest.py-[line:14]-INFO-[日志信息]: ----------TEARDOWN删除所有班级成功-----------
+Sun, 18 Aug 2019 20:45:11-common.record_log-conftest.py-[line:11]-INFO-[日志信息]: ----------SETUP删除所有班级成功-----------
+Sun, 18 Aug 2019 20:45:11-common.record_log-conftest.py-[line:20]-INFO-[日志信息]: ----------SETUP添加[1,七年级1班,60]成功-----------
+Sun, 18 Aug 2019 20:45:11-common.record_log-conftest.py-[line:23]-INFO-[日志信息]: ----------TEARDOWN删除[1,七年级1班,60]成功-----------
+Sun, 18 Aug 2019 20:45:11-common.record_log-conftest.py-[line:14]-INFO-[日志信息]: ----------TEARDOWN删除所有班级成功-----------
+Sun, 18 Aug 2019 20:46:16-common.record_log-conftest.py-[line:11]-INFO-[日志信息]: ----------SETUP删除所有班级成功-----------
+Sun, 18 Aug 2019 20:46:16-common.record_log-conftest.py-[line:20]-INFO-[日志信息]: ----------SETUP添加[1,七年级1班,60]成功-----------
+Sun, 18 Aug 2019 20:46:17-common.record_log-conftest.py-[line:23]-INFO-[日志信息]: ----------TEARDOWN删除[1,七年级1班,60]成功-----------
+Sun, 18 Aug 2019 20:46:17-common.record_log-conftest.py-[line:14]-INFO-[日志信息]: ----------TEARDOWN删除所有班级成功-----------
+Sun, 18 Aug 2019 20:47:05-common.record_log-conftest.py-[line:11]-INFO-[日志信息]: ----------SETUP删除所有班级成功-----------
+Sun, 18 Aug 2019 20:47:06-common.record_log-conftest.py-[line:20]-INFO-[日志信息]: ----------SETUP添加[1,七年级1班,60]成功-----------
+Sun, 18 Aug 2019 20:47:06-common.record_log-conftest.py-[line:23]-INFO-[日志信息]: ----------TEARDOWN删除[1,七年级1班,60]成功-----------
+Sun, 18 Aug 2019 20:47:06-common.record_log-conftest.py-[line:14]-INFO-[日志信息]: ----------TEARDOWN删除所有班级成功-----------
+Sun, 18 Aug 2019 20:48:07-common.record_log-conftest.py-[line:11]-INFO-[日志信息]: ----------SETUP删除所有班级成功-----------
+Sun, 18 Aug 2019 20:48:07-common.record_log-conftest.py-[line:20]-INFO-[日志信息]: ----------SETUP添加[1,七年级1班,60]成功-----------
+Sun, 18 Aug 2019 20:48:07-common.record_log-conftest.py-[line:23]-INFO-[日志信息]: ----------TEARDOWN删除[1,七年级1班,60]成功-----------
+Sun, 18 Aug 2019 20:48:08-common.record_log-conftest.py-[line:14]-INFO-[日志信息]: ----------TEARDOWN删除所有班级成功-----------
+Sun, 18 Aug 2019 21:08:42-common.record_log-conftest.py-[line:11]-INFO-[日志信息]: ----------SETUP删除所有班级成功-----------
+Sun, 18 Aug 2019 21:08:42-common.record_log-conftest.py-[line:20]-INFO-[日志信息]: ----------SETUP添加[1,七年级1班,60]成功-----------
+Sun, 18 Aug 2019 21:08:42-common.record_log-conftest.py-[line:23]-INFO-[日志信息]: ----------TEARDOWN删除[1,七年级1班,60]成功-----------
+Sun, 18 Aug 2019 21:08:43-common.record_log-conftest.py-[line:14]-INFO-[日志信息]: ----------TEARDOWN删除所有班级成功-----------
+Sun, 18 Aug 2019 21:41:17-common.record_log-conftest.py-[line:11]-INFO-[日志信息]: ----------SETUP删除所有班级成功-----------
+Sun, 18 Aug 2019 21:41:17-common.record_log-conftest.py-[line:20]-INFO-[日志信息]: ----------SETUP添加[1,七年级1班,60]成功-----------
+Sun, 18 Aug 2019 21:41:18-common.record_log-conftest.py-[line:23]-INFO-[日志信息]: ----------TEARDOWN删除[1,七年级1班,60]成功-----------
+Sun, 18 Aug 2019 21:41:18-common.record_log-conftest.py-[line:14]-INFO-[日志信息]: ----------TEARDOWN删除所有班级成功-----------
+Sun, 18 Aug 2019 21:42:10-common.record_log-conftest.py-[line:11]-INFO-[日志信息]: ----------SETUP删除所有班级成功-----------
+Sun, 18 Aug 2019 21:42:10-common.record_log-conftest.py-[line:20]-INFO-[日志信息]: ----------SETUP添加[1,七年级1班,60]成功,班级id为200138-----------
+Sun, 18 Aug 2019 21:42:10-common.record_log-conftest.py-[line:23]-INFO-[日志信息]: ----------TEARDOWN删除[1,七年级1班,60]成功-----------
+Sun, 18 Aug 2019 21:42:10-common.record_log-conftest.py-[line:14]-INFO-[日志信息]: ----------TEARDOWN删除所有班级成功-----------
+Sun, 18 Aug 2019 21:44:51-common.record_log-conftest.py-[line:11]-INFO-[日志信息]: ----------SETUP删除所有班级成功-----------
+Sun, 18 Aug 2019 21:44:51-common.record_log-conftest.py-[line:20]-INFO-[日志信息]: ----------SETUP添加[1,七年级1班,60]成功,班级id为200141-----------
+Sun, 18 Aug 2019 21:44:51-common.record_log-test_class.py-[line:45]-INFO-[日志信息]: 修改id为200141的班级，班级名称修改为'啦啦啦',人数修改为70
+Sun, 18 Aug 2019 21:44:51-common.record_log-conftest.py-[line:23]-INFO-[日志信息]: ----------TEARDOWN删除[1,七年级1班,60]成功-----------
+Sun, 18 Aug 2019 21:44:51-common.record_log-conftest.py-[line:14]-INFO-[日志信息]: ----------TEARDOWN删除所有班级成功-----------
+Sun, 18 Aug 2019 21:49:25-common.record_log-conftest.py-[line:11]-INFO-[日志信息]: ----------SETUP删除所有班级成功-----------
+Sun, 18 Aug 2019 21:49:25-common.record_log-conftest.py-[line:20]-INFO-[日志信息]: ----------SETUP添加[1,七年级1班,60]成功,班级id为200142-----------
+Sun, 18 Aug 2019 21:49:25-common.record_log-test_class.py-[line:45]-INFO-[日志信息]: 修改id为200142的班级，班级名称修改为'啦啦啦',人数修改为70
+Sun, 18 Aug 2019 21:49:25-common.record_log-conftest.py-[line:23]-INFO-[日志信息]: ----------TEARDOWN删除[1,七年级1班,60]成功-----------
+Sun, 18 Aug 2019 21:49:25-common.record_log-conftest.py-[line:14]-INFO-[日志信息]: ----------TEARDOWN删除所有班级成功-----------
+Sun, 18 Aug 2019 21:49:53-common.record_log-conftest.py-[line:81]-INFO-[日志信息]: ------------open browser------------
+Sun, 18 Aug 2019 21:49:57-common.record_log-base.py-[line:48]-INFO-[日志信息]: 加载测试地址:http://fixedserver.test.al8l.com/users/sign_in
+Sun, 18 Aug 2019 21:49:57-common.record_log-loginPage.py-[line:32]-INFO-[日志信息]: 开始登录
+Sun, 18 Aug 2019 21:49:57-common.record_log-loginPage.py-[line:41]-INFO-[日志信息]: 输入用户名:管理员
+Sun, 18 Aug 2019 21:49:57-common.record_log-loginPage.py-[line:45]-INFO-[日志信息]: 输入密码:123456
+Sun, 18 Aug 2019 21:49:57-common.record_log-loginPage.py-[line:49]-INFO-[日志信息]: 点击登录按钮
+Sun, 18 Aug 2019 21:50:00-common.record_log-base.py-[line:239]-INFO-[日志信息]: 获取元素文本内容:【后台管理】
+Sun, 18 Aug 2019 21:50:00-common.record_log-loginPage.py-[line:67]-INFO-[日志信息]: 获取登录成功断言信息:【后台管理】
+Sun, 18 Aug 2019 21:50:00-common.record_log-loginPage.py-[line:72]-INFO-[日志信息]: 登出成功
+Sun, 18 Aug 2019 21:50:00-common.record_log-test_login.py-[line:48]-INFO-[日志信息]: 测试用例test_login_success-管理员-123456测试通过
+Sun, 18 Aug 2019 21:50:01-common.record_log-base.py-[line:48]-INFO-[日志信息]: 加载测试地址:http://fixedserver.test.al8l.com/users/sign_in
+Sun, 18 Aug 2019 21:50:01-common.record_log-loginPage.py-[line:32]-INFO-[日志信息]: 开始登录
+Sun, 18 Aug 2019 21:50:01-common.record_log-loginPage.py-[line:41]-INFO-[日志信息]: 输入用户名:
+Sun, 18 Aug 2019 21:50:09-common.record_log-conftest.py-[line:11]-INFO-[日志信息]: ----------SETUP删除所有班级成功-----------
+Sun, 18 Aug 2019 21:50:09-common.record_log-test_class.py-[line:15]-INFO-[日志信息]: 添加班级：(1, '七年级1班', 60)成功
+Sun, 18 Aug 2019 21:50:09-common.record_log-test_class.py-[line:21]-INFO-[日志信息]: 删除班级：(1, '七年级1班', 60)成功
+Sun, 18 Aug 2019 21:50:09-common.record_log-conftest.py-[line:20]-INFO-[日志信息]: ----------SETUP添加[1,七年级1班,60]成功,班级id为200144-----------
+Sun, 18 Aug 2019 21:50:09-common.record_log-test_class.py-[line:28]-INFO-[日志信息]: 添加班级：[1, 七年级2班, 60]成功
+Sun, 18 Aug 2019 21:50:09-common.record_log-SchoolClassLib.py-[line:110]-INFO-[日志信息]: occur 1 times
+Sun, 18 Aug 2019 21:50:09-common.record_log-test_class.py-[line:32]-INFO-[日志信息]: 删除班级：[1, 七年级2班, 60]成功
+Sun, 18 Aug 2019 21:50:10-common.record_log-conftest.py-[line:23]-INFO-[日志信息]: ----------TEARDOWN删除[1,七年级1班,60]成功-----------
+Sun, 18 Aug 2019 21:50:10-common.record_log-conftest.py-[line:20]-INFO-[日志信息]: ----------SETUP添加[1,七年级1班,60]成功,班级id为200146-----------
+Sun, 18 Aug 2019 21:50:10-common.record_log-conftest.py-[line:23]-INFO-[日志信息]: ----------TEARDOWN删除[1,七年级1班,60]成功-----------
+Sun, 18 Aug 2019 21:50:10-common.record_log-conftest.py-[line:20]-INFO-[日志信息]: ----------SETUP添加[1,七年级1班,60]成功,班级id为200148-----------
+Sun, 18 Aug 2019 21:50:10-common.record_log-test_class.py-[line:45]-INFO-[日志信息]: 修改id为200148的班级，班级名称修改为'啦啦啦',人数修改为70
+Sun, 18 Aug 2019 21:50:10-common.record_log-conftest.py-[line:23]-INFO-[日志信息]: ----------TEARDOWN删除[1,七年级1班,60]成功-----------
+Sun, 18 Aug 2019 21:50:11-common.record_log-conftest.py-[line:14]-INFO-[日志信息]: ----------TEARDOWN删除所有班级成功-----------
+Sun, 18 Aug 2019 21:50:26-common.record_log-conftest.py-[line:11]-INFO-[日志信息]: ----------SETUP删除所有班级成功-----------
+Sun, 18 Aug 2019 21:50:26-common.record_log-test_class.py-[line:15]-INFO-[日志信息]: 添加班级：(1, '七年级1班', 60)成功
+Sun, 18 Aug 2019 21:50:26-common.record_log-test_class.py-[line:21]-INFO-[日志信息]: 删除班级：(1, '七年级1班', 60)成功
+Sun, 18 Aug 2019 21:50:26-common.record_log-conftest.py-[line:20]-INFO-[日志信息]: ----------SETUP添加[1,七年级1班,60]成功,班级id为200150-----------
+Sun, 18 Aug 2019 21:50:26-common.record_log-test_class.py-[line:28]-INFO-[日志信息]: 添加班级：[1, 七年级2班, 60]成功
+Sun, 18 Aug 2019 21:50:26-common.record_log-SchoolClassLib.py-[line:110]-INFO-[日志信息]: occur 1 times
+Sun, 18 Aug 2019 21:50:27-common.record_log-test_class.py-[line:32]-INFO-[日志信息]: 删除班级：[1, 七年级2班, 60]成功
+Sun, 18 Aug 2019 21:50:27-common.record_log-conftest.py-[line:23]-INFO-[日志信息]: ----------TEARDOWN删除[1,七年级1班,60]成功-----------
+Sun, 18 Aug 2019 21:50:27-common.record_log-conftest.py-[line:20]-INFO-[日志信息]: ----------SETUP添加[1,七年级1班,60]成功,班级id为200152-----------
+Sun, 18 Aug 2019 21:50:27-common.record_log-conftest.py-[line:23]-INFO-[日志信息]: ----------TEARDOWN删除[1,七年级1班,60]成功-----------
+Sun, 18 Aug 2019 21:50:27-common.record_log-conftest.py-[line:20]-INFO-[日志信息]: ----------SETUP添加[1,七年级1班,60]成功,班级id为200154-----------
+Sun, 18 Aug 2019 21:50:27-common.record_log-test_class.py-[line:45]-INFO-[日志信息]: 修改id为200154的班级，班级名称修改为'啦啦啦',人数修改为70
+Sun, 18 Aug 2019 21:50:28-common.record_log-conftest.py-[line:23]-INFO-[日志信息]: ----------TEARDOWN删除[1,七年级1班,60]成功-----------
+Sun, 18 Aug 2019 21:50:28-common.record_log-conftest.py-[line:14]-INFO-[日志信息]: ----------TEARDOWN删除所有班级成功-----------
+Sun, 18 Aug 2019 21:54:19-common.record_log-conftest.py-[line:11]-INFO-[日志信息]: ----------SETUP删除所有班级成功-----------
+Sun, 18 Aug 2019 21:54:19-common.record_log-conftest.py-[line:20]-INFO-[日志信息]: ----------SETUP添加[1,七年级1班,60]成功,班级id为200162-----------
+Sun, 18 Aug 2019 21:54:19-common.record_log-test_class.py-[line:50]-INFO-[日志信息]: 修改id为200162的班级，班级名称修改为'七年级1班',人数修改为70
+Sun, 18 Aug 2019 21:54:20-common.record_log-conftest.py-[line:23]-INFO-[日志信息]: ----------TEARDOWN删除[1,七年级1班,60]成功-----------
+Sun, 18 Aug 2019 21:54:20-common.record_log-conftest.py-[line:14]-INFO-[日志信息]: ----------TEARDOWN删除所有班级成功-----------
+Sun, 18 Aug 2019 22:02:49-common.record_log-conftest.py-[line:11]-INFO-[日志信息]: ----------SETUP删除所有班级成功-----------
+Sun, 18 Aug 2019 22:02:49-common.record_log-conftest.py-[line:20]-INFO-[日志信息]: ----------SETUP添加[1,七年级1班,60]成功,班级id为200163-----------
+Sun, 18 Aug 2019 22:02:49-common.record_log-test_class.py-[line:51]-INFO-[日志信息]: 添加班级：[1, 七年级2班, 60]成功
+Sun, 18 Aug 2019 22:02:49-common.record_log-test_class.py-[line:54]-INFO-[日志信息]: 修改id为200164的班级，班级名称修改为'七年级1班',人数修改为60
+Sun, 18 Aug 2019 22:02:49-common.record_log-conftest.py-[line:23]-INFO-[日志信息]: ----------TEARDOWN删除[1,七年级1班,60]成功-----------
+Sun, 18 Aug 2019 22:02:50-common.record_log-conftest.py-[line:14]-INFO-[日志信息]: ----------TEARDOWN删除所有班级成功-----------
+Sun, 18 Aug 2019 22:04:09-common.record_log-conftest.py-[line:11]-INFO-[日志信息]: ----------SETUP删除所有班级成功-----------
+Sun, 18 Aug 2019 22:04:09-common.record_log-conftest.py-[line:20]-INFO-[日志信息]: ----------SETUP添加[1,七年级1班,60]成功,班级id为200165-----------
+Sun, 18 Aug 2019 22:04:09-common.record_log-test_class.py-[line:51]-INFO-[日志信息]: 添加班级：[1, 七年级2班, 60]成功
+Sun, 18 Aug 2019 22:04:09-common.record_log-test_class.py-[line:54]-INFO-[日志信息]: 修改id为200166的班级，班级名称修改为'七年级1班',人数修改为60
+Sun, 18 Aug 2019 22:04:09-common.record_log-conftest.py-[line:23]-INFO-[日志信息]: ----------TEARDOWN删除[1,七年级1班,60]成功-----------
+Sun, 18 Aug 2019 22:04:10-common.record_log-conftest.py-[line:14]-INFO-[日志信息]: ----------TEARDOWN删除所有班级成功-----------
+Sun, 18 Aug 2019 22:06:21-common.record_log-conftest.py-[line:11]-INFO-[日志信息]: ----------SETUP删除所有班级成功-----------
+Sun, 18 Aug 2019 22:06:21-common.record_log-conftest.py-[line:20]-INFO-[日志信息]: ----------SETUP添加[1,七年级1班,60]成功,班级id为200167-----------
+Sun, 18 Aug 2019 22:06:21-common.record_log-test_class.py-[line:51]-INFO-[日志信息]: 添加班级：[1, 七年级2班, 60]成功
+Sun, 18 Aug 2019 22:06:21-common.record_log-test_class.py-[line:54]-INFO-[日志信息]: 修改id为200168的班级，班级名称修改为'七年级1班',人数修改为60
+Sun, 18 Aug 2019 22:06:21-common.record_log-conftest.py-[line:23]-INFO-[日志信息]: ----------TEARDOWN删除[1,七年级1班,60]成功-----------
+Sun, 18 Aug 2019 22:06:22-common.record_log-conftest.py-[line:14]-INFO-[日志信息]: ----------TEARDOWN删除所有班级成功-----------
+Sun, 18 Aug 2019 22:08:08-common.record_log-conftest.py-[line:11]-INFO-[日志信息]: ----------SETUP删除所有班级成功-----------
+Sun, 18 Aug 2019 22:08:08-common.record_log-conftest.py-[line:20]-INFO-[日志信息]: ----------SETUP添加[1,七年级1班,60]成功,班级id为200169-----------
+Sun, 18 Aug 2019 22:08:08-common.record_log-test_class.py-[line:51]-INFO-[日志信息]: 添加班级：[1, 七年级2班, 60]成功
+Sun, 18 Aug 2019 22:11:13-common.record_log-test_class.py-[line:55]-INFO-[日志信息]: 修改id为200170的班级，班级名称修改为'七年级1班',人数修改为60
+Sun, 18 Aug 2019 22:11:13-common.record_log-conftest.py-[line:23]-INFO-[日志信息]: ----------TEARDOWN删除[1,七年级1班,60]成功-----------
+Sun, 18 Aug 2019 22:11:13-common.record_log-conftest.py-[line:14]-INFO-[日志信息]: ----------TEARDOWN删除所有班级成功-----------
+Sun, 18 Aug 2019 22:11:19-common.record_log-conftest.py-[line:11]-INFO-[日志信息]: ----------SETUP删除所有班级成功-----------
+Sun, 18 Aug 2019 22:11:19-common.record_log-conftest.py-[line:20]-INFO-[日志信息]: ----------SETUP添加[1,七年级1班,60]成功,班级id为200171-----------
+Sun, 18 Aug 2019 22:11:19-common.record_log-test_class.py-[line:64]-INFO-[日志信息]: 修改id为200171的班级，班级名称修改为'啦啦啦',人数修改为70
+Sun, 18 Aug 2019 22:11:19-common.record_log-conftest.py-[line:23]-INFO-[日志信息]: ----------TEARDOWN删除[1,七年级1班,60]成功-----------
+Sun, 18 Aug 2019 22:11:19-common.record_log-conftest.py-[line:14]-INFO-[日志信息]: ----------TEARDOWN删除所有班级成功-----------
+Sun, 18 Aug 2019 22:13:13-common.record_log-conftest.py-[line:11]-INFO-[日志信息]: ----------SETUP删除所有班级成功-----------
+Sun, 18 Aug 2019 22:13:14-common.record_log-conftest.py-[line:20]-INFO-[日志信息]: ----------SETUP添加[1,七年级1班,60]成功,班级id为200172-----------
+Sun, 18 Aug 2019 22:13:14-common.record_log-conftest.py-[line:23]-INFO-[日志信息]: ----------TEARDOWN删除[1,七年级1班,60]成功-----------
+Sun, 18 Aug 2019 22:13:14-common.record_log-conftest.py-[line:14]-INFO-[日志信息]: ----------TEARDOWN删除所有班级成功-----------
+Sun, 18 Aug 2019 22:13:31-common.record_log-conftest.py-[line:11]-INFO-[日志信息]: ----------SETUP删除所有班级成功-----------
+Sun, 18 Aug 2019 22:13:31-common.record_log-conftest.py-[line:20]-INFO-[日志信息]: ----------SETUP添加[1,七年级1班,60]成功,班级id为200173-----------
+Sun, 18 Aug 2019 22:13:31-common.record_log-test_class.py-[line:70]-INFO-[日志信息]: 删除id为200174的班级
+Sun, 18 Aug 2019 22:13:31-common.record_log-conftest.py-[line:23]-INFO-[日志信息]: ----------TEARDOWN删除[1,七年级1班,60]成功-----------
+Sun, 18 Aug 2019 22:13:31-common.record_log-conftest.py-[line:14]-INFO-[日志信息]: ----------TEARDOWN删除所有班级成功-----------
+Sun, 18 Aug 2019 22:15:57-common.record_log-conftest.py-[line:11]-INFO-[日志信息]: ----------SETUP删除所有班级成功-----------
+Sun, 18 Aug 2019 22:15:58-common.record_log-conftest.py-[line:20]-INFO-[日志信息]: ----------SETUP添加[1,七年级1班,60]成功,班级id为200174-----------
+Sun, 18 Aug 2019 22:15:58-common.record_log-test_class.py-[line:76]-INFO-[日志信息]: 删除id为200174的班级
+Sun, 18 Aug 2019 22:15:58-common.record_log-conftest.py-[line:23]-INFO-[日志信息]: ----------TEARDOWN删除[1,七年级1班,60]成功-----------
+Sun, 18 Aug 2019 22:15:58-common.record_log-conftest.py-[line:14]-INFO-[日志信息]: ----------TEARDOWN删除所有班级成功-----------
+Sun, 18 Aug 2019 22:16:57-common.record_log-conftest.py-[line:11]-INFO-[日志信息]: ----------SETUP删除所有班级成功-----------
+Sun, 18 Aug 2019 22:16:57-common.record_log-conftest.py-[line:20]-INFO-[日志信息]: ----------SETUP添加[1,七年级1班,60]成功,班级id为200175-----------
+Sun, 18 Aug 2019 22:16:57-common.record_log-test_class.py-[line:76]-INFO-[日志信息]: 删除id为200175的班级
+Sun, 18 Aug 2019 22:16:57-common.record_log-test_class.py-[line:80]-INFO-[日志信息]: 删除成功后，列表为空
+Sun, 18 Aug 2019 22:16:57-common.record_log-conftest.py-[line:23]-INFO-[日志信息]: ----------TEARDOWN删除[1,七年级1班,60]成功-----------
+Sun, 18 Aug 2019 22:16:57-common.record_log-conftest.py-[line:14]-INFO-[日志信息]: ----------TEARDOWN删除所有班级成功-----------

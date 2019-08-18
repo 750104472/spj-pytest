@@ -1,0 +1,8 @@
+[32mINFO    [0m common.record_log:base.py:48 加载测试地址:http://fixedserver.test.al8l.com/users/sign_in
+[32mINFO    [0m common.record_log:loginPage.py:32 开始登录
+[32mINFO    [0m common.record_log:loginPage.py:41 输入用户名:kfq_cgr
+[32mINFO    [0m common.record_log:loginPage.py:45 输入密码:python
+[32mINFO    [0m common.record_log:loginPage.py:49 点击登录按钮
+[32mINFO    [0m common.record_log:base.py:239 获取元素文本内容:温馨提示：登录名或密码错误
+[32mINFO    [0m common.record_log:loginPage.py:61 获取登陆失败断言信息:温馨提示：登录名或密码错误
+[32mINFO    [0m common.record_log:test_login.py:96 测试用例test_login_account_error-kfq_cgr-python测试通过

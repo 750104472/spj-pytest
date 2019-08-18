@@ -1,0 +1,148 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "test_login_success[管理员-123456-【后台管理】]",
+    "uid" : "c2d1d6806698c08b",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1565948548865,
+      "stop" : 1565948551462,
+      "duration" : 2597
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "'【后台管理】'", "'123456'", "'管理员'" ]
+  }, {
+    "name" : "test_login_format_error[-python-账号或密码不能为空]",
+    "uid" : "b1e3b61eec2d75fa",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1565948551617,
+      "stop" : 1565948551736,
+      "duration" : 119
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "'账号或密码不能为空'", "'python'", "''" ]
+  }, {
+    "name" : "test_login_format_error[18684720553--账号或密码不能为空]",
+    "uid" : "ef06b97ced5a9427",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1565948551868,
+      "stop" : 1565948551985,
+      "duration" : 117
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "'账号或密码不能为空'", "''", "'18684720553'" ]
+  }, {
+    "name" : "test_login_format_error[--账号或密码不能为空]",
+    "uid" : "770a675b007c01ab",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1565948552114,
+      "stop" : 1565948552218,
+      "duration" : 104
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "'账号或密码不能为空'", "''", "''" ]
+  }, {
+    "name" : "test_login_account_error[kfq_cgr-python-温馨提示：登录名或密码错误]",
+    "uid" : "f1478427838c04d4",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1565948552351,
+      "stop" : 1565948552732,
+      "duration" : 381
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "'温馨提示：登录名或密码错误'", "'python'", "'kfq_cgr'" ]
+  }, {
+    "name" : "test_login_account_error[18684720553-pwd_error-温馨提示：没有该用户，请您重新注册。]",
+    "uid" : "4fb8dcecd305437a",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1565948552894,
+      "stop" : 1565948553194,
+      "duration" : 300
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "'温馨提示：没有该用户，请您重新注册。'", "'pwd_error'", "'18684720553'" ]
+  }, {
+    "name" : "test_add_modelplates[印刷服务品目-印刷服务-印刷]",
+    "uid" : "362534b6576c7d84",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1565948553840,
+      "stop" : 1565948557162,
+      "duration" : 3322
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "'印刷服务'", "'印刷服务品目'", "'印刷'" ]
+  }, {
+    "name" : "test_add_modelkeys[印刷品名称-大文本-1]",
+    "uid" : "dd9326f392b63b93",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1565948557813,
+      "stop" : 1565948561438,
+      "duration" : 3625
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "'印刷品名称'", "'1'", "'大文本'" ]
+  }, {
+    "name" : "test_add_modelkeys[印刷数量-大文本-2]",
+    "uid" : "d92ae11ef7bb74f0",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1565948562082,
+      "stop" : 1565948565695,
+      "duration" : 3613
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "'印刷数量'", "'2'", "'大文本'" ]
+  }, {
+    "name" : "test_add_modelkeys[备注-大文本-3]",
+    "uid" : "45cf348c9ad14985",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1565948566350,
+      "stop" : 1565948569922,
+      "duration" : 3572
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "'备注'", "'3'", "'大文本'" ]
+  }, {
+    "name" : "test_add_project[南通市税务局港闸区税务局大楼印刷项目-李老师-15851398152-120000-180-/Users/linguowei/Downloads/1.jpg-印刷服务品目-印刷服务-印刷]",
+    "uid" : "cbb74fae00ba75fc",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1565948570732,
+      "stop" : 1565948578544,
+      "duration" : 7812
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "'120000'", "'/Users/linguowei/Downloads/1.jpg'", "'印刷服务'", "'印刷服务品目'", "'南通市税务局港闸区税务局大楼印刷项目'", "'印刷'", "'180'", "'李老师'", "'15851398152'" ]
+  } ]
+}

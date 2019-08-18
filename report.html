@@ -235,7 +235,7 @@ function filter_table(elem) {
 }
 </script>
     <h1>report.html</h1>
-    <p>Report generated on 16-Aug-2019 at 16:35:58 by <a href="https://pypi.python.org/pypi/pytest-html">pytest-html</a> v1.22.0</p>
+    <p>Report generated on 18-Aug-2019 at 22:16:57 by <a href="https://pypi.python.org/pypi/pytest-html">pytest-html</a> v1.22.0</p>
     <h2>Environment</h2>
     <table id="environment">
       <tr>
@@ -251,114 +251,26 @@ function filter_table(elem) {
         <td>Python</td>
         <td>3.7.4</td></tr></table>
     <h2>Summary</h2>
-    <p>6 tests ran in 9.13 seconds. </p>
-    <p class="filter" hidden="true">(Un)check the boxes to filter the results.</p><input checked="true" class="filter" data-test-result="passed" hidden="true" name="filter_checkbox" onChange="filter_table(this)" type="checkbox"/><span class="passed">6 passed</span>, <input checked="true" class="filter" data-test-result="skipped" disabled="true" hidden="true" name="filter_checkbox" onChange="filter_table(this)" type="checkbox"/><span class="skipped">0 skipped</span>, <input checked="true" class="filter" data-test-result="failed" disabled="true" hidden="true" name="filter_checkbox" onChange="filter_table(this)" type="checkbox"/><span class="failed">0 failed</span>, <input checked="true" class="filter" data-test-result="error" disabled="true" hidden="true" name="filter_checkbox" onChange="filter_table(this)" type="checkbox"/><span class="error">0 errors</span>, <input checked="true" class="filter" data-test-result="xfailed" disabled="true" hidden="true" name="filter_checkbox" onChange="filter_table(this)" type="checkbox"/><span class="xfailed">0 expected failures</span>, <input checked="true" class="filter" data-test-result="xpassed" disabled="true" hidden="true" name="filter_checkbox" onChange="filter_table(this)" type="checkbox"/><span class="xpassed">0 unexpected passes</span>, <input checked="true" class="filter" data-test-result="rerun" disabled="true" hidden="true" name="filter_checkbox" onChange="filter_table(this)" type="checkbox"/><span class="rerun">0 rerun</span>
+    <p>1 tests ran in 0.81 seconds. </p>
+    <p class="filter" hidden="true">(Un)check the boxes to filter the results.</p><input checked="true" class="filter" data-test-result="passed" hidden="true" name="filter_checkbox" onChange="filter_table(this)" type="checkbox"/><span class="passed">1 passed</span>, <input checked="true" class="filter" data-test-result="skipped" disabled="true" hidden="true" name="filter_checkbox" onChange="filter_table(this)" type="checkbox"/><span class="skipped">0 skipped</span>, <input checked="true" class="filter" data-test-result="failed" disabled="true" hidden="true" name="filter_checkbox" onChange="filter_table(this)" type="checkbox"/><span class="failed">0 failed</span>, <input checked="true" class="filter" data-test-result="error" disabled="true" hidden="true" name="filter_checkbox" onChange="filter_table(this)" type="checkbox"/><span class="error">0 errors</span>, <input checked="true" class="filter" data-test-result="xfailed" disabled="true" hidden="true" name="filter_checkbox" onChange="filter_table(this)" type="checkbox"/><span class="xfailed">0 expected failures</span>, <input checked="true" class="filter" data-test-result="xpassed" disabled="true" hidden="true" name="filter_checkbox" onChange="filter_table(this)" type="checkbox"/><span class="xpassed">0 unexpected passes</span>, <input checked="true" class="filter" data-test-result="rerun" disabled="true" hidden="true" name="filter_checkbox" onChange="filter_table(this)" type="checkbox"/><span class="rerun">0 rerun</span>
     <h2>Results</h2>
     <table id="results-table">
       <thead id="results-table-head">
         <tr>
           <th class="sortable result initial-sort" col="result">Result</th>
-          <th>Description</th>
           <th class="sortable" col="name">Test</th>
           <th class="sortable numeric" col="duration">Duration</th>
           <th>Links</th></tr>
         <tr hidden="true" id="not-found-message">
-          <th colspan="5">No results found. Try to check the filters</th></tr></thead>
+          <th colspan="4">No results found. Try to check the filters</th></tr></thead>
       <tbody class="passed results-table-row">
         <tr>
           <td class="col-result">Passed</td>
-          <td>登录:登录成功</td>
-          <td class="col-name">cases/test_login.py::TestLogin::test_login_success[管理员-123456-【后台管理】]</td>
-          <td class="col-duration">2.49</td>
+          <td class="col-name">cases/apicases/test_class.py::TestClass::test_deleteclass2</td>
+          <td class="col-duration">0.19</td>
           <td class="col-links"></td></tr>
         <tr>
-          <td class="extra" colspan="5">
-            <div class="log">------------------------------ Captured log setup ------------------------------<br/>[32mINFO    [0m common.record_log:conftest.py:75 ------------open browser------------
-[32mINFO    [0m common.record_log:base.py:48 加载测试地址:http://fixedserver.test.al8l.com/users/sign_in<br/>------------------------------ Captured log call -------------------------------<br/>[32mINFO    [0m common.record_log:loginPage.py:32 开始登录
-[32mINFO    [0m common.record_log:loginPage.py:41 输入用户名:管理员
-[32mINFO    [0m common.record_log:loginPage.py:45 输入密码:123456
-[32mINFO    [0m common.record_log:loginPage.py:49 点击登录按钮
-[32mINFO    [0m common.record_log:base.py:239 获取元素文本内容:【后台管理】
-[32mINFO    [0m common.record_log:loginPage.py:67 获取登录成功断言信息:【后台管理】
-[32mINFO    [0m common.record_log:loginPage.py:72 登出成功
-[32mINFO    [0m common.record_log:test_login.py:48 测试用例test_login_success-管理员-123456测试通过<br/></div></td></tr></tbody>
-      <tbody class="passed results-table-row">
-        <tr>
-          <td class="col-result">Passed</td>
-          <td>登录:帐号或密码格式错误</td>
-          <td class="col-name">cases/test_login.py::TestLogin::test_login_format_error[-python-账号或密码不能为空]</td>
-          <td class="col-duration">0.12</td>
-          <td class="col-links"></td></tr>
-        <tr>
-          <td class="extra" colspan="5">
-            <div class="log">------------------------------ Captured log setup ------------------------------<br/>[32mINFO    [0m common.record_log:base.py:48 加载测试地址:http://fixedserver.test.al8l.com/users/sign_in<br/>------------------------------ Captured log call -------------------------------<br/>[32mINFO    [0m common.record_log:loginPage.py:32 开始登录
-[32mINFO    [0m common.record_log:loginPage.py:41 输入用户名:
-[32mINFO    [0m common.record_log:loginPage.py:45 输入密码:python
-[32mINFO    [0m common.record_log:loginPage.py:49 点击登录按钮
-[32mINFO    [0m common.record_log:loginPage.py:55 获取登录失败断言信息:账号或密码不能为空
-[32mINFO    [0m common.record_log:loginPage.py:77 确认成功
-[32mINFO    [0m common.record_log:test_login.py:73 测试用例test_login_format_error--python测试通过<br/></div></td></tr></tbody>
-      <tbody class="passed results-table-row">
-        <tr>
-          <td class="col-result">Passed</td>
-          <td>登录:帐号或密码格式错误</td>
-          <td class="col-name">cases/test_login.py::TestLogin::test_login_format_error[18684720553--账号或密码不能为空]</td>
-          <td class="col-duration">0.12</td>
-          <td class="col-links"></td></tr>
-        <tr>
-          <td class="extra" colspan="5">
-            <div class="log">------------------------------ Captured log setup ------------------------------<br/>[32mINFO    [0m common.record_log:base.py:48 加载测试地址:http://fixedserver.test.al8l.com/users/sign_in<br/>------------------------------ Captured log call -------------------------------<br/>[32mINFO    [0m common.record_log:loginPage.py:32 开始登录
-[32mINFO    [0m common.record_log:loginPage.py:41 输入用户名:18684720553
-[32mINFO    [0m common.record_log:loginPage.py:45 输入密码:
-[32mINFO    [0m common.record_log:loginPage.py:49 点击登录按钮
-[32mINFO    [0m common.record_log:loginPage.py:55 获取登录失败断言信息:账号或密码不能为空
-[32mINFO    [0m common.record_log:loginPage.py:77 确认成功
-[32mINFO    [0m common.record_log:test_login.py:73 测试用例test_login_format_error-18684720553-测试通过<br/></div></td></tr></tbody>
-      <tbody class="passed results-table-row">
-        <tr>
-          <td class="col-result">Passed</td>
-          <td>登录:帐号或密码格式错误</td>
-          <td class="col-name">cases/test_login.py::TestLogin::test_login_format_error[--账号或密码不能为空]</td>
-          <td class="col-duration">0.11</td>
-          <td class="col-links"></td></tr>
-        <tr>
-          <td class="extra" colspan="5">
-            <div class="log">------------------------------ Captured log setup ------------------------------<br/>[32mINFO    [0m common.record_log:base.py:48 加载测试地址:http://fixedserver.test.al8l.com/users/sign_in<br/>------------------------------ Captured log call -------------------------------<br/>[32mINFO    [0m common.record_log:loginPage.py:32 开始登录
-[32mINFO    [0m common.record_log:loginPage.py:41 输入用户名:
-[32mINFO    [0m common.record_log:loginPage.py:45 输入密码:
-[32mINFO    [0m common.record_log:loginPage.py:49 点击登录按钮
-[32mINFO    [0m common.record_log:loginPage.py:55 获取登录失败断言信息:账号或密码不能为空
-[32mINFO    [0m common.record_log:loginPage.py:77 确认成功
-[32mINFO    [0m common.record_log:test_login.py:73 测试用例test_login_format_error--测试通过<br/></div></td></tr></tbody>
-      <tbody class="passed results-table-row">
-        <tr>
-          <td class="col-result">Passed</td>
-          <td>登录:帐号或密码错误</td>
-          <td class="col-name">cases/test_login.py::TestLogin::test_login_account_error[kfq_cgr-python-温馨提示：登录名或密码错误]</td>
-          <td class="col-duration">0.37</td>
-          <td class="col-links"></td></tr>
-        <tr>
-          <td class="extra" colspan="5">
-            <div class="log">------------------------------ Captured log setup ------------------------------<br/>[32mINFO    [0m common.record_log:base.py:48 加载测试地址:http://fixedserver.test.al8l.com/users/sign_in<br/>------------------------------ Captured log call -------------------------------<br/>[32mINFO    [0m common.record_log:loginPage.py:32 开始登录
-[32mINFO    [0m common.record_log:loginPage.py:41 输入用户名:kfq_cgr
-[32mINFO    [0m common.record_log:loginPage.py:45 输入密码:python
-[32mINFO    [0m common.record_log:loginPage.py:49 点击登录按钮
-[32mINFO    [0m common.record_log:base.py:239 获取元素文本内容:温馨提示：登录名或密码错误
-[32mINFO    [0m common.record_log:loginPage.py:61 获取登陆失败断言信息:温馨提示：登录名或密码错误
-[32mINFO    [0m common.record_log:test_login.py:96 测试用例test_login_account_error-kfq_cgr-python测试通过<br/></div></td></tr></tbody>
-      <tbody class="passed results-table-row">
-        <tr>
-          <td class="col-result">Passed</td>
-          <td>登录:帐号或密码错误</td>
-          <td class="col-name">cases/test_login.py::TestLogin::test_login_account_error[18684720553-pwd_error-温馨提示：没有该用户，请您重新注册。]</td>
-          <td class="col-duration">0.29</td>
-          <td class="col-links"></td></tr>
-        <tr>
-          <td class="extra" colspan="5">
-            <div class="log">------------------------------ Captured log setup ------------------------------<br/>[32mINFO    [0m common.record_log:base.py:48 加载测试地址:http://fixedserver.test.al8l.com/users/sign_in<br/>------------------------------ Captured log call -------------------------------<br/>[32mINFO    [0m common.record_log:loginPage.py:32 开始登录
-[32mINFO    [0m common.record_log:loginPage.py:41 输入用户名:18684720553
-[32mINFO    [0m common.record_log:loginPage.py:45 输入密码:pwd_error
-[32mINFO    [0m common.record_log:loginPage.py:49 点击登录按钮
-[32mINFO    [0m common.record_log:base.py:239 获取元素文本内容:温馨提示：没有该用户，请您重新注册。
-[32mINFO    [0m common.record_log:loginPage.py:61 获取登陆失败断言信息:温馨提示：没有该用户，请您重新注册。
-[32mINFO    [0m common.record_log:test_login.py:96 测试用例test_login_account_error-18684720553-pwd_error测试通过<br/></div></td></tr></tbody></table></body></html>
+          <td class="extra" colspan="4">
+            <div class="log">------------------------------ Captured log setup ------------------------------<br/>[32mINFO    [0m common.record_log:conftest.py:11 ----------SETUP删除所有班级成功-----------
+[32mINFO    [0m common.record_log:conftest.py:20 ----------SETUP添加[1,七年级1班,60]成功,班级id为200175-----------<br/>------------------------------ Captured log call -------------------------------<br/>[32mINFO    [0m common.record_log:test_class.py:76 删除id为200175的班级
+[32mINFO    [0m common.record_log:test_class.py:80 删除成功后，列表为空<br/></div></td></tr></tbody></table></body></html>

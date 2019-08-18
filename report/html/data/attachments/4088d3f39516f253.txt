@@ -1,0 +1,31 @@
+[32mINFO    [0m common.record_log:base.py:48 加载测试地址:http://fixedserver.test.al8l.com/users/sign_in
+[32mINFO    [0m common.record_log:base.py:48 加载测试地址:http://fixedserver.test.al8l.com/users/sign_in
+[32mINFO    [0m common.record_log:loginPage.py:32 开始登录
+[32mINFO    [0m common.record_log:loginPage.py:41 输入用户名:kfq_cgr
+[32mINFO    [0m common.record_log:loginPage.py:45 输入密码:12345678
+[32mINFO    [0m common.record_log:loginPage.py:49 点击登录按钮
+[32mINFO    [0m common.record_log:base.py:48 加载测试地址:http://fixedserver.test.al8l.com/ancient/projects/new
+[32mINFO    [0m common.record_log:newprojectPage.py:45 输入项目名称：南通市税务局港闸区税务局大楼印刷项目
+[32mINFO    [0m common.record_log:newprojectPage.py:51 正在选择一级品目：印刷服务
+[32mINFO    [0m common.record_log:newprojectPage.py:55 正在选择二级品目：印刷
+[32mINFO    [0m common.record_log:newprojectPage.py:60 输入联系人：李老师
+[32mINFO    [0m common.record_log:newprojectPage.py:67 输入联系人：15851398152
+[32mINFO    [0m common.record_log:newprojectPage.py:74 选择服务地址成功
+[32mINFO    [0m common.record_log:newprojectPage.py:78 选择发票成功
+[32mINFO    [0m common.record_log:newprojectPage.py:82 输入预算金额：120000
+[32mINFO    [0m common.record_log:newprojectPage.py:89 输入服务周期：180
+[32mINFO    [0m common.record_log:newprojectPage.py:96 点开附件按钮成功
+[32mINFO    [0m common.record_log:newprojectPage.py:100 上传附件成功
+[32mINFO    [0m common.record_log:newprojectPage.py:104 项目暂存成功
+[32mINFO    [0m common.record_log:newprojectPage.py:108 获取到多个需求描述字段元素
+[32mINFO    [0m common.record_log:newprojectPage.py:113 获取到多个需求描述字段输入框元素
+[32mINFO    [0m common.record_log:test_modelplates.py:86 输入需求描述字段印刷品名称成功
+[32mINFO    [0m common.record_log:newprojectPage.py:108 获取到多个需求描述字段元素
+[32mINFO    [0m common.record_log:newprojectPage.py:113 获取到多个需求描述字段输入框元素
+[32mINFO    [0m common.record_log:test_modelplates.py:86 输入需求描述字段印刷数量成功
+[32mINFO    [0m common.record_log:newprojectPage.py:108 获取到多个需求描述字段元素
+[32mINFO    [0m common.record_log:newprojectPage.py:113 获取到多个需求描述字段输入框元素
+[32mINFO    [0m common.record_log:test_modelplates.py:86 输入需求描述字段备注成功
+[32mINFO    [0m common.record_log:newprojectPage.py:118 点击保存项目按钮成功
+[32mINFO    [0m common.record_log:newprojectPage.py:122 提交项目成功
+[32mINFO    [0m common.record_log:conftest.py:79 ------------close browser------------

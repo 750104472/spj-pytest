@@ -1,0 +1,12 @@
+[32mINFO    [0m common.record_log:base.py:48 加载测试地址:http://fixedserver.test.al8l.com/users/sign_in
+[32mINFO    [0m common.record_log:loginPage.py:32 开始登录
+[32mINFO    [0m common.record_log:loginPage.py:41 输入用户名:管理员
+[32mINFO    [0m common.record_log:loginPage.py:45 输入密码:123456
+[32mINFO    [0m common.record_log:loginPage.py:49 点击登录按钮
+[32mINFO    [0m common.record_log:base.py:48 加载测试地址:http://fixedserver.test.al8l.com/ancient/model_plates
+[32mINFO    [0m common.record_log:modelplatesPage.py:51 点击新增模板按钮
+[32mINFO    [0m common.record_log:modelplatesPage.py:56 输入模板名称：印刷服务品目
+[32mINFO    [0m common.record_log:modelplatesPage.py:63 正在选择一级品目：印刷服务
+[32mINFO    [0m common.record_log:modelplatesPage.py:67 正在选择二级品目：印刷
+[32mINFO    [0m common.record_log:modelplatesPage.py:71 正在保存配置模板：印刷服务品目
+[32mINFO    [0m common.record_log:modelplatesPage.py:73 保存配置模板：印刷服务品目成功
