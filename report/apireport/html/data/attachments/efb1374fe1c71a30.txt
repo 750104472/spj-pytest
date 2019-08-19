@@ -1,0 +1,5 @@
+[32mINFO    [0m common.record_log:conftest.py:20 ----------SETUP添加[1,七年级1班,60]成功,班级id为200188-----------
+[32mINFO    [0m common.record_log:test_class.py:26 添加班级：[1, 七年级2班, 60]成功
+[32mINFO    [0m common.record_log:SchoolClassLib.py:110 occur 1 times
+[32mINFO    [0m common.record_log:test_class.py:30 删除班级：[1, 七年级2班, 60]成功
+[32mINFO    [0m common.record_log:conftest.py:23 ----------TEARDOWN删除[1,七年级1班,60]成功-----------

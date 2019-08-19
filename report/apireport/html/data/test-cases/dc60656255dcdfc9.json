@@ -1,0 +1,114 @@
+{
+  "uid" : "dc60656255dcdfc9",
+  "name" : "test_addclass1[1-七年级1班-60]",
+  "fullName" : "cases.apicases.test_class.TestClass#test_addclass1[1-七年级1班-60]",
+  "historyId" : "91c2a2c08f809405cefecacb8122a465",
+  "time" : {
+    "start" : 1566138733911,
+    "stop" : 1566138734217,
+    "duration" : 306
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "f_delete_all_school_classes",
+    "time" : {
+      "start" : 1566138733727,
+      "stop" : 1566138733909,
+      "duration" : 182
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "87603578b11e81f0",
+      "name" : "log",
+      "source" : "87603578b11e81f0.txt",
+      "type" : "text/plain",
+      "size" : 299
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "f_delete_all_school_classes::0",
+    "time" : {
+      "start" : 1566138737185,
+      "stop" : 1566138737484,
+      "duration" : 299
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "tc000001"
+  }, {
+    "name" : "parentSuite",
+    "value" : "cases.apicases"
+  }, {
+    "name" : "suite",
+    "value" : "test_class"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestClass"
+  }, {
+    "name" : "host",
+    "value" : "linguoweideMBP.lan"
+  }, {
+    "name" : "thread",
+    "value" : "23535-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "cases.apicases.test_class"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "gradeid",
+    "value" : "1"
+  }, {
+    "name" : "name",
+    "value" : "'七年级1班'"
+  }, {
+    "name" : "studentlimit",
+    "value" : "60"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "tc000001" ]
+  },
+  "source" : "dc60656255dcdfc9.json",
+  "parameterValues" : [ "1", "'七年级1班'", "60" ]
+}

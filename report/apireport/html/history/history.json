@@ -1,0 +1,156 @@
+{
+  "505f1952638d1b22a7fd9e2c8c862384" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9fa18e5314784e38",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: id 为`200197`的班级仍然存在\nassert [{'grade__nam...'七年级2班', ...}] == []\n  Left contains one more item: {'grade__name': '七年级', 'id': 200194, 'invitecode': '2001941582525', 'name': '七年级2班', ...}\n  Full diff:\n  + []\n  - [{'grade__name': '七年级',\n  -   'id': 200194,\n  -   'invitecode': '2001941582525',\n  -   'name': '七年级2班',...\n  \n  ...Full output truncated (4 lines hidden), use '-vv' to show",
+      "time" : {
+        "start" : 1566138736890,
+        "stop" : 1566138737086,
+        "duration" : 196
+      }
+    } ]
+  },
+  "bd8937d0ccdbe099401d740ce2dca5c1" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7e5d52d1a4b11e85",
+      "status" : "passed",
+      "time" : {
+        "start" : 1566138736289,
+        "stop" : 1566138736383,
+        "duration" : 94
+      }
+    } ]
+  },
+  "d0cab748365b71e55fe1dbab30dfff43" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4287642143983eb6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1566138736592,
+        "stop" : 1566138736686,
+        "duration" : 94
+      }
+    } ]
+  },
+  "91c2a2c08f809405cefecacb8122a465" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "dc60656255dcdfc9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1566138733911,
+        "stop" : 1566138734217,
+        "duration" : 306
+      }
+    } ]
+  },
+  "c5b80f447558fa9f1232c81b681924ed" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "52c72d4aa52dcfea",
+      "status" : "passed",
+      "time" : {
+        "start" : 1566138734315,
+        "stop" : 1566138734632,
+        "duration" : 317
+      }
+    } ]
+  },
+  "c9dd100e707b714fd3a1caf245a8b5d3" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "cf43e2900b03a821",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert 10000 == 1",
+      "time" : {
+        "start" : 1566138735770,
+        "stop" : 1566138736070,
+        "duration" : 300
+      }
+    } ]
+  },
+  "0ff3e9e5ea1b919ed6a1f922a9e324f6" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3d7a7de0a7bd4f88",
+      "status" : "passed",
+      "time" : {
+        "start" : 1566138735371,
+        "stop" : 1566138735570,
+        "duration" : 199
+      }
+    } ]
+  },
+  "f714ea0207be6198ee3f60a165337253" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "13e302733042bbd9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1566138734817,
+        "stop" : 1566138735113,
+        "duration" : 296
+      }
+    } ]
+  }
+}

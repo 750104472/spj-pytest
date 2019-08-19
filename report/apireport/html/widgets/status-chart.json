@@ -1,0 +1,81 @@
+[ {
+  "uid" : "7e5d52d1a4b11e85",
+  "name" : "test_modifyclass3",
+  "time" : {
+    "start" : 1566138736289,
+    "stop" : 1566138736383,
+    "duration" : 94
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "dc60656255dcdfc9",
+  "name" : "test_addclass1[1-七年级1班-60]",
+  "time" : {
+    "start" : 1566138733911,
+    "stop" : 1566138734217,
+    "duration" : 306
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "52c72d4aa52dcfea",
+  "name" : "test_addclass2",
+  "time" : {
+    "start" : 1566138734315,
+    "stop" : 1566138734632,
+    "duration" : 317
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cf43e2900b03a821",
+  "name" : "test_modifyclass2",
+  "time" : {
+    "start" : 1566138735770,
+    "stop" : 1566138736070,
+    "duration" : 300
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "9fa18e5314784e38",
+  "name" : "test_deleteclass2",
+  "time" : {
+    "start" : 1566138736890,
+    "stop" : 1566138737086,
+    "duration" : 196
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "4287642143983eb6",
+  "name" : "test_deleteclass1",
+  "time" : {
+    "start" : 1566138736592,
+    "stop" : 1566138736686,
+    "duration" : 94
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3d7a7de0a7bd4f88",
+  "name" : "test_modifyclass1",
+  "time" : {
+    "start" : 1566138735371,
+    "stop" : 1566138735570,
+    "duration" : 199
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "13e302733042bbd9",
+  "name" : "test_addclass3",
+  "time" : {
+    "start" : 1566138734817,
+    "stop" : 1566138735113,
+    "duration" : 296
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

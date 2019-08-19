@@ -1,0 +1,132 @@
+{
+  "uid" : "4287642143983eb6",
+  "name" : "test_deleteclass1",
+  "fullName" : "cases.apicases.test_class.TestClass#test_deleteclass1",
+  "historyId" : "d0cab748365b71e55fe1dbab30dfff43",
+  "time" : {
+    "start" : 1566138736592,
+    "stop" : 1566138736686,
+    "duration" : 94
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "f_add_school_class",
+    "time" : {
+      "start" : 1566138736492,
+      "stop" : 1566138736591,
+      "duration" : 99
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "f_delete_all_school_classes",
+    "time" : {
+      "start" : 1566138733727,
+      "stop" : 1566138733909,
+      "duration" : 182
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "3dc46cde1f0daa5",
+      "name" : "log",
+      "source" : "3dc46cde1f0daa5.txt",
+      "type" : "text/plain",
+      "size" : 320
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "f_add_school_class::0",
+    "time" : {
+      "start" : 1566138736687,
+      "stop" : 1566138736793,
+      "duration" : 106
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "f_delete_all_school_classes::0",
+    "time" : {
+      "start" : 1566138737185,
+      "stop" : 1566138737484,
+      "duration" : 299
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "cases.apicases"
+  }, {
+    "name" : "suite",
+    "value" : "test_class"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestClass"
+  }, {
+    "name" : "host",
+    "value" : "linguoweideMBP.lan"
+  }, {
+    "name" : "thread",
+    "value" : "23535-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "cases.apicases.test_class"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4287642143983eb6.json",
+  "parameterValues" : [ ]
+}

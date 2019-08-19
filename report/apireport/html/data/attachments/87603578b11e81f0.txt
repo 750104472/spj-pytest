@@ -1,0 +1,3 @@
+[32mINFO    [0m common.record_log:conftest.py:11 ----------SETUP删除所有班级成功-----------
+[32mINFO    [0m common.record_log:test_class.py:15 添加班级：(1, '七年级1班', 60)成功
+[32mINFO    [0m common.record_log:test_class.py:21 删除班级：(1, '七年级1班', 60)成功

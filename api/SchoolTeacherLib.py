@@ -3,6 +3,7 @@ from cfg import g_vcode
 from pprint import pprint
 from robot.libraries.BuiltIn import BuiltIn
 import logging
+import pdb
 
 class  SchoolTeacherLib:
     URL = "http://ci.ytesting.com/api/3school/teachers"
@@ -134,9 +135,9 @@ class  SchoolTeacherLib:
             "teachclasslist": [int(one.strip()) for one in teacherclasslist.split(',')],
             "realname": realname,
             "id": int(teacherid),
-            "phonenumber": phonenumber,
+            "phonenumber": str(phonenumber),
             "email": email,
-            "idcardnumber": idcardnumber
+            "idcardnumber": str(idcardnumber)
         }
 
         occurTimes = teacherlist.count(item)

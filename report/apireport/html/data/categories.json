@@ -1,0 +1,43 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "AssertionError: assert 10000 == 1",
+      "children" : [ {
+        "name" : "test_modifyclass2",
+        "uid" : "cf43e2900b03a821",
+        "parentUid" : "fc93e90a3c136560dffa531ba8c4f3b0",
+        "status" : "failed",
+        "time" : {
+          "start" : 1566138735770,
+          "stop" : 1566138736070,
+          "duration" : 300
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "fc93e90a3c136560dffa531ba8c4f3b0"
+    }, {
+      "name" : "AssertionError: id 为`200197`的班级仍然存在\nassert [{'grade__nam...'七年级2班', ...}] == []\n  Left contains one more item: {'grade__name': '七年级', 'id': 200194, 'invitecode': '2001941582525', 'name': '七年级2班', ...}\n  Full diff:\n  + []\n  - [{'grade__name': '七年级',\n  -   'id': 200194,\n  -   'invitecode': '2001941582525',\n  -   'name': '七年级2班',...\n  \n  ...Full output truncated (4 lines hidden), use '-vv' to show",
+      "children" : [ {
+        "name" : "test_deleteclass2",
+        "uid" : "9fa18e5314784e38",
+        "parentUid" : "2f12b3fdfff4e507693b1482cff1326b",
+        "status" : "failed",
+        "time" : {
+          "start" : 1566138736890,
+          "stop" : 1566138737086,
+          "duration" : 196
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "2f12b3fdfff4e507693b1482cff1326b"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

@@ -1,0 +1,140 @@
+{
+  "uid" : "cf43e2900b03a821",
+  "name" : "test_modifyclass2",
+  "fullName" : "cases.apicases.test_class.TestClass#test_modifyclass2",
+  "historyId" : "c9dd100e707b714fd3a1caf245a8b5d3",
+  "time" : {
+    "start" : 1566138735770,
+    "stop" : 1566138736070,
+    "duration" : 300
+  },
+  "status" : "failed",
+  "statusMessage" : "AssertionError: assert 10000 == 1",
+  "statusTrace" : "self = <cases.apicases.test_class.TestClass object at 0x105ce68d0>, f_add_school_class = 200193\n\n    def test_modifyclass2(self,f_add_school_class):\n        bodyDict = sc.add_school_class(1,\"七年级2班\",70)\n        assert bodyDict['retcode'] == 0\n        logger.info('添加班级：[1, 七年级2班, 60]成功')\n        classlist_before = sc.list_school_class()\n        modifyDict = sc.modify_school_class(bodyDict['id'],'七年级1班',60)\n        logger.info(f\"修改id为{bodyDict['id']}的班级，班级名称修改为'七年级1班',人数修改为60\")\n>       assert modifyDict['retcode'] == 1\nE       assert 10000 == 1\n\ncases/apicases/test_class.py:55: AssertionError",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "f_add_school_class",
+    "time" : {
+      "start" : 1566138735673,
+      "stop" : 1566138735769,
+      "duration" : 96
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "f_delete_all_school_classes",
+    "time" : {
+      "start" : 1566138733727,
+      "stop" : 1566138733909,
+      "duration" : 182
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "AssertionError: assert 10000 == 1",
+    "statusTrace" : "self = <cases.apicases.test_class.TestClass object at 0x105ce68d0>, f_add_school_class = 200193\n\n    def test_modifyclass2(self,f_add_school_class):\n        bodyDict = sc.add_school_class(1,\"七年级2班\",70)\n        assert bodyDict['retcode'] == 0\n        logger.info('添加班级：[1, 七年级2班, 60]成功')\n        classlist_before = sc.list_school_class()\n        modifyDict = sc.modify_school_class(bodyDict['id'],'七年级1班',60)\n        logger.info(f\"修改id为{bodyDict['id']}的班级，班级名称修改为'七年级1班',人数修改为60\")\n>       assert modifyDict['retcode'] == 1\nE       assert 10000 == 1\n\ncases/apicases/test_class.py:55: AssertionError",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "7103f375cbb6423e",
+      "name" : "log",
+      "source" : "7103f375cbb6423e.txt",
+      "type" : "text/plain",
+      "size" : 474
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "f_add_school_class::0",
+    "time" : {
+      "start" : 1566138736131,
+      "stop" : 1566138736190,
+      "duration" : 59
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "f_delete_all_school_classes::0",
+    "time" : {
+      "start" : 1566138737185,
+      "stop" : 1566138737484,
+      "duration" : 299
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "cases.apicases"
+  }, {
+    "name" : "suite",
+    "value" : "test_class"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestClass"
+  }, {
+    "name" : "host",
+    "value" : "linguoweideMBP.lan"
+  }, {
+    "name" : "thread",
+    "value" : "23535-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "cases.apicases.test_class"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "cf43e2900b03a821.json",
+  "parameterValues" : [ ]
+}

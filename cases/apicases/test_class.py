@@ -72,6 +72,7 @@ class TestClass(object):
         assert bodyDict['reason'] == f"id 为`{f_add_school_class+1}`的班级不存在"
 
     def test_deleteclass2(self,f_add_school_class):
+        pdb.set_trace()
         bodyDict = sc.delete_school_class(f_add_school_class)
         logger.info(f"删除id为{f_add_school_class}的班级")
         assert bodyDict['retcode'] == 0
