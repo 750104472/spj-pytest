@@ -30,4 +30,3 @@ class TestTeacher(object):
         assert bodyDict['retcode'] == 1
         assert bodyDict['reason'] == f"登录名 {username} 已经存在"
 
-    

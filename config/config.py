@@ -45,5 +45,5 @@ ENVIRONMENT = \
 
 
 if __name__ == '__main__':
-    print(ERROR_IMG_DIR)
+    print(REPORT_DIR)
     pass

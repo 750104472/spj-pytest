@@ -1,0 +1,51 @@
+Wed, 21 Aug 2019 14:22:08-common.record_log-conftest.py-[line:81]-INFO-[日志信息]: ------------open browser------------
+Wed, 21 Aug 2019 14:22:27-common.record_log-conftest.py-[line:81]-INFO-[日志信息]: ------------open browser------------
+Wed, 21 Aug 2019 14:22:42-common.record_log-conftest.py-[line:81]-INFO-[日志信息]: ------------open browser------------
+Wed, 21 Aug 2019 14:23:47-common.record_log-conftest.py-[line:81]-INFO-[日志信息]: ------------open browser------------
+Wed, 21 Aug 2019 14:24:47-common.record_log-conftest.py-[line:81]-INFO-[日志信息]: ------------open browser------------
+Wed, 21 Aug 2019 14:24:55-common.record_log-base.py-[line:48]-INFO-[日志信息]: 加载测试地址:http://fixedserver.test.al8l.com/users/sign_in
+Wed, 21 Aug 2019 14:24:55-common.record_log-loginPage.py-[line:32]-INFO-[日志信息]: 开始登录
+Wed, 21 Aug 2019 14:24:55-common.record_log-loginPage.py-[line:41]-INFO-[日志信息]: 输入用户名:管理员
+Wed, 21 Aug 2019 14:24:55-common.record_log-loginPage.py-[line:45]-INFO-[日志信息]: 输入密码:123456
+Wed, 21 Aug 2019 14:24:55-common.record_log-loginPage.py-[line:49]-INFO-[日志信息]: 点击登录按钮
+Wed, 21 Aug 2019 14:24:59-common.record_log-base.py-[line:239]-INFO-[日志信息]: 获取元素文本内容:【后台管理】
+Wed, 21 Aug 2019 14:24:59-common.record_log-loginPage.py-[line:67]-INFO-[日志信息]: 获取登录成功断言信息:【后台管理】
+Wed, 21 Aug 2019 14:25:02-common.record_log-loginPage.py-[line:72]-INFO-[日志信息]: 登出成功
+Wed, 21 Aug 2019 14:25:02-common.record_log-test_login.py-[line:48]-INFO-[日志信息]: 测试用例test_login_success-管理员-123456测试通过
+Wed, 21 Aug 2019 14:25:02-common.record_log-conftest.py-[line:85]-INFO-[日志信息]: ------------close browser------------
+Wed, 21 Aug 2019 14:26:03-common.record_log-conftest.py-[line:81]-INFO-[日志信息]: ------------open browser------------
+Wed, 21 Aug 2019 14:26:06-common.record_log-base.py-[line:48]-INFO-[日志信息]: 加载测试地址:http://fixedserver.test.al8l.com/users/sign_in
+Wed, 21 Aug 2019 14:26:06-common.record_log-loginPage.py-[line:32]-INFO-[日志信息]: 开始登录
+Wed, 21 Aug 2019 14:26:06-common.record_log-loginPage.py-[line:41]-INFO-[日志信息]: 输入用户名:管理员
+Wed, 21 Aug 2019 14:26:07-common.record_log-conftest.py-[line:85]-INFO-[日志信息]: ------------close browser------------
+Wed, 21 Aug 2019 14:28:54-common.record_log-conftest.py-[line:81]-INFO-[日志信息]: ------------open browser------------
+Wed, 21 Aug 2019 14:28:58-common.record_log-base.py-[line:48]-INFO-[日志信息]: 加载测试地址:http://fixedserver.test.al8l.com/users/sign_in
+Wed, 21 Aug 2019 14:28:58-common.record_log-loginPage.py-[line:32]-INFO-[日志信息]: 开始登录
+Wed, 21 Aug 2019 14:28:58-common.record_log-loginPage.py-[line:41]-INFO-[日志信息]: 输入用户名:管理员
+Wed, 21 Aug 2019 14:36:04-common.record_log-conftest.py-[line:81]-INFO-[日志信息]: ------------open browser------------
+Wed, 21 Aug 2019 14:36:08-common.record_log-base.py-[line:48]-INFO-[日志信息]: 加载测试地址:http://fixedserver.test.al8l.com/users/sign_in
+Wed, 21 Aug 2019 14:36:08-common.record_log-loginPage.py-[line:32]-INFO-[日志信息]: 开始登录
+Wed, 21 Aug 2019 14:36:08-common.record_log-loginPage.py-[line:41]-INFO-[日志信息]: 输入用户名:管理员
+Wed, 21 Aug 2019 14:36:08-common.record_log-loginPage.py-[line:48]-INFO-[日志信息]: 输入密码:123456
+Wed, 21 Aug 2019 14:36:08-common.record_log-loginPage.py-[line:52]-INFO-[日志信息]: 点击登录按钮
+Wed, 21 Aug 2019 14:36:12-common.record_log-base.py-[line:239]-INFO-[日志信息]: 获取元素文本内容:【后台管理】
+Wed, 21 Aug 2019 14:36:12-common.record_log-loginPage.py-[line:70]-INFO-[日志信息]: 获取登录成功断言信息:【后台管理】
+Wed, 21 Aug 2019 14:36:12-common.record_log-loginPage.py-[line:75]-INFO-[日志信息]: 登出成功
+Wed, 21 Aug 2019 14:36:12-common.record_log-test_login.py-[line:48]-INFO-[日志信息]: 测试用例test_login_success-管理员-123456测试通过
+Wed, 21 Aug 2019 14:36:12-common.record_log-conftest.py-[line:85]-INFO-[日志信息]: ------------close browser------------
+Wed, 21 Aug 2019 14:36:28-common.record_log-conftest.py-[line:81]-INFO-[日志信息]: ------------open browser------------
+Wed, 21 Aug 2019 14:36:32-common.record_log-base.py-[line:48]-INFO-[日志信息]: 加载测试地址:http://fixedserver.test.al8l.com/users/sign_in
+Wed, 21 Aug 2019 14:36:32-common.record_log-loginPage.py-[line:32]-INFO-[日志信息]: 开始登录
+Wed, 21 Aug 2019 14:36:32-common.record_log-loginPage.py-[line:41]-INFO-[日志信息]: 输入用户名:管理员
+Wed, 21 Aug 2019 14:36:32-common.record_log-loginPage.py-[line:48]-INFO-[日志信息]: 输入密码:123456
+Wed, 21 Aug 2019 14:36:32-common.record_log-loginPage.py-[line:52]-INFO-[日志信息]: 点击登录按钮
+Wed, 21 Aug 2019 14:36:34-common.record_log-base.py-[line:239]-INFO-[日志信息]: 获取元素文本内容:【后台管理】
+Wed, 21 Aug 2019 14:36:34-common.record_log-loginPage.py-[line:70]-INFO-[日志信息]: 获取登录成功断言信息:【后台管理】
+Wed, 21 Aug 2019 14:36:36-common.record_log-loginPage.py-[line:75]-INFO-[日志信息]: 登出成功
+Wed, 21 Aug 2019 14:36:36-common.record_log-test_login.py-[line:48]-INFO-[日志信息]: 测试用例test_login_success-管理员-123456测试通过
+Wed, 21 Aug 2019 14:36:36-common.record_log-conftest.py-[line:85]-INFO-[日志信息]: ------------close browser------------
+Wed, 21 Aug 2019 14:37:13-common.record_log-conftest.py-[line:81]-INFO-[日志信息]: ------------open browser------------
+Wed, 21 Aug 2019 14:37:17-common.record_log-base.py-[line:48]-INFO-[日志信息]: 加载测试地址:http://fixedserver.test.al8l.com/users/sign_in
+Wed, 21 Aug 2019 14:37:17-common.record_log-loginPage.py-[line:32]-INFO-[日志信息]: 开始登录
+Wed, 21 Aug 2019 14:37:17-common.record_log-loginPage.py-[line:41]-INFO-[日志信息]: 输入用户名:管理员
+Wed, 21 Aug 2019 14:37:17-common.record_log-conftest.py-[line:85]-INFO-[日志信息]: ------------close browser------------

@@ -52,18 +52,18 @@ def pytest_runtest_makereport(item):
         report.nodeid = report.nodeid.encode("utf-8").decode("unicode_escape")
 
 
-@pytest.mark.optionalhook
-def pytest_html_results_table_header(cells):
-    cells.insert(1, html.th('Description'))
-    cells.insert(2, html.th('Test_nodeid'))
-    cells.pop(2)
-
-
-@pytest.mark.optionalhook
-def pytest_html_results_table_row(report, cells):
-    cells.insert(1, html.td(report.description))
-    cells.insert(2, html.td(report.nodeid))
-    cells.pop(2)
+# @pytest.mark.optionalhook
+# def pytest_html_results_table_header(cells):
+#     cells.insert(1, html.th('Description'))
+#     cells.insert(2, html.th('Test_nodeid'))
+#     cells.pop(2)
+#
+#
+# @pytest.mark.optionalhook
+# def pytest_html_results_table_row(report, cells):
+#     cells.insert(1, html.td(report.description))
+#     cells.insert(2, html.td(report.nodeid))
+#     cells.pop(2)
 
 
 def _capture_screenshot():

@@ -1,8 +1,0 @@
-[32mINFO    [0m common.record_log:base.py:48 加载测试地址:http://fixedserver.test.al8l.com/users/sign_in
-[32mINFO    [0m common.record_log:loginPage.py:32 开始登录
-[32mINFO    [0m common.record_log:loginPage.py:41 输入用户名:18684720553
-[32mINFO    [0m common.record_log:loginPage.py:45 输入密码:
-[32mINFO    [0m common.record_log:loginPage.py:49 点击登录按钮
-[32mINFO    [0m common.record_log:loginPage.py:55 获取登录失败断言信息:账号或密码不能为空
-[32mINFO    [0m common.record_log:loginPage.py:77 确认成功
-[32mINFO    [0m common.record_log:test_login.py:73 测试用例test_login_format_error-18684720553-测试通过

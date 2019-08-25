@@ -9,6 +9,7 @@
 @GROUP: 878565760
 ------------------------------------
 """
+
 from configparser import (
     ConfigParser,
     NoOptionError,
@@ -42,5 +43,7 @@ class ParseConfig(ConfigParser):
 
 if __name__ == '__main__':
     from config.config import LOCATOR_PATH
-    config = ParseConfig(LOCATOR_PATH)
-    print(config('LoginPage', 'username_input'))
+
+    locator = ParseConfig(LOCATOR_PATH)
+    username_input = locator('LoginPage', 'username_input')
+    print(username_input)

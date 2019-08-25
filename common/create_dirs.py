@@ -54,5 +54,5 @@ class CreateDir(object):
 
 
 if __name__ == '__main__':
-    print(CreateDir.get_current_time())
-    print(CreateDir.get_current_date())
+    print(CreateDir.generate_filename)
+    print(CreateDir.create_dir)

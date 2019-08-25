@@ -10,6 +10,7 @@ class TestClass(object):
     @pytest.mark.tc000001
     @pytest.mark.parametrize("gradeid,name,studentlimit",c_data.add_school_class_data)
     def test_addclass1(self,gradeid,name,studentlimit):
+        """测试添加班级tc000001"""
         bodyDict = sc.add_school_class(gradeid,name,studentlimit)
         assert bodyDict["retcode"]==0
         logger.info(f'添加班级：{gradeid, name, studentlimit}成功')
@@ -21,6 +22,7 @@ class TestClass(object):
         logger.info(f'删除班级：{gradeid, name, studentlimit}成功')
 
     def test_addclass2(self,f_add_school_class):
+        """测试添加班级tc000002"""
         bodyDict = sc.add_school_class(1, '七年级2班', 60)
         assert bodyDict['retcode']==0
         logger.info('添加班级：[1, 七年级2班, 60]成功')
@@ -30,6 +32,7 @@ class TestClass(object):
         logger.info('删除班级：[1, 七年级2班, 60]成功')
 
     def test_addclass3(self,f_add_school_class):
+        """测试添加班级tc000003"""
         classlist_before = sc.list_school_class()
         bodyDict = sc.add_school_class(1,'七年级1班',60)
         assert bodyDict['retcode']==1
@@ -72,7 +75,6 @@ class TestClass(object):
         assert bodyDict['reason'] == f"id 为`{f_add_school_class+1}`的班级不存在"
 
     def test_deleteclass2(self,f_add_school_class):
-        pdb.set_trace()
         bodyDict = sc.delete_school_class(f_add_school_class)
         logger.info(f"删除id为{f_add_school_class}的班级")
         assert bodyDict['retcode'] == 0

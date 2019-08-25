@@ -12,15 +12,14 @@
 from pages.base.base import Base
 from common.parse_config import ParseConfig
 from config.config import LOCATOR_PATH
-
+from selenium import webdriver
 
 class LoginPage(Base):
 
     locator = ParseConfig(LOCATOR_PATH)
 
     url = locator('TestUrl', 'url')
-
-    username_input = locator('LoginPage', 'username_input')  # 用户名输入框
+    username_input = locator('LoginPage', 'username_input')  # 用户名输入框 实际：username_input = ('id', 'user_login')
     password_input = locator('LoginPage', 'password_input')  # 密码输入框
     login_button = locator('LoginPage', 'login_button')  # 登录按钮
     logout_btn = locator('LoginPage', 'logout_btn')  # 登出按钮

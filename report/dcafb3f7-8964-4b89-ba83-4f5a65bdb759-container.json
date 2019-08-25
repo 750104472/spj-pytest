@@ -1,1 +1,0 @@
-{"uuid": "50d3f6e3-20c1-4be7-bf44-171337bb746f", "children": ["04b19472-1d61-4dcd-9685-fe14c82be12f"], "befores": [{"name": "login_cgr", "status": "passed", "start": 1565948570080, "stop": 1565948570731}], "afters": [{"name": "login_cgr::0", "status": "passed", "start": 1565948578548, "stop": 1565948578551}], "start": 1565948570080, "stop": 1565948578551}

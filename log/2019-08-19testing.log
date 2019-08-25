@@ -194,3 +194,5 @@ Mon, 19 Aug 2019 17:58:07-common.record_log-conftest.py-[line:31]-INFO-[日志�
 Mon, 19 Aug 2019 17:58:07-common.record_log-conftest.py-[line:34]-INFO-[日志信息]: ----------TEARDOWN删除老师【"linguowei","linguowei",cfg.g_math,f_add_school_class,15851398151,"750104472@qq.com","320283828323"】成功-----------
 Mon, 19 Aug 2019 17:58:07-common.record_log-conftest.py-[line:26]-INFO-[日志信息]: ----------TEARDOWN删除[1,七年级1班,60]成功-----------
 Mon, 19 Aug 2019 17:58:08-common.record_log-conftest.py-[line:17]-INFO-[日志信息]: ----------TEARDOWN删除所有老师、班级成功-----------
+Wed, 21 Aug 2019 09:46:19-common.record_log-conftest.py-[line:25]-INFO-[日志信息]: ----------TEARDOWN删除[1,七年级1班,60]成功-----------
+Wed, 21 Aug 2019 09:46:19-common.record_log-conftest.py-[line:16]-INFO-[日志信息]: ----------TEARDOWN删除所有老师、班级成功-----------

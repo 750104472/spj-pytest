@@ -1,0 +1,42 @@
+Fri, 23 Aug 2019 21:57:28-common.record_log-conftest.py-[line:13]-INFO-[日志信息]: ----------SETUP删除所有老师、班级成功-----------
+Fri, 23 Aug 2019 21:57:28-common.record_log-test_class.py-[line:15]-INFO-[日志信息]: 添加班级：(1, '七年级1班', 60)成功
+Fri, 23 Aug 2019 21:57:28-common.record_log-test_class.py-[line:21]-INFO-[日志信息]: 删除班级：(1, '七年级1班', 60)成功
+Fri, 23 Aug 2019 21:57:29-common.record_log-conftest.py-[line:17]-INFO-[日志信息]: ----------TEARDOWN删除所有老师、班级成功-----------
+Fri, 23 Aug 2019 21:57:29-common.record_log-conftest.py-[line:13]-INFO-[日志信息]: ----------SETUP删除所有老师、班级成功-----------
+Fri, 23 Aug 2019 21:57:29-common.record_log-conftest.py-[line:23]-INFO-[日志信息]: ----------SETUP添加[1,七年级1班,60]成功,班级id为202078-----------
+Fri, 23 Aug 2019 21:57:29-common.record_log-test_class.py-[line:26]-INFO-[日志信息]: 添加班级：[1, 七年级2班, 60]成功
+Fri, 23 Aug 2019 21:57:30-common.record_log-SchoolClassLib.py-[line:110]-INFO-[日志信息]: occur 1 times
+Fri, 23 Aug 2019 21:57:30-common.record_log-test_class.py-[line:30]-INFO-[日志信息]: 删除班级：[1, 七年级2班, 60]成功
+Fri, 23 Aug 2019 21:57:30-common.record_log-conftest.py-[line:26]-INFO-[日志信息]: ----------TEARDOWN删除[1,七年级1班,60]成功-----------
+Fri, 23 Aug 2019 21:57:30-common.record_log-conftest.py-[line:17]-INFO-[日志信息]: ----------TEARDOWN删除所有老师、班级成功-----------
+Fri, 23 Aug 2019 21:57:31-common.record_log-conftest.py-[line:13]-INFO-[日志信息]: ----------SETUP删除所有老师、班级成功-----------
+Fri, 23 Aug 2019 21:57:31-common.record_log-conftest.py-[line:23]-INFO-[日志信息]: ----------SETUP添加[1,七年级1班,60]成功,班级id为202080-----------
+Fri, 23 Aug 2019 21:57:31-common.record_log-conftest.py-[line:26]-INFO-[日志信息]: ----------TEARDOWN删除[1,七年级1班,60]成功-----------
+Fri, 23 Aug 2019 21:57:31-common.record_log-conftest.py-[line:17]-INFO-[日志信息]: ----------TEARDOWN删除所有老师、班级成功-----------
+Fri, 23 Aug 2019 21:57:32-common.record_log-conftest.py-[line:13]-INFO-[日志信息]: ----------SETUP删除所有老师、班级成功-----------
+Fri, 23 Aug 2019 21:57:32-common.record_log-conftest.py-[line:23]-INFO-[日志信息]: ----------SETUP添加[1,七年级1班,60]成功,班级id为202082-----------
+Fri, 23 Aug 2019 21:57:32-common.record_log-test_class.py-[line:43]-INFO-[日志信息]: 修改id为202082的班级，班级名称修改为'啦啦啦',人数修改为70
+Fri, 23 Aug 2019 21:57:32-common.record_log-conftest.py-[line:26]-INFO-[日志信息]: ----------TEARDOWN删除[1,七年级1班,60]成功-----------
+Fri, 23 Aug 2019 21:57:33-common.record_log-conftest.py-[line:17]-INFO-[日志信息]: ----------TEARDOWN删除所有老师、班级成功-----------
+Fri, 23 Aug 2019 21:57:33-common.record_log-conftest.py-[line:13]-INFO-[日志信息]: ----------SETUP删除所有老师、班级成功-----------
+Fri, 23 Aug 2019 21:57:33-common.record_log-conftest.py-[line:23]-INFO-[日志信息]: ----------SETUP添加[1,七年级1班,60]成功,班级id为202083-----------
+Fri, 23 Aug 2019 21:57:33-common.record_log-test_class.py-[line:51]-INFO-[日志信息]: 添加班级：[1, 七年级2班, 60]成功
+Fri, 23 Aug 2019 21:57:33-common.record_log-test_class.py-[line:54]-INFO-[日志信息]: 修改id为202084的班级，班级名称修改为'七年级1班',人数修改为60
+Fri, 23 Aug 2019 21:57:34-common.record_log-conftest.py-[line:26]-INFO-[日志信息]: ----------TEARDOWN删除[1,七年级1班,60]成功-----------
+Fri, 23 Aug 2019 21:57:34-common.record_log-conftest.py-[line:17]-INFO-[日志信息]: ----------TEARDOWN删除所有老师、班级成功-----------
+Fri, 23 Aug 2019 21:57:34-common.record_log-conftest.py-[line:13]-INFO-[日志信息]: ----------SETUP删除所有老师、班级成功-----------
+Fri, 23 Aug 2019 21:57:35-common.record_log-conftest.py-[line:23]-INFO-[日志信息]: ----------SETUP添加[1,七年级1班,60]成功,班级id为202085-----------
+Fri, 23 Aug 2019 21:57:35-common.record_log-test_class.py-[line:64]-INFO-[日志信息]: 修改id为202086的班级，班级名称修改为'啦啦啦',人数修改为70
+Fri, 23 Aug 2019 21:57:35-common.record_log-conftest.py-[line:26]-INFO-[日志信息]: ----------TEARDOWN删除[1,七年级1班,60]成功-----------
+Fri, 23 Aug 2019 21:57:35-common.record_log-conftest.py-[line:17]-INFO-[日志信息]: ----------TEARDOWN删除所有老师、班级成功-----------
+Fri, 23 Aug 2019 21:57:36-common.record_log-conftest.py-[line:13]-INFO-[日志信息]: ----------SETUP删除所有老师、班级成功-----------
+Fri, 23 Aug 2019 21:57:36-common.record_log-conftest.py-[line:23]-INFO-[日志信息]: ----------SETUP添加[1,七年级1班,60]成功,班级id为202086-----------
+Fri, 23 Aug 2019 21:57:36-common.record_log-test_class.py-[line:70]-INFO-[日志信息]: 删除id为202087的班级
+Fri, 23 Aug 2019 21:57:36-common.record_log-conftest.py-[line:26]-INFO-[日志信息]: ----------TEARDOWN删除[1,七年级1班,60]成功-----------
+Fri, 23 Aug 2019 21:57:36-common.record_log-conftest.py-[line:17]-INFO-[日志信息]: ----------TEARDOWN删除所有老师、班级成功-----------
+Fri, 23 Aug 2019 21:57:37-common.record_log-conftest.py-[line:13]-INFO-[日志信息]: ----------SETUP删除所有老师、班级成功-----------
+Fri, 23 Aug 2019 21:57:37-common.record_log-conftest.py-[line:23]-INFO-[日志信息]: ----------SETUP添加[1,七年级1班,60]成功,班级id为202087-----------
+Fri, 23 Aug 2019 21:57:49-common.record_log-test_class.py-[line:76]-INFO-[日志信息]: 删除id为202087的班级
+Fri, 23 Aug 2019 21:57:49-common.record_log-test_class.py-[line:76]-INFO-[日志信息]: 删除成功后，列表为空
+Fri, 23 Aug 2019 21:57:49-common.record_log-conftest.py-[line:26]-INFO-[日志信息]: ----------TEARDOWN删除[1,七年级1班,60]成功-----------
+Fri, 23 Aug 2019 21:57:49-common.record_log-conftest.py-[line:17]-INFO-[日志信息]: ----------TEARDOWN删除所有老师、班级成功-----------
