@@ -3,109 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="37bc34ec-b33f-4ac0-8bd9-b7144c3a66d0" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cases/apicases/test_class.py" beforeDir="false" afterPath="$PROJECT_DIR$/cases/apicases/test_class.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cases/apicases/test_teacher.py" beforeDir="false" afterPath="$PROJECT_DIR$/cases/apicases/test_teacher.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cases/uicases/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/cases/uicases/conftest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cases/uicases/geckodriver.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/create_dirs.py" beforeDir="false" afterPath="$PROJECT_DIR$/common/create_dirs.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/parse_config.py" beforeDir="false" afterPath="$PROJECT_DIR$/common/parse_config.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/record_log.py" beforeDir="false" afterPath="$PROJECT_DIR$/common/record_log.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/config/config.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/geckodriver.log" beforeDir="false" afterPath="$PROJECT_DIR$/geckodriver.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/2019-08-19testing.log" beforeDir="false" afterPath="$PROJECT_DIR$/log/2019-08-19testing.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/loginPage.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/loginPage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pytest.ini" beforeDir="false" afterPath="$PROJECT_DIR$/pytest.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/report.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/b5727c69-51b4-463e-a9ed-f696485fa88f-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/b877d0d9-f550-4440-ae86-4bdc6a49462a-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/bb41f97c-5d90-44f0-96ea-29675766b614-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/be921e5f-b1ad-4f88-836c-fc30b658dfd8-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/c6b77ad0-5614-4226-ba25-300972e053ea-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/c7deedb4-bba9-4a5d-8052-37e91d11e169-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/cbc2e033-3d67-4980-85d5-a7790ca6a21d-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/cd044351-d0bf-44ac-85cd-c6632c636720-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/d0edcfbd-1243-46c2-84cf-9911d6d40696-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/d641f611-5464-4714-8e16-b5b673964b2c-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/d9216a75-c68c-48ee-99a4-a18be4f4f769-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/dae2c5ab-58bc-4e00-833a-c178bd4832ee-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/db4c738b-83dd-4d8a-b8bf-1975956d143b-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/dcafb3f7-8964-4b89-ba83-4f5a65bdb759-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/e0af5867-c9bf-42e4-9bef-8aeb3ce63881-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/e0d63300-ad71-4fd8-b26b-e4c66f761161-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/e9692d19-5065-4cd1-bd66-b52bda039250-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/ec294747-3bb3-470e-8b2e-5b12e7a9fe00-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/eee502f8-e5ea-447a-bd96-b7b79850f8e4-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/f06eca87-f4b9-439a-b077-d64395c974bf-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/f2459e74-68e3-480b-a2f0-4f1dbb373621-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/f4051966-a580-45b6-94a8-9f568d6beb24-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/f7114b9b-3090-4669-a116-ab9884fdaf82-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/fbfca9b6-17ce-42fb-ae89-bd4cc25756cc-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/ff5de2cb-3982-4593-9811-0355f286f0b4-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/app.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/data/attachments/2118caafa8824885.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/data/attachments/4088d3f39516f253.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/data/attachments/7f67733a6e864c0b.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/data/attachments/86906a10d600b334.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/data/attachments/8bdc46a9dde4ae35.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/data/attachments/93bcc1ce9ac44cdf.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/data/attachments/bdfb16ecdf3075d4.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/data/attachments/c3a5ce6ceb817381.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/data/attachments/d18c2b65daa363ea.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/data/attachments/dc066d707e491e15.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/data/attachments/ebb7686aac671235.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/data/behaviors.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/data/behaviors.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/data/categories.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/data/categories.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/data/packages.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/data/suites.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/data/suites.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/data/test-cases/362534b6576c7d84.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/data/test-cases/45cf348c9ad14985.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/data/test-cases/4fb8dcecd305437a.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/data/test-cases/770a675b007c01ab.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/data/test-cases/b1e3b61eec2d75fa.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/data/test-cases/c2d1d6806698c08b.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/data/test-cases/cbb74fae00ba75fc.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/data/test-cases/d92ae11ef7bb74f0.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/data/test-cases/dd9326f392b63b93.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/data/test-cases/ef06b97ced5a9427.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/data/test-cases/f1478427838c04d4.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/data/timeline.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/export/influxDbData.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/export/mail.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/export/prometheusData.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/history/categories-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/history/duration-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/history/history-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/history/history.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/history/retry-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/plugins/behaviors/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/plugins/packages/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/plugins/screen-diff/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/plugins/screen-diff/styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/widgets/behaviors.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/widgets/categories-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/widgets/categories.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/widgets/duration-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/widgets/duration.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/widgets/environment.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/widgets/executors.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/widgets/history-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/widgets/launch.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/widgets/retry-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/widgets/severity.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/widgets/status-chart.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/widgets/suites.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/widgets/summary.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/report.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/042427a9-5e83-433e-9a5e-c6daf51a95cc-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/8cc7903a-0ddd-464c-ba93-8223f23d5e18-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/9759f4bb-d93d-41de-aead-10398e873b8d-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/9afebb27-6500-4e4e-8198-54be61c0ab13-container.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/run.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -121,7 +19,7 @@
     <SUITE FILE_PATH="coverage/spj_pytest$conftest__1_.coverage" NAME="conftest (1) Coverage Results" MODIFIED="1566134628861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cases/apicases" />
     <SUITE FILE_PATH="coverage/spj_pytest$pytest_in_test_teacher_py.coverage" NAME="pytest in test_teacher.py Coverage Results" MODIFIED="1566203363804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cases/apicases" />
     <SUITE FILE_PATH="coverage/spj_pytest$pytest_for_test_class_TestClass_test_addclass1.coverage" NAME="pytest for test_class.TestClass.test_addclass1 Coverage Results" MODIFIED="1566090832245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cases/apicases" />
-    <SUITE FILE_PATH="coverage/spj_pytest$run.coverage" NAME="run Coverage Results" MODIFIED="1566651167117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spj_pytest$run.coverage" NAME="run Coverage Results" MODIFIED="1566826109892" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/spj_pytest$pytest_in_test_login_py.coverage" NAME="pytest in test_login.py Coverage Results" MODIFIED="1566368547559" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cases/uicases" />
     <SUITE FILE_PATH="coverage/spj_pytest$SchoolClassLib.coverage" NAME="SchoolClassLib Coverage Results" MODIFIED="1566651014728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/api" />
     <SUITE FILE_PATH="coverage/spj_pytest$modelplatesPage.coverage" NAME="modelplatesPage Coverage Results" MODIFIED="1565685180833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pages" />
@@ -147,88 +45,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/run.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" selection-start-line="18" selection-end-line="18" />
+            <state relative-caret-position="105">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
               <folding>
-                <element signature="e#16#29#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cases/uicases/conftest.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-283">
-              <caret line="36" column="19" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="19" />
-              <folding>
-                <element signature="e#285#298#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cases/uicases/test_login.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="298">
-              <caret line="25" column="26" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="26" />
-              <folding>
-                <element signature="e#287#300#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/datas/login_datas.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-95">
-              <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/api/SchoolClassLib.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
-              <folding>
-                <element signature="e#0#15#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cases/apicases/test_class.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="794">
-              <caret line="71" column="63" selection-start-line="71" selection-start-column="63" selection-end-line="71" selection-end-column="63" />
-              <folding>
-                <element signature="e#0#45#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/datas/schoolclasslib_datas.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/common/send_mail.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="338">
-              <caret line="60" column="30" selection-start-line="60" selection-start-column="30" selection-end-line="60" selection-end-column="30" />
-              <folding>
-                <element signature="e#24#38#0" expanded="true" />
+                <element signature="e#0#13#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -322,9 +142,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="13" />
-    <option name="y" value="94" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="31" />
+    <option name="y" value="59" />
     <option name="width" value="1588" />
     <option name="height" value="872" />
   </component>
@@ -342,11 +162,6 @@
             <path>
               <item name="spj_pytest" type="b2602c69:ProjectViewProjectNode" />
               <item name="spj_pytest" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spj_pytest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spj_pytest" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="spj_pytest" type="b2602c69:ProjectViewProjectNode" />
@@ -543,7 +358,9 @@
       <workItem from="1565591104741" duration="114789000" />
       <workItem from="1566368048260" duration="1433000" />
       <workItem from="1566445020888" duration="2821000" />
-      <workItem from="1566564851968" duration="13195000" />
+      <workItem from="1566564851968" duration="13333000" />
+      <workItem from="1566806861222" duration="6000" />
+      <workItem from="1566824847300" duration="1019000" />
     </task>
     <servers />
   </component>
@@ -580,13 +397,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="132955000" />
+    <option name="totallyTimeSpent" value="134118000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="13" y="94" width="1588" height="872" extended-state="1" />
+    <frame x="31" y="59" width="1588" height="872" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12095731" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12354463" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -609,13 +426,13 @@
       <window_info anchor="right" id="Database" order="4" />
     </layout>
     <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1875" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12354463" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3292978" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33120206" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39951575" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32820514" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33589745" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39871794" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -701,9 +518,7 @@
     <entry file="file://$PROJECT_DIR$/cases/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/cases/uicases/geckodriver.log">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/cases/uicases/geckodriver.log" />
     <entry file="file://$PROJECT_DIR$/cases/assets/style.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -812,16 +627,6 @@
           <caret line="138" column="27" selection-start-line="138" selection-start-column="27" selection-end-line="138" selection-end-column="27" />
           <folding>
             <element signature="e#0#20#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cases/apicases/conftest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="34" selection-start-line="34" selection-end-line="34" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -954,74 +759,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/common/send_mail.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="60" column="30" selection-start-line="60" selection-start-column="30" selection-end-line="60" selection-end-column="30" />
-          <folding>
-            <element signature="e#24#38#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/SchoolClassLib.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datas/login_datas.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-95">
-          <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datas/schoolclasslib_datas.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cases/apicases/test_class.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="794">
-          <caret line="71" column="63" selection-start-line="71" selection-start-column="63" selection-end-line="71" selection-end-column="63" />
-          <folding>
-            <element signature="e#0#45#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cases/uicases/conftest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-283">
-          <caret line="36" column="19" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="19" />
-          <folding>
-            <element signature="e#285#298#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/common/create_dirs.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="134">
           <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cases/uicases/test_login.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
-          <caret line="25" column="26" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="26" />
-          <folding>
-            <element signature="e#287#300#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1032,12 +773,86 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/datas/login_datas.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/SchoolClassLib.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cases/apicases/test_class.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1005">
+          <caret line="71" column="63" selection-start-line="71" selection-start-column="63" selection-end-line="71" selection-end-column="63" />
+          <folding>
+            <element signature="e#0#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datas/schoolclasslib_datas.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cases/apicases/conftest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cases/uicases/conftest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="566">
+          <caret line="104" column="33" selection-start-line="104" selection-start-column="33" selection-end-line="104" selection-end-column="33" />
+          <folding>
+            <element signature="e#285#298#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/send_mail.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="59" column="58" lean-forward="true" selection-start-line="59" selection-start-column="12" selection-end-line="59" selection-end-column="58" />
+          <folding>
+            <element signature="e#24#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cases/uicases/test_login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="25" column="26" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="26" />
+          <folding>
+            <element signature="e#287#300#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/run.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        <state relative-caret-position="105">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
           <folding>
-            <element signature="e#16#29#0" expanded="true" />
+            <element signature="e#0#13#0" expanded="true" />
           </folding>
         </state>
       </provider>
